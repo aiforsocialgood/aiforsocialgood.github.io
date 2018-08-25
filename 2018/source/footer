@@ -1,0 +1,28 @@
+      </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>Important Dates</h4>
+<p>Deadline for submissions : <br>October 2nd, 2018</p>
+<p>Notification of acceptance : <br>October 16th, 2018</p>
+<p>Camera-ready submission: <br>TBD</p>
+<p>Workshop date : <br>TBD</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Sponsors</h4>
+            <ol class="list-unstyled">
+              <li><a href="#">TBD</a></li>
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>AI for Social Good Workshop NIPS2018</p>
+    </footer>
+
+  </body>
+</html>

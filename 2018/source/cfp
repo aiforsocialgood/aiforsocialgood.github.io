@@ -1,0 +1,59 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Call for Papers</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post">
+
+            <p>
+            
+<b>Aim and scope</b><br>
+Submissions are solicited for the NIPS 2018 AI for Social Good workshop focusing on social problems for which artificial intelligence has the potential to offer meaningful solutions.
+<br><br>
+Subject areas address opportunities for AI to meaningfully impact society by reducing human suffering and improving social welfare and justice. They include:
+<ul>
+<li>Education
+<li>Protecting democracy
+<li>Urban planning
+<li>Assistive technology for people with disabilities
+<li>Health
+<li>Agriculture
+<li>Environmental sustainability
+<li>Economic, social, and gender inequality
+<li>Social welfare and justice
+<li>Ethics, Privacy, and Security 
+</ul>
+<br>
+Each of these themes are inspired by United Nations Sustainable Development Goals (SDGs), a set of seventeen objectives that must be addressed in order to bring the world onto a more equitable, prosperous, and sustainable path.
+<br><br>
+We accept papers that focus on applying machine learning to any of the workshop themes or more broadly to any of the UN SDGs. We encourage submissions that have interdisciplinary collaborations between technical and social sciences domain. The models or approaches presented do not necessarily need to have outstanding theoretical novelty, but should demonstrate potential for a meaningful social impact. We invite two types of submissions:
+<br><Br>
+<ul>
+<li><b>(Four page abstract + citations)</b> for oral and/or poster presentation. The short papers should focus on past and current work, showcasing actual results and demonstrating beneficial effects on society. We also accept abstracts of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.
+<li><b>(Two page abstract + citations)</b> which will present a specific solution which will be discussed during round-table events with stakeholders, scientists, and funders. This two page abstract should highlight ideas that have not yet been applied in practice. The workshop provides a platform for developing these abstracts into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. 
+</ul>
+
+<br>
+<b>Submission Details </b><br>
+All submissions must be in PDF format. Submissions are limited to four content pages for the short papers and one content page for the specific solution, including all figures and tables, in the NIPS “submission” style for the short papers and a single page abstract template for the one pages; additional pages containing only references are allowed. Reviewing will be single blind. Camera-ready papers will be due in advance of the workshop. Submissions will be considered non-archival and can be submitted elsewhere after the conference.
+<br><br>
+Author guidelines can be found here: 
+<br>
+Four page abstract papers (<a href="https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss">Overleaf template</a>)
+<br>
+Two page abstract papers (<a href="https://www.overleaf.com/latex/templates/simple-single-page-abstract-template/kwzyytrntryp">Overleaf template</a>) or a similar looking PDF
+<br><br>
+
+<b>Submission Site</b><br>
+Submit at: TBD
+
+
+
+
+            
+            </p>
+          </div><!-- /.blog-post -->
+          
