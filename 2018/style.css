@@ -164,3 +164,23 @@ h6, .h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+.person {
+	
+	min-height: 180px;
+	
+}
+.person h4 {
+	margin-top: 10px;
+	font-size:9pt;
+	text-align:center;
+}
+.person p {
+    font-size:8pt;
+    text-align:center;
+}
+
+.person img {
+	width:75px;
+	height:75px;
+}
