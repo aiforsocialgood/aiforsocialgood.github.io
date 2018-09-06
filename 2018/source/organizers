@@ -63,6 +63,15 @@
 </div>
 
 <div class="row">
+<h3>Finance Chair</h3>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle" src="img/myriam.jpg"></center>
+	  <h4>Myriam Cote</h4>
+	  <p>MILA</p>
+	</div>
+</div>
+
+<div class="row">
 <h3>Civic Engagement Chair</h3>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle" src="img/valentine.jpg"></center>
@@ -182,6 +191,11 @@
 	  <center><img class="img-circle" src="img/arya.png"></center>
 	  <h4>Arya Farahi</h4>
 	  <p>Carnegie Mellon University</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle" src="img/myriam.jpg"></center>
+	  <h4>Myriam Cote</h4>
+	  <p>MILA</p>
 	</div>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle" src="img/yoshua.jpg"></center>
