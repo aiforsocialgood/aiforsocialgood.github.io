@@ -85,7 +85,7 @@ h6, .h6 {
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: normal;
 }
 .blog-description {
@@ -184,4 +184,9 @@ h6, .h6 {
 	width:75px;
 	height:75px;
 	
+}
+
+.dates p {
+    padding-left: 1.5em;
+    text-indent:-1.5em;
 }

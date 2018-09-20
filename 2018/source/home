@@ -1,7 +1,6 @@
       <div class="blog-header">
       
-      <center><img src="logo/logo2.png" style="width:400px;"/></center>
-        <h1 class="blog-title">AI for Social Good</h1>
+      <center><img src="logo/logo2.png" style="width:400px;" alt="AI for Social Good"/></center>
         <p class="lead blog-description">NIPS2018 Workshop</p>
       </div>
 
