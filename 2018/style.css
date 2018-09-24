@@ -190,3 +190,24 @@ h6, .h6 {
     padding-left: 1.5em;
     text-indent:-1.5em;
 }
+
+.org-logos img {
+	
+	width:200px;
+	padding:10px;
+}
+
+
+.schedule .row h4 {
+    font-weight: bold;
+}
+
+.schedule .row p {
+    padding-left: 1.5em;
+}
+.schedule .row .speaker p {
+    color:gray;
+    font-size: small;
+    padding-top:5px;
+}
+
