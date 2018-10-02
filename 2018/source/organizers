@@ -212,6 +212,26 @@
 	</div>
 </div>
 
+
+<div class="row org-logos">
+<h3>We thank the following organizations for allowing their members to participate</h3>
+
+<div class="logos-allowing">
+<img class="logo" src="other-logos/mila.png"/>
+<img class="logo" src="other-logos/syntiant.png"/>
+<img class="logo" src="other-logos/cmu.png"/>
+<img class="logo" src="other-logos/waterlooai.png"/>
+<img class="logo" src="other-logos/aiia.jpg"/>
+</div>
+
+<script>
+$(".logos-allowing").html($(".logos-allowing .logo").sort(function(){
+    return Math.random()-0.5;
+}));
+
+</script>
+</div>
+
             
             </p>
           </div><!-- /.blog-post -->
