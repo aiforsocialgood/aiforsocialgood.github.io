@@ -167,7 +167,7 @@ h6, .h6 {
 
 .person {
 	
-	min-height: 180px;
+	min-height: 160px;
 	
 }
 .person h4 {
@@ -210,4 +210,5 @@ h6, .h6 {
     font-size: small;
     padding-top:5px;
 }
+
 
