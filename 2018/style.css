@@ -198,17 +198,32 @@ h6, .h6 {
 }
 
 
-.schedule .row h4 {
+.schedule-item h4 {
     font-weight: bold;
 }
 
-.schedule .row p {
+.schedule-item p {
     padding-left: 1.5em;
+    text-align: justify;
 }
-.schedule .row .speaker p {
+
+.schedule-item .speaker {
+	padding:0px;
+}
+
+.schedule-item .speaker p {
     color:gray;
     font-size: small;
-    padding-top:5px;
+    padding:0px;
+    padding-top:0px;
+}
+
+.schedule-item {
+	padding:8px;
 }
 
 
+.schedule-item .speaker-org {
+    padding:0px;
+       text-align:center;
+}
