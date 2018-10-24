@@ -109,11 +109,11 @@ ethical considerations in A/IS.
 <h4>1:00 Panel Discussion #2: Civil society organizations and other actors</h4>
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/milind.jpg"></center>
 	  <h4 class="speaker-name">Milind Tambe </h4>
 	  <p class="speaker-org">USC Dep of Eng/Social Work</p>
 	</div>
-	<p class="speaker-bio">TBD
+	<p class="speaker-bio">Milind Tambe is a Professor in Engineering at the University of Southern California and the Founding Co-Director of the USC Center for Artificial Intelligence in Society, where his research focuses on advancing AI and multiagent systems research for Social Good. He is recipient of the International Joint Conference on AI John McCarthy Award, ACM/SIGAI Autonomous Agents Research Award, and he is a fellow of AAAI and ACM.
 	</p>
 	</div>
 	<br>
@@ -121,9 +121,9 @@ ethical considerations in A/IS.
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
 	  <h4 class="speaker-name">Michael Skirpan</h4>
-	  <p class="speaker-org">Carnegie Mellon + Dir outreach center</p>
+	  <p class="speaker-org">Carnegie Mellon University</p>
 	</div>
-	<p class="speaker-bio">TBD
+	<p class="speaker-bio">Executive Director of Community Forge, Special Faculty at Carnegie Mellon University, and Co-Founder of Probable Models. As a community organizer, Michael is interested in models of equitable and inclusive development working in historically marginalized communities. As a technologist, he is focused on how to effectively educate stakeholders on the ethical challenges created by emerging technologies.
 </p>
 	</div>
 	<div class="col-xs-12 speaker">
@@ -137,6 +137,21 @@ discovering patterns that uncover insights from data. She is the Head of Data Sc
 Talking.
 	</p>
 	</div>
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/dongwoo.jpg"></center>
+	  <h4 class="speaker-name">Dongwoo Kim</h4>
+	  <p class="speaker-org">Asia Pacific Foundation of Canada</p>
+	</div>
+	<p class="speaker-bio">Post-Graduate Research Scholar at Asia Pacific Foundation of Canada. He currently works on a research project that analyzes AI policies in East Asia and their implications for Canada. His report on Chinese, Japanese, and South Korean AI policies is expected to be released before the end of the year.
+	</p>
+	</div>
+	
+	
+	
+	
+	
+	
 </div>
 
 <div class="schedule-item row">
