@@ -201,10 +201,23 @@ Talking.
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/margaret.jpg"></center>
-	  <h4 class="speaker-name">Margaret Mitchell </h4>
+	  <h4 class="speaker-name">Margaret Mitchell</h4>
 	  <p class="speaker-org">Google</p>
 	</div>
 	<p class="speaker-bio">A Senior Research Scientist and leads the Ethical AI team within Google Research.  Her research is interdisciplinary, combining computer vision, natural language processing, statistical methods, deep learning, and cognitive science; and she applies her work in clinical and assistive domains. 
+		</p>
+	</div>
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/brittny.jpg"></center>
+	  <h4 class="speaker-name">Brittny Saunders</h4>
+	  <p class="speaker-org">NYC Commission on Human Rights</p>
+	</div>
+	<p class="speaker-bio">
+Brittny Saunders is Deputy Commissioner for Strategic Initiatives at the NYC Commission on Human
+Rights. At the Commission, Brittny manages key inter-agency partnerships and special
+projects related to data-driven discrimination and racial justice among others.  Before joining the
+Commission, Brittny worked for the Office of the Mayor, most recently as Acting Counsel to the Mayor. 
 		</p>
 	</div>
 </div>
