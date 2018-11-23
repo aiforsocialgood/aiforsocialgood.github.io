@@ -43,6 +43,16 @@ background-color:gray
 </p>
 	
 	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Claire Babirye</h4>
+	  <p class="speaker-org">Uganda Technology and Management University</p>
+	</div>
+	<p class="speaker-bio">
+</p>
+	
+	</div>
 </div>
 
 <div class="schedule-item row">
