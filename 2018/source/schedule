@@ -64,15 +64,49 @@ numerous publications.
 
 
 <div class="schedule-item row">
-<h4>9:45 Contributed Talks</h4>
+<h4>9:45 Contributed Talk: Rural Infrastructure Health Monitoring System: Using AI to Increase Rural Water Supply Reliability</h4>
 	<p>
 		
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
-	  <h4 class="speaker-name">TBD</h4>
-	  <p class="speaker-org"></p>
+	  <h4 class="speaker-name">Heloise Greeff</h4>
+	  <p class="speaker-org">University of Oxford</p>
+	</div>
+	<p class="speaker-bio">
+	
+	</p>
+	</div>
+</div>
+
+<div class="schedule-item row">
+<h4>10:00 Contributed Talk: Exploiting Data and Human Knowledge for Predicting Wildlife Poaching</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Swaminathan Gurumurthy</h4>
+	  <p class="speaker-org">Carnegie Mellon University</p>
+	</div>
+	<p class="speaker-bio">
+	
+	</p>
+	</div>
+</div>
+
+<div class="schedule-item row">
+<h4>10:15 Contributed Talk: Inferring Work Task Automatability from AI Expert Evidence</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Logan Graham</h4>
+	  <p class="speaker-org">University of Oxford</p>
 	</div>
 	<p class="speaker-bio">
 	
@@ -182,14 +216,14 @@ Talking.
 </div>
 
 <div class="schedule-item row">
-<h4>2:00 Contributed Talks</h4>
+<h4>2:00 Use case: Anti-Malaria Operations Planning and Management</h4>
 	<p>
 		
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
-	  <h4 class="speaker-name">TBD</h4>
+	  <h4 class="speaker-name">Arnon Houri-Yafin</h4>
 	  <p class="speaker-org"></p>
 	</div>
 	<p>
@@ -197,6 +231,58 @@ Talking.
 	</p>
 	</div>
 </div>
+
+<div class="schedule-item row">
+<h4>2:15 Use case: A Wearable, Biomarker-Tracking Device Platform Using Machine Learning to Predict and Prevent Opioid Relapses and Overdoses in Real Time</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Ellie Gordon</h4>
+	  <p class="speaker-org"></p>
+	</div>
+	<p>
+	
+	</p>
+	</div>
+</div>
+
+<div class="schedule-item row">
+<h4>2:30 Contributed Talk: Machine Learning-Based Screening for Fetal Alcohol Spectrum Disorder</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Chen Zhang</h4>
+	  <p class="speaker-org">University of Southern California</p>
+	</div>
+	<p>
+	
+	</p>
+	</div>
+</div>
+
+<div class="schedule-item row">
+<h4>2:45 Contributed Talk: Enabling better pregnancy monitoring: The case of point-of-care diagnosis in fetal echocardiography</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Arijit Patra</h4>
+	  <p class="speaker-org">University of Oxford</p>
+	</div>
+	<p>
+	
+	</p>
+	</div>
+</div>
+
 
 <div class="schedule-item row">
 <h4>3:00 Poster session / Coffee break</h4>
@@ -239,15 +325,32 @@ Commission, Brittny worked for the Office of the Mayor, most recently as Acting 
 </div>
 
 <div class="schedule-item row">
-<h4>4:30 Contributed Talks</h4>
+<h4>4:30 Contributed Talk: Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia</h4>
 	<p>
 		
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
-	  <h4 class="speaker-name">TBD</h4>
-	  <p class="speaker-org"></p>
+	  <h4 class="speaker-name">Aniket Kesari</h4>
+	  <p class="speaker-org">UC Berkeley</p>
+	</div>
+	<p>
+	
+	</p>
+	</div>
+</div>
+
+<div class="schedule-item row">
+<h4>4:45 Contributed Talk: Inverse Optimal Power Flow: Assessing the Vulnerability of Power Grid Data</h4>
+	<p>
+		
+	</p>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <h4 class="speaker-name">Priya L Donti</h4>
+	  <p class="speaker-org">Carnegie Mellon University</p>
 	</div>
 	<p>
 	
