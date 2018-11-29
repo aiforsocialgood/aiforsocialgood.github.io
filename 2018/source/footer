@@ -28,14 +28,22 @@
               <span class="sponsorlogos">
               <img class="sponsorlogo" src="other-logos/mila.png"/><br>
               <img class="sponsorlogo" src="other-logos/ivado.png"/><br>
-              <img class="sponsorlogo" src="other-logos/integrate-ai.png"/>
+              <img class="sponsorlogo" src="other-logos/integrate-ai.png"/><br>
               <img class="sponsorlogo" src="other-logos/google.png"/><br>
+              <br>
               </span>
               </li>
               <li>Donor Level<br>
               <span class="sponsorlogos">
               <img class="sponsorlogo" src="other-logos/imagia.png"/><br>
-              <img class="sponsorlogo" src="other-logos/borealis-ai.svg"/>
+              <img class="sponsorlogo" src="other-logos/borealis-ai.svg"/><br>
+              <br>
+              </span>
+              </li>
+              <li>Lunch Sponsor<br>
+              <span class="sponsorlogos">
+              <img class="sponsorlogo" src="other-logos/element-ai.jpg"/><br>
+              <br>
               </span>
               </li>
             </ol>
