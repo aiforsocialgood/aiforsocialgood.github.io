@@ -307,7 +307,12 @@ these tools to the current and future needs of malaria elimination campaigns.
 <div class="schedule-item row">
 <h4>2:15 Use case: A Wearable, Biomarker-Tracking Device Platform Using Machine Learning to Predict and Prevent Opioid Relapses and Overdoses in Real Time</h4>
 	<p>
-
+For individuals with substance use disorder (SUD), the propensity for returning to drug use (relapsing) is high, 
+topping 90 percent for heroin users. The current methods and tools to counter drug addiction have been inefficient, 
+resulting in frequent relapses and increasing overdose rates. Historically, these tools have been retrospective, 
+with the intervention happening far too late and with a lack of focus on eliminating trigger scenarios. The goal at 
+Behaivior is to refocus the recovery process onto the status of the individual before relapse occurs, observing both 
+internal and external factors that affect craving states in real time.
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
