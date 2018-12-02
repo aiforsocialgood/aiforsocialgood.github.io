@@ -101,12 +101,110 @@ For both types of emergencies, well-annotated, reliable maps can provide emergen
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" ></center>
 	  <h4 class="speaker-name">Alexei Bastidas</h4>
-	  <p class="speaker-org">Intel AI Lab</p>
+	  <p class="speaker-org">Intel Corporation</p>
 	</div>
 	<p class="speaker-bio">
 	</p>
 	
 	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Matthew Beale</h4>
+	  <p class="speaker-org">Intel Corporation</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Yoshua Bengio</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Anna Bethke</h4>
+	  <p class="speaker-org">Intel</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Pablo Fonseca</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Jason Jo</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Dale Kunce</h4>
+	  <p class="speaker-org">American Red Cross</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Sean McPherson</h4>
+	  <p class="speaker-org">Intel Corporation</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Vincent Michalski</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	<div class="speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" ></center>
+	  <h4 class="speaker-name">Anthony Ortiz</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	</p>
+	
+	</div>
+	
+	
+	
+	
+	
+	
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" ></center>
@@ -127,16 +225,7 @@ For both types of emergencies, well-annotated, reliable maps can provide emergen
 	</p>
 	
 	</div>
-	<div class="speaker">
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" ></center>
-	  <h4 class="speaker-name">Anna Bethke</h4>
-	  <p class="speaker-org">Intel</p>
-	</div>
-	<p class="speaker-bio">
-	</p>
-	
-	</div>
+
 </div>
 
 <div class="schedule-item row">

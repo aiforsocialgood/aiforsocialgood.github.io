@@ -44,7 +44,7 @@
   <tr>
     <td class="tg-0lax">46</td>
     <td class="tg-0lax">Rural Infrastructure Health Monitoring System: Using AI to Increase Rural Water Supply Reliability</td>
-    <td class="tg-0lax">Heloise Greeff (University of Oxford)*</td>
+    <td class="tg-0lax">Heloise Greeff (University of Oxford)* ; Achut Manandhar   (University of Oxford);  Patrick Tomson  (University of Oxford); Rob Hope  (University of Oxford);  David Clifton (University of Oxford)</td>
   </tr>
   <tr>
     <td class="tg-0lax">62</td>
@@ -54,7 +54,7 @@
   <tr>
     <td class="tg-0lax">105</td>
     <td class="tg-0lax">Machine Learning-Based Screening for Fetal Alcohol Spectrum Disorder</td>
-    <td class="tg-0lax">Chen Zhang (University of Southern California)*</td>
+    <td class="tg-0lax">Chen Zhang (University of Southern California)*; Laurent Itti (University of Southern California); Po-He Tseng (Duke University); Angelina Paolozza (Queen's University); James N. Reynolds (Queen's University); Douglas P. Munoz (Queen's University)</td>
   </tr>
   <tr>
     <td class="tg-0lax">118</td>
@@ -77,6 +77,13 @@
     <td class="tg-0lax">Emotionally-Sensitive AI-driven Android Interactions Improve Social Welfare Through Helping People Access Self-Transcendent States</td>
     <td class="tg-0lax">Julia Mossbridge (Northwestern University)*; Ben Goertzel (OpenCog); Edward Monroe (Lia, Inc.); Ralf Mayet (Hanson Robotics); Goldie Nejat (University of Toronto); David Hanson (Hanson Robotics); Gino Yu (Hong Kong Polytechnic U)</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">19</td>
+    <td class="tg-0lax">A large-scale crowd-sourced analysis of abuse against women journalists and politicians on Twitter</td>
+    <td class="tg-0lax">Laure Delisle (Element AI)*; Alfredo Kalaitzis (Element AI); Krzysztof Majewski (Element AI) ; Milena Marin (Amnesty International); Julien Cornebise (Element AI)</td>
+  </tr>
+  
+  
   <tr>
     <td class="tg-0lax">21</td>
     <td class="tg-0lax">Improving Subseasonal Forecasting in the Western U.S. with Machine Learning</td>
@@ -105,7 +112,7 @@
   <tr>
     <td class="tg-0lax">68</td>
     <td class="tg-0lax">AI Neurotechnology for Aging Societies – Task-load and Dementia EEG Digital Biomarker Development Using Information Geometry Machine Learning Methods –</td>
-    <td class="tg-0lax">Tomasz M Rutkowski (RIKEN AIP)*; Masato Abe (RIKEN AIP); Mihoko Otake (RIKEN AIP)</td>
+    <td class="tg-0lax">Tomasz M Rutkowski (RIKEN AIP)*; Qibin Zhao (RIKEN AIP); Masato S Abe (RIKEN AIP); Mihoko Otake (RIKEN AIP)</td>
   </tr>
   <tr>
     <td class="tg-0lax">75</td>
@@ -120,7 +127,7 @@
   <tr>
     <td class="tg-0lax">80</td>
     <td class="tg-0lax">Witnessing atrocities: quantifying villages destruction in Darfur with crowdsourcing and transfer learning</td>
-    <td class="tg-0lax">Julien Cornebise (Element AI)*</td>
+    <td class="tg-0lax">Julien Cornebise (Element AI)*; Daniel Worrall (University of Amseterdam); Micah Farfour (Amnesty Internaltional); Milena Marin (Amnesty International)</td>
   </tr>
   <tr>
     <td class="tg-0lax">82</td>
