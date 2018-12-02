@@ -163,7 +163,68 @@ of workplace technologies.
 </div>
 
 <div class="schedule-item row">
-<h4>12:00 Lunch</h4>
+<h4>12:00 Lunch Program: AI's Impact on Art, Music, and Culture, featuring Yo-Yo Ma, Element AI, and Special Guests</h4>
+	<p>
+This special program features a demo, presentation, and panel discussion, hosted over lunch provided 
+by Element AI. First, renowned cellist Yo-Yo Ma will perform in a live demonstration of music and 
+neuroinformatics, using an Emotiv wireless EEG headset operated by Emotiv President, Olivier Oullier.
+ Next, Valérie Bécaert, Director of Research and Scientific Programs at Element AI, will present on arts 
+ and AI initiatives in Montreal, as well as a new collaborative residency launched. To conclude, all 
+ three presenters will engage in a panel discussion regarding the impact of artificial intelligence 
+ on such domains as art, music, and culture. 
+	</p>
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/yoyoma.jpg"></center>
+	  <h4 class="speaker-name">Yo-Yo Ma</h4>
+	  <p class="speaker-org">Cellist</p>
+	</div>
+	<p class="speaker-bio">
+Cellist Yo-Yo Ma’s career is testament to his enduring belief in culture’s power to generate 
+trust and understanding. This year, Yo-Yo begins a new global journey, setting out to perform 
+J. S. Bach’s six suites for solo cello in 36 locations that encompass our cultural heritage, 
+our current creativity, and the challenges of peace and understanding that will shape our future. 
+Each concert is an example of culture’s power to create moments of shared understanding, as well 
+as an invitation to a larger conversation about how culture connects us.
+</p>
+	
+	</div>
+
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/olivier.jpeg"></center>
+	  <h4 class="speaker-name">Olivier Oullier</h4>
+	  <p class="speaker-org">Emotiv</p>
+	</div>
+	<p class="speaker-bio">
+Olivier Oullier, PhD, is the President of EMOTIV, the global leader in personalized neuroinformatics. 
+He is the former Head of Strategy in Global Health and Healthcare and Member of the Executive Committee 
+of the World Economic Forum who named him a Young Global Leader. Olivier is a Full Professor of Behavioral 
+and Brain Sciences at Aix-Marseille University and taught at the Universities of Oxford and Geneva’s 
+executive education programs. His lab and applied research focuses on consumer behavior, engagement, 
+influence, social coordination dynamics, decision neuroscience.
+</p>
+	
+	</div>
+	
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/valeriebecaert.jpeg"></center>
+	  <h4 class="speaker-name">Valérie Bécaert</h4>
+	  <p class="speaker-org">Element AI</p>
+	</div>
+	<p class="speaker-bio">
+Valerie Becaert is Director of Research and Scientific Programs at Element AI. Before joining Element AI
+ in October 2017, she was Director of Partnerships for the Institute for Data Valorisation (IVADO), which 
+ brings together more than 900 scientists working to extract economic and societal value from data from 
+ all sources and all forms. She holds a Ph.D. in Chemical Engineering from Polytechnique Montréal in 
+ environmental modelization. Her career began as a researcher in the field of life cycle analysis, a 
+ powerful tool employed to evaluate the potential impact of human activities on the environment.
+</p>
+	
+	</div>
+	
+
 </div>
 
 <div class="schedule-item row">
