@@ -1,3 +1,3 @@
-rename 's/\\/-/g' *
-rename 's/ //g' *
-rename 's/CameraReadySubmission-//g' *
+rename -f 's/\\/-/g' *
+rename -f 's/ //g' *
+rename -f 's/CameraReadySubmission-//g' *
