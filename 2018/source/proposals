@@ -16,6 +16,8 @@ background-color:gray
 </style>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/10-Ssekiwere_Bruno_and_Claire_Babirye_Infering_Pests_and_Diseases.pdf"><img style="float:right" src="img/pdf.png" /></a>
+
 <h4>Inferring crop pests and diseases from imagery soil data and soil properties</h4>
 	<p>
 	80% of the total exports made in Uganda are
@@ -56,6 +58,8 @@ background-color:gray
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/79-MLforFloodForecastingatScale.pdf"><img style="float:right" src="img/pdf.png" /></a>
+
 <h4>ML for Flood Forecasting at Scale</h4>
 	<p>
 Effective riverine flood forecasting at scale is hindered by a multitude of factors, most notably the need to rely on human calibration in current methodology, the limited amount of data for a specific location, and the computational difficulty of building country/global level models that are sufficiently accurate. Machine learning (ML) is primed to be useful in this scenario: learned models often surpass human experts in complex high-dimensional scenarios, and the framework of transfer or multitask learning is an appealing solution for leveraging local signals to achieve improved global performance. We propose to build on these strengths and develop ML systems for timely and accurate riverine flood prediction.
@@ -229,6 +233,8 @@ For both types of emergencies, well-annotated, reliable maps can provide emergen
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/50-Intelligent_Drone_Swarm_for_Search_and_RescueOperations_at_Sea.pdf"><img style="float:right" src="img/pdf.png" /></a>
+
 <h4>Intelligent Drone Swarm for Search and Rescue Operations at Sea</h4>
 	<p>
 In recent years, a rising numbers of people arrived in the European Union, 
@@ -337,6 +343,8 @@ to improve and optimize social development.
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/47-ADatasetforTacklingGenderBiasinText.pdf"><img style="float:right" src="img/pdf.png" /></a>
+
 <h4>A Dataset for Tackling Gender Bias in Text</h4>
 <p>
 Most work related to gender bias within the machine learning
@@ -410,6 +418,8 @@ respect to gender bias.
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/67-Camera_ready_AISG.pdf"><img style="float:right" src="img/pdf.png" /></a>
+
 <h4>Using AI to Enhance Peer-to-Peer Moderation in Mental Health Forums</h4>
 	<p>
 Mental health is an integral part of people’s wellbeing, mentioned promi-nently 
