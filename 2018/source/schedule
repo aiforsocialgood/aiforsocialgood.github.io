@@ -70,12 +70,14 @@ numerous publications.
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
-	  <h4 class="speaker-name">Heloise Greeff</h4>
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/girmaw.jpg"></center>
+	  <h4 class="speaker-name">Girmaw</h4>
 	  <p class="speaker-org">University of Oxford</p>
 	</div>
 	<p class="speaker-bio">
-	
+Girmaw is a post-doctoral researcher at Computational Health Informatics research group  (University of Oxford), working with Prof. David A. Clifton 
+in the Institute of Biomedical Engineering, Department of Engineering Science.  His research focuses on  applying machine learning  for automatic 
+diagnosis of cardiovascular and infectious diseases in the developing world, with a close collaborations with clinicians in Vietnam and China
 	</p>
 	</div>
 </div>
@@ -108,12 +110,15 @@ numerous publications.
 	</p>
 	<div class="speaker">
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="></center>
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/graham.jpg"></center>
 	  <h4 class="speaker-name">Logan Graham</h4>
 	  <p class="speaker-org">University of Oxford</p>
 	</div>
 	<p class="speaker-bio">
-	
+Logan Graham is a PhD candidate with the Machine Learning Research Group at the University of Oxford, supervised by Dr. Michael 
+Osborne. His research focuses on using causality to improve efficiency and generalization, and making black box models interpretable. 
+Associated with the Oxford Martin Programme on Technology and Employment, Logan also researches the impact of technologies on automatability,
+ labour demand, and skills changes in the economy.
 	</p>
 	</div>
 </div>
