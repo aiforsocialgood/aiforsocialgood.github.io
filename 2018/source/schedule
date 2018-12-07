@@ -427,7 +427,7 @@ Talking.
 	<p>
 		
 	</p>
-	<div class="speaker">
+	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/aniketkesari.png"></center>
 	  <h4 class="speaker-name">Aniket Kesari</h4>
@@ -437,6 +437,20 @@ Talking.
 Aniket Kesari is a JD student at Yale University, and a PhD Candidate in Jurisprudence & Social Policy at the University of California, Berkeley. 
 He specializes in law & economics and law & data science. His main research interest is in information privacy and cybersecurity law, 
 and also has ongoing projects dealing with digital consumer protection, smart cities, and trademark law. 
+	</p>
+	</div>
+	
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/raesetjesefala.png"></center>
+	  <h4 class="speaker-name">Raesetje Sefala</h4>
+	  <p class="speaker-org">UC Berkeley</p>
+	</div>
+	<p>
+Raesetje Sefala is a computer science master's student at Wits university in South Africa. Her research interests include 
+applying machine learning to help solve problems experienced by countries in the developing world. Her master's work is about 
+using satellite images and computer vision to study the  effects and evolution of spatial apartheid in South Africa and she
+ is a recipient of the Data Science for Social Good fellowship at the University of Chicago.
 	</p>
 	</div>
 </div>
