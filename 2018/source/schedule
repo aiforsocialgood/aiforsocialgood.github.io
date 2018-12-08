@@ -71,7 +71,7 @@ numerous publications.
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/girmaw.jpg"></center>
-	  <h4 class="speaker-name">Girmaw</h4>
+	  <h4 class="speaker-name">Girmaw Abebe Tadesse</h4>
 	  <p class="speaker-org">University of Oxford</p>
 	</div>
 	<p class="speaker-bio">
@@ -129,6 +129,22 @@ Associated with the Oxford Martin Programme on Technology and Employment, Logan 
 
 <div class="schedule-item row">
 <h4>11:00 Panel #1: AI’s impact on economic inequality and class</h4>
+
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/jonnie.jpg"></center>
+	  <h4 class="speaker-name">Jonnie Penn</h4>
+	  <p class="speaker-org">University of Cambridge</p>
+	</div>
+	<p class="speaker-bio">
+	<span class="label label-warning">Facilitator</span>
+Jonnie Penn is a technologist, historian of science, and bestselling author. He is an affiliate at 
+the Berkman Klein Center at Harvard University and a PhD candidate at the University of Cambridge.
+ He has been a fellow at Google, the MIT Media Lab, and the Royal Society of the Arts.
+
+	</p>
+	</div>
+	
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/safiya.jpg"></center>
@@ -254,6 +270,25 @@ Karina Kesserwan is a lawyer, strategic advisor, educator, and social entreprene
 
 <div class="schedule-item row">
 <h4>1:00 Panel #2: Bias and fairness in AI</h4>
+<p>This panel will take a look at how bias affects the way AI operates and the impact this will have on people's 
+lives in an increasingly software-dominated world. What can be the roadmap towards algorithmic fairness and ethical 
+decision-making? Audience participation is strongly encouraged.
+</p>
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/margaux.jpg"></center>
+	  <h4 class="speaker-name">Margaux Luck</h4>
+	  <p class="speaker-org">Mila</p>
+	</div>
+	<p class="speaker-bio">
+	<span class="label label-warning">Facilitator</span>
+Margaux Luck is a bioinformatics PhD, applied research scientist, and member of the Mila Technological Transfert team,
+ her work focuses on solving concrete problems through research, conducting technology transfer, as well as training private 
+ sector employees in deep-learning practices. Through her specialization in the medical field, she is an active member of 
+ the AI for Humanity community and the Mila medical group.
+	</p>
+	</div>
+
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/timnit.jpg"></center>
@@ -389,6 +424,24 @@ University. Her research interests lie in human vision, computer vision, and mac
 
 <div class="schedule-item row">
 <h4>3:30 Panel #3: The role of civil society in the age of AI: Beyond buzzwords</h4>
+
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/valentine.jpg"></center>
+	  <h4 class="speaker-name">Valentine Goddard</h4>
+	  <p class="speaker-org">AI on a Social Mission</p>
+	</div>
+	<p class="speaker-bio">
+	<span class="label label-warning">Facilitator</span>
+Valentine Goddard is a lawyer and a recognized expert on the ethical and social implications of artificial 
+intelligence (AI). She is the founder of the AI on a Social Mission Conference, an event designed to 
+facilitate a cross-sectoral and multidisciplinary dialogue on the ethical and social implications of AI. 
+She is the founder of Artificial Intelligence Impact Alliance (AIIA), a non-profit aimed at empowering 
+civil society organizations with machine learning as well as driving policy towards an ethical and sustainable 
+implementation of AI.
+	</p>
+	</div>
+
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/milind.jpg"></center>
@@ -492,6 +545,20 @@ This includes what constitutes "good" for corporate and academic development, wh
  in the development of good outcomes, what social mechanisms for producing "good" systems should be encouraged or 
  discouraged, and more. The audience will also have opportunities to ask questions.
 </p>
+	<div class="col-xs-12 speaker">
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/sean.jpg"></center>
+	  <h4 class="speaker-name">Sean McGregor </h4>
+	  <p class="speaker-org">Syntiant</p>
+	</div>
+	<p class="speaker-bio">
+	<span class="label label-warning">Facilitator</span>
+Sean McGregor is a technical lead for the IBM Watson AI XPRIZE and Member of Technical Staff at Syntiant. 
+His research centers on power-efficient computation in analog neural networks, reinforcement learning for 
+wildfire suppression policy, visual analytics, and public policy. Sean holds a PhD in machine learning from 
+Oregon State University, and a bachelors in Environment, Economics, and Politics from Claremont McKenna College.
+	</p>
+	</div>
 	<div class="col-xs-12 speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/julien.jpg"></center>
