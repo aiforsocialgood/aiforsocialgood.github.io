@@ -202,6 +202,16 @@
 	  <h4>Yoshua Bengio</h4>
 	  <p>Mila</p>
 	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/timnit.jpg"></center>
+	  <h4>Timnit Gebru</h4>
+	  <p>Google</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/rediet.jpeg"></center>
+	  <h4>Rediet Abebe</h4>
+	  <p>Cornell University</p>
+	</div>
 </div>
 
 <div class="row">
