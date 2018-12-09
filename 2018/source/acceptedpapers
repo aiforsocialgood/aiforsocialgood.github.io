@@ -27,6 +27,27 @@
     <th class="tg-0lax">Author Names</th>
   </tr>
   <tr>
+    <td class="tg-0lax">105
+    <br><a target="_blank" href="pdfs/track1/105-MachineLearning-BasedScreeningforFASD_zc_camera_ready.pdf"><img src="img/pdf.png" /></a>
+    </td>
+    <td class="tg-0lax"><span class="label label-success">Best Paper Award</span> <br>Machine Learning-Based Screening for Fetal Alcohol Spectrum Disorder</td>
+    <td class="tg-0lax">Chen Zhang (University of Southern California)*; Laurent Itti (University of Southern California); Po-He Tseng (Duke University); Angelina Paolozza (Queen's University); James N. Reynolds (Queen's University); Douglas P. Munoz (Queen's University)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">34
+    <br><a target="_blank" href="pdfs/track1/34-Camera_Ready_Improving_Traffic_Safety_Through_Video_Analysis_NIPS_Workshop_Submission.pdf"><img src="img/pdf.png" /></a>
+    </td>
+    <td class="tg-0lax"><span class="label label-success">Highlighted Paper Award</span> <br>Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia</td>
+    <td class="tg-0lax">Aniket Kesari (University of California, Berkeley)*; Alex Fout (Colorado State University); Raesetje B Sefala (University of the Witwatersrand); Joao Caldeira (University of Chicago)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">118
+    <br><a target="_blank" href="pdfs/track1/118-donti_ai4sg_2018.pdf"><img src="img/pdf.png" /></a>
+    </td>
+    <td class="tg-0lax"><span class="label label-success">Highlighted Paper Award</span> <br>Inverse Optimal Power Flow: Assessing the Vulnerability of Power Grid Data</td>
+    <td class="tg-0lax">Priya L Donti (Carnegie Mellon University)*; Zico Kolter (Carnegie Mellon University); Inês Azevedo (Carnegie Mellon University)</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">24 
     <br><a target="_blank" href="pdfs/track1/24-nips_aiforsocialgood(3).pdf"><img src="img/pdf.png" /></a>
     
@@ -42,13 +63,6 @@
     <td class="tg-0lax">Logan Graham (University of Oxford)*; Paul Duckworth (University of Oxford); Michael A.&nbsp;&nbsp;Osborne (University of Oxford)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">34
-    <br><a target="_blank" href="pdfs/track1/34-Camera_Ready_Improving_Traffic_Safety_Through_Video_Analysis_NIPS_Workshop_Submission.pdf"><img src="img/pdf.png" /></a>
-    </td>
-    <td class="tg-0lax">Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia</td>
-    <td class="tg-0lax">Aniket Kesari (University of California, Berkeley)*; Alex Fout (Colorado State University); Raesetje B Sefala (University of the Witwatersrand); Joao Caldeira (University of Chicago)</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">46
     <br><a target="_blank" href="pdfs/track1/46-nips-2018-ai.pdf"><img src="img/pdf.png" /></a>
     </td>
@@ -59,20 +73,6 @@
     <td class="tg-0lax">62</td>
     <td class="tg-0lax">Enabling better pregnancy monitoring: The case of point-of-care diagnosis in fetal echocardiography</td>
     <td class="tg-0lax">Arijit Patra (University of Oxford)*</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">105
-    <br><a target="_blank" href="pdfs/track1/105-MachineLearning-BasedScreeningforFASD_zc_camera_ready.pdf"><img src="img/pdf.png" /></a>
-    </td>
-    <td class="tg-0lax">Machine Learning-Based Screening for Fetal Alcohol Spectrum Disorder</td>
-    <td class="tg-0lax">Chen Zhang (University of Southern California)*; Laurent Itti (University of Southern California); Po-He Tseng (Duke University); Angelina Paolozza (Queen's University); James N. Reynolds (Queen's University); Douglas P. Munoz (Queen's University)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">118
-    <br><a target="_blank" href="pdfs/track1/118-donti_ai4sg_2018.pdf"><img src="img/pdf.png" /></a>
-    </td>
-    <td class="tg-0lax">Inverse Optimal Power Flow: Assessing the Vulnerability of Power Grid Data</td>
-    <td class="tg-0lax">Priya L Donti (Carnegie Mellon University)*; Zico Kolter (Carnegie Mellon University); Inês Azevedo (Carnegie Mellon University)</td>
   </tr>
 </table>
 
@@ -85,6 +85,13 @@
 <col style="width: 300px">
 <col style="">
 </colgroup>
+  <tr>
+    <td class="tg-0lax">30
+    <br><a target="_blank" href="pdfs/track1/30-nips_2018.pdf"><img src="img/pdf.png" /></a>
+    </td>
+    <td class="tg-0lax"><span class="label label-success">Best Poster Award</span> <br>The Language of Fake News: Opening the Black-Box of Deep Learning Based Detectors</td>
+    <td class="tg-0lax">Nicole O'Brien (MIT); Sophia Latessa (MIT); Georgios Evangelopoulos (MIT); Xavier Boix (MIT)*</td>
+  </tr>
   <tr>
     <td class="tg-0lax">13
     <br><a target="_blank" href="pdfs/track1/13-13-MossbridgeEtAl_AISG18_CameraReady(1).pdf"><img src="img/pdf.png" /></a>
@@ -122,13 +129,6 @@
     </td>
     <td class="tg-0lax">AI for Patient Support: Predictive Model of Medication Non-Adherence</td>
     <td class="tg-0lax">Thomas Janssoone (Semeia)*; Pierre Hornus (Semeia); Pierre Rinder (Semeia); Dorra Kanoun (Pasteur); Clemence Bic (Semeoa)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">30
-    <br><a target="_blank" href="pdfs/track1/30-nips_2018.pdf"><img src="img/pdf.png" /></a>
-    </td>
-    <td class="tg-0lax">The Language of Fake News: Opening the Black-Box of Deep Learning Based Detectors</td>
-    <td class="tg-0lax">Nicole O'Brien (MIT); Sophia Latessa (MIT); Georgios Evangelopoulos (MIT); Xavier Boix (MIT)*</td>
   </tr>
   <tr>
     <td class="tg-0lax">37
