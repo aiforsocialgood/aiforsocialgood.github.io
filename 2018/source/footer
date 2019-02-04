@@ -3,13 +3,13 @@
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
-          
+
             <h4>Important Dates</h4><br>
 <p><b>Deadline for submissions : <br>October 15th, 2018<br> 11:59PM eastern time</b></p>
 <p>Notification of acceptance : <br>November 1st, 2018</p>
 <p>Camera-ready submission: <br>December 4th, 2018</p>
-<p>Workshop date : 
-<br>Onsite NIPS:
+<p>Workshop date :
+<br>Onsite NeurIPS:
 <br>December 8th 2018
 <br>(<a target="_blank" href="https://www.google.com/maps/search/Palais+des+Congrès+de+Montréal">Map: Palais des Congrès de Montréal</a>)
 </p>
@@ -23,7 +23,7 @@
 <!--              <li>Healer Level<br>
               <center>-</center></li>
               <li>Advocate Level<br>
-              <center>-</center></li>--> 
+              <center>-</center></li>-->
               <li>Sponsor Level<br>
               <span class="sponsorlogos">
               <img class="sponsorlogo" src="other-logos/mila.png"/><br>
@@ -56,7 +56,7 @@
     </div><!-- /.container -->
 
     <footer class="blog-footer">
-      <p>AI for Social Good Workshop NIPS2018</p>
+      <p>AI for Social Good Workshop NeurIPS2018</p>
       <br><small>*not affiliated with the AI for Social Good Foundation</small>
     </footer>
 

@@ -8,26 +8,26 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="icon" href="logo/logo2-icon-small.png">
 
-	<meta property="og:title" content="AI for Social Good Workshop at NIPS2018">
+	<meta property="og:title" content="AI for Social Good Workshop at NeurIPS2018">
 	<meta property="og:description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
 	<meta name="description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
-    
-    <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, montreal, Neural Information Processing Systems, NIPS2018'>
-	<meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, montreal, Neural Information Processing Systems, NIPS2018">
+
+    <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, montreal, Neural Information Processing Systems, NeurIPS2018'>
+	<meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, montreal, Neural Information Processing Systems, NeurIPS2018">
 	<meta property="og:image" content="https://aiforsocialgood.github.io/2018/logo/logo2-white.png" />
-	<meta property="og:locale" content="en_US" />  
+	<meta property="og:locale" content="en_US" />
 
 
-    <title>AI for Social Good Workshop NIPS2018</title>
+    <title>AI for Social Good Workshop NeurIPS2018</title>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
 	<!-- Bootstrap core CSS -->
-	
+
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124501848-1"></script>
 <script>
@@ -47,15 +47,15 @@ function pageScript(tomatch){
 }
 
 </script>
-	
+
 <link rel="stylesheet" href="style.css?v=1">
 <link rel="stylesheet" href="res/hover-min.css" >
 
 <style>
 
 </style>
-	
-	
+
+
   </head>
 
   <body>
@@ -63,7 +63,7 @@ function pageScript(tomatch){
     <div class="blog-masthead"  style="font-family: arial">
       <div class="container">
         <nav class="blog-nav">
-          <a class="blog-nav-item" href="index.htm">AI for Social Good NIPS2018 Workshop</a>
+          <a class="blog-nav-item" href="index.htm">AI for Social Good NeurIPS2018 Workshop</a>
           <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
 			<span class="dropdown">
 			  <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
@@ -83,4 +83,4 @@ function pageScript(tomatch){
     </div>
 
     <div class="container">
-    
+

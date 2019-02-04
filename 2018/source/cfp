@@ -9,9 +9,9 @@
           <div class="blog-post" style="text-align: justify;">
 
             <p>
-            
+
 <b>Aim and scope</b><br>
-Submissions are solicited for the NIPS 2018 AI for Social Good workshop focusing on social problems for which artificial intelligence has the potential to offer meaningful solutions.
+Submissions are solicited for the NeurIPS 2018 AI for Social Good workshop focusing on social problems for which artificial intelligence has the potential to offer meaningful solutions.
 <br><br>
 Subject areas address opportunities for AI to meaningfully impact society by reducing human suffering and improving social welfare and justice. They include:
 <ul>
@@ -24,44 +24,43 @@ Subject areas address opportunities for AI to meaningfully impact society by red
 <li>Environmental sustainability
 <li>Economic, social, and gender inequality
 <li>Social welfare and justice
-<li>Ethics, Privacy, and Security 
+<li>Ethics, Privacy, and Security
 </ul>
 <br>
 Each of these themes are inspired by United Nations Sustainable Development Goals (SDGs), a set of seventeen objectives that must be addressed in order to bring the world onto a more equitable, prosperous, and sustainable path.
 <br><br>
-We accept papers that focus on applying machine learning to any of the workshop themes or more broadly to any of the UN SDGs. 
-We encourage submissions that have interdisciplinary collaborations between technical and social sciences domain. 
-The models or approaches presented do not necessarily need to have outstanding theoretical novelty, but should demonstrate potential for a meaningful social impact. 
+We accept papers that focus on applying machine learning to any of the workshop themes or more broadly to any of the UN SDGs.
+We encourage submissions that have interdisciplinary collaborations between technical and social sciences domain.
+The models or approaches presented do not necessarily need to have outstanding theoretical novelty, but should demonstrate potential for a meaningful social impact.
 We invite two types of submissions:
 <br><Br>
 <ul>
-<li><b>Short Papers Track</b> (Up to four page papers + unlimited pages for citations) for oral and/or poster presentation. The short papers should focus on past and current work, showcasing actual results and demonstrating beneficial effects on society. 
+<li><b>Short Papers Track</b> (Up to four page papers + unlimited pages for citations) for oral and/or poster presentation. The short papers should focus on past and current work, showcasing actual results and demonstrating beneficial effects on society.
 We also accept abstracts of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.
 
-<li><b>Project Proposal Track</b> (Up to two page papers + unlimited pages for citations) which will present a specific solution which will be discussed during round-table events with stakeholders, scientists, and funders. 
-This two page abstract should highlight ideas that have not yet been applied in practice but can lead to real impact. 
-The workshop provides a platform for developing these abstracts into real projects. 
-This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. 
-These papers will be presented outside of the NIPS venue on the 7th. 
+<li><b>Project Proposal Track</b> (Up to two page papers + unlimited pages for citations) for poster presentation to present a specific solution to be discuss with stakeholders, scientists, and funders.
+This two page abstract should highlight ideas that have not yet been applied in practice but can lead to real impact.
+The workshop provides a platform for developing these abstracts into real projects.
+This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event.
 </ul>
 
 <br>
 <b>Submission Details </b><br>
-All submissions must be in PDF format. 
+All submissions must be in PDF format.
 Submissions are limited to four content pages for the short papers and two content page for the specific solution, including all figures and tables.
 Submissions for each type of paper must be in their respective formats specified below.
-Reviewing will be single blind. 
+Reviewing will be single blind.
 Camera-ready papers will be due in advance of the workshop. Submissions will be considered non-archival and can be submitted elsewhere after the conference.
 <br><br>
-Author guidelines can be found here: 
+Author guidelines can be found here:
 <br>
 Short Papers Track (four page papers) (<a href="https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss">Overleaf template</a>)
 <br>
 Project Proposal Track (two page papers) (<a href="https://www.overleaf.com/latex/templates/simple-single-page-abstract-template/kwzyytrntryp">Overleaf template</a>) or a similar looking PDF
 <br>
-Suggested Poster Template: <a href="https://www.dropbox.com/s/mgzikx0vcp5d8jx/AI4SocialGoodPosterTemplate.pptx">PPTX Template file</a>, 
+Suggested Poster Template: <a href="https://www.dropbox.com/s/mgzikx0vcp5d8jx/AI4SocialGoodPosterTemplate.pptx">PPTX Template file</a>,
 <br>
-Poster Size: 36W x 48H inches or 90 x 122 cm
+Poster Size: 36 W x 48 H inches or 90 W x 122 H cm
 
 
 
@@ -72,7 +71,7 @@ Submit at: <a href="https://cmt3.research.microsoft.com/AISG2018">https://cmt3.r
 
 <br><br>
 <b>Registration</b><br>
-Please register for NIPS and join the NIPS waitlist if you cannot register<br>
+Please register for NeurIPS and join the NeurIPS waitlist if you cannot register<br>
 <a href="https://nips.cc/Profile">https://nips.cc/Profile</a>
 
 <br><br>
@@ -82,7 +81,7 @@ Email: <script type="text/javascript"> document.write('<a href="mailto:aisg2018.
 
 <br><br>
 
-<h2>FAQ</h2>
+<h2>FAQs</h2>
 
 
 <b>Where is the schedule of the event?</b><br>
@@ -113,15 +112,15 @@ We need your slides at least 24h before the start of the workshop in a pdf forma
 You are also invited to present a poster.  Also, we can post online a short video link that describes your work (YouTube or Vimeo).
 <br><br>
 <b>My paper is accepted for a poster presentation?</b><br>
-Suggested Poster Template: <a href="https://www.dropbox.com/s/mgzikx0vcp5d8jx/AI4SocialGoodPosterTemplate.pptx">PPTX Template file</a>, 
-Poster Size: 36W x 48H inches or 90 x 122 cm. Your paper can be landscape or portrait as long as it fits in this size. (If it is landscape you can print it as 36 inches wide) 
+Suggested Poster Template: <a href="https://www.dropbox.com/s/mgzikx0vcp5d8jx/AI4SocialGoodPosterTemplate.pptx">PPTX Template file</a>,
+Poster Size: 36 W x 48 H inches or 90 W x 122 H cm. Your paper can be landscape or portrait as long as it fits in this size. (If it is landscape you can print it as 36 inches wide)
 Also, we can post the pdf of your poster and a short video link that describes your work (YouTube or Vimeo) online.
 <br><br>
 <b>My paper got accepted and I cannot come. Can someone print my poster and display it at the conference?</b><br>
 You can send us your pdf of the poster and we will post it online. Also, we can post a short video link that describes your work (YouTube or Vimeo).
 <br><br>
 
-            
+
             </p>
           </div><!-- /.blog-post -->
-          
+
