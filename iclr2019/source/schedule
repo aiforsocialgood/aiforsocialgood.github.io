@@ -10,7 +10,8 @@
 
             <p>
 
-
+Coming soon
+<!--
 % for d in schedule_date:
     % for t in talks[d]: 
 
@@ -36,6 +37,7 @@
 
     % endfor
 % endfor
+-->
 
 
 
