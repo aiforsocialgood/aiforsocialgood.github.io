@@ -16,10 +16,7 @@ custom = json.loads(open('custom.json').read())
 
 
 # Get all sections
-sections = [s for s in os.listdir(".") if "compile" not in s and not s.startswith('.')]
-sections.remove("custom.json")
-sections.remove("header")
-sections.remove("footer")
+sections = ['proposals', 'home', 'schedule', 'acceptedpapers', 'cfp', 'organizers']
 
 for section_name in sections :
 	attributes = custom['default'].copy()
