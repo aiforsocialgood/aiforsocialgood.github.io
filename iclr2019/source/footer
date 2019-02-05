@@ -1,0 +1,64 @@
+      </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="dates sidebar-module sidebar-module-inset">
+          <center><img src="logo/logo2.png" style="width:100%;"/></center>
+          
+            <h4>Important Dates</h4><br>
+<p><b>Deadline for submissions : <br>${deadline_date}<br> ${deadline_hour} eastern time</b></p>
+<p>Notification of acceptance : <br>${notification_date}</p>
+<p>Camera-ready submission: <br>${cameraready_date}</p>
+<p>Workshop date : 
+<br>Onsite ${conference_abbr}:
+<br>${workshop_date}
+<br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
+</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Sponsors</h4>
+            <ol class="list-unstyled">
+              <li>Sustainer Level<br>
+              <a href="https://ai.intel.com/"><img class="sponsorlogo" src="other-logos/intelai.jpg"/></a><br>
+			  </li>
+<!--              <li>Healer Level<br>
+              <center>-</center></li>
+              <li>Advocate Level<br>
+              <center>-</center></li>--> 
+              <li>Sponsor Level<br>
+              <span class="sponsorlogos">
+              <img class="sponsorlogo" src="other-logos/mila.png"/><br>
+              <img class="sponsorlogo" src="other-logos/ivado.png"/><br>
+              <img class="sponsorlogo" src="other-logos/integrate-ai.png"/><br>
+              <img class="sponsorlogo" src="other-logos/google.png"/><br>
+              <br>
+              </span>
+              </li>
+              <li>Donor Level<br>
+              <span class="sponsorlogos">
+              <img class="sponsorlogo" src="other-logos/imagia.png"/><br>
+              <img class="sponsorlogo" src="other-logos/borealis-ai.svg"/><br>
+              <br>
+              </span>
+              </li>
+              <li>Lunch Sponsor<br>
+              <span class="sponsorlogos">
+              <img class="sponsorlogo" src="other-logos/element-ai.jpg"/><br>
+              <br>
+              </span>
+              </li>
+            </ol>
+          </div>
+
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>AI for Social Good Workshop ${conference_nick}</p>
+      <br><small>*not affiliated with the AI for Social Good Foundation</small>
+    </footer>
+
+  </body>
+</html>

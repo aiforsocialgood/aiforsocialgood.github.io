@@ -1,0 +1,81 @@
+{ 
+"default" :{
+
+  "year" : "2019",
+  "workshop_date": "May 6th, 2019" ,
+  "workshop_room": "Room R5",
+  "workshop_from": "9:00AM",
+  "workshop_until": "6:00PM",
+  "workshop_day_litteral" : "6th",
+  "workshop_date_with_day" : "Monday May 6th",
+  "workshop_abbr" : "AISG",
+  "workshop_name" : "AI for Social Good",
+  "workshop_mailto" : "aisg2019.iclr.contact@gmail.com",
+  
+  "conference_nick" : "ICLR2019", 
+  "conference_name" : "International Conference on Learning Representations", 
+  "conference_abbr" : "ICLR", 
+  "conference_website" : "https://iclr.cc",
+  "conference_city" : "New Orleans",
+  "conference_state" : "Louisiana",
+  "conference_location" : "Ernest N. Morial Convention Center, New Orleans",
+  
+  "github_link" : "https://aiforsocialgood.github.io/iclr2019",
+  "deadline_date" : "to be announced",
+  "deadline_hour" : "", 
+  "notification_date" : "to be announced",
+  "cameraready_date" : "to be announced",
+  "submission_link" : "",
+  "overleaf_template_link" : "https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss",
+  
+  "people" : 
+        { 
+            "Margaux Luck" :        {"img": "img/margaux.jpg",  "affiliation":"Mila"},
+            "Jonnie Penn" :         {"img": "img/jonnie.jpg",   "affiliation":"University of Cambridge"},
+            "Tristan Sylvain" :     {"img": "img/tristan.jpg",  "affiliation":"Mila"},
+            "Joseph Paul Cohen" :   {"img": "img/joseph.jpg",   "affiliation":"Mila"},
+            "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
+            "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},      
+            "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
+            "Geneviève Boucher" :   {"img": "",  "affiliation":"IRIC"},
+            "Virgile Sylvain" :     {"img": "",  "affiliation":""},
+            "Kris Sankaran":        {"img": "",  "affiliation":""},
+            "Kentaro Toyama":       {"img": "",  "affiliation":""},
+            "Rayid Ghani":          {"img": "",  "affiliation":""},
+            "Tess Berthier":{"img": "img/tess.berthier.jpeg", "affiliation":"Imagia"}
+
+        }
+  },
+ 
+"organizers" : {      
+
+    "chair" : 
+        {
+            "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
+            "Paper Review and Call for Paper Chairs - Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
+            "Paper Review and Call for Paper Chairs - Problem Introduction Track" :    ["Kris Sankaran", "Joseph Paul Cohen", "Myriam Côté" ] ,
+            "Sponsor and Finance Chair" :    ["Myriam Côté", "Sean McGregor"],
+            "Communication and Website Chair" :          ["Virgile Sylvain", "Geneviève Boucher"],
+            "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
+
+           
+            "Scientific Chair" :       ["Yoshua Bengio","Rayid Ghani", "Kentaro Toyama"],
+            "Program Committee" :      ["Margaux Luck", "Tristan Sylvain","Joseph Paul Cohen",
+                                        "Sean McGregor", "Jonnie Penn",  "Myriam Côté", "Yoshua Bengio"]
+           
+        }
+    },
+    
+ "schedule" : {
+
+        "schedule_date" : ["Monday May 6th"],
+        
+        "talks" :{
+            "Monday May 6th" : [
+                {"time" : "9:00", "speaker_name": "Yoshua Bengio", "title" : "Opening remarks" }
+               
+            ]
+        }
+        
+    }
+}
