@@ -36,9 +36,9 @@
 	  <h4>Mark Crowley</h4>
 	  <p>University of Waterloo</p>
 	</div>
-</div>    
-           
-            
+</div>
+
+
 <div class="row">
 <h3>Call for Paper Chairs</h3>
 	<div class="col-xs-3 person">
@@ -83,14 +83,19 @@
 <div class="row">
 <h3>Logistics Chairs</h3>
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/arsene.jpg"></center>
-	  <h4>Arsene Fansi Tchango</h4>
+	  <center><img class="img-circle hvr-buzz" src="img/margaux.jpg"></center>
+	  <h4>Margaux Luck</h4>
 	  <p>Mila</p>
 	</div>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img/kenny.jpg"></center>
 	  <h4>Kenny Chen</h4>
 	  <p>Ascender</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/arsene.jpg"></center>
+	  <h4>Arsene Fansi Tchango</h4>
+	  <p>Mila</p>
 	</div>
 </div>
 
@@ -152,6 +157,42 @@
 	  <p>University of Cambridge</p>
 	</div>
 	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/kenny.jpg"></center>
+	  <h4>Kenny Chen</h4>
+	  <p>Ascender</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/myriam.jpg"></center>
+	  <h4>Myriam Côté</h4>
+	  <p>Mila</p>
+	</div>
+
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/aurelie.jpg"></center>
+	  <h4>Aurelie Helouis</h4>
+	  <p>Mila</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/arsene.jpg"></center>
+	  <h4>Arsene Fansi Tchango</h4>
+	  <p>Mila</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/cody.jpg"></center>
+	  <h4>Cody Wild</h4>
+	  <p>Sophos Antivirus</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/rediet.jpeg"></center>
+	  <h4>Rediet Abebe</h4>
+	  <p>Cornell University </p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/sam.jpg"></center>
+	  <h4>Samuel Greydanus</h4>
+	  <p>Google AI</p>
+	</div>
+	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img/taras.jpg"></center>
 	  <h4>Taras Kucherenko</h4>
 	  <p>KTH Royal Institute of Technology</p>
@@ -161,64 +202,39 @@
 	  <h4>Abhishek Gupta</h4>
 	  <p>MAIEI, Microsoft, and McGill</p>
 	</div>
-
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/cody.jpg"></center>
-	  <h4>Cody Wild</h4>
-	  <p>Sophos Antivirus</p>
-	</div>
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/kenny.jpg"></center>
-	  <h4>Kenny Chen</h4>
-	  <p>Ascender</p>
-	</div>
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/arsene.jpg"></center>
-	  <h4>Arsene Fansi Tchango</h4>
-	  <p>Mila</p>
-	</div>
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/aurelie.jpg"></center>
-	  <h4>Aurelie Helouis</h4>
-	  <p>Mila</p>
-	</div>
-	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/sam.jpg"></center>
-	  <h4>Samuel Greydanus</h4>
-	  <p>Google AI</p>
-	</div>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img/arya.png"></center>
 	  <h4>Arya Farahi</h4>
 	  <p>Carnegie Mellon University</p>
 	</div>
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img/myriam.jpg"></center>
-	  <h4>Myriam Côté</h4>
-	  <p>Mila</p>
-	</div>
-	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img/yoshua.jpg"></center>
 	  <h4>Yoshua Bengio</h4>
 	  <p>Mila</p>
 	</div>
+</div>
+
+<div class="row">
+<h3>Special thanks to...</h3>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/timnit.jpg"></center>
 	  <h4>Timnit Gebru</h4>
 	  <p>Google</p>
 	</div>
 	<div class="col-xs-3 person">
-	  <center><img class="img-circle hvr-buzz" src="img-speakers/rediet.jpeg"></center>
-	  <h4>Rediet Abebe</h4>
-	  <p>Cornell University </p>
+	  <center><img class="img-circle hvr-buzz" src="img-speakers/julien.jpg"></center>
+	  <h4>Julien Cornebise</h4>
+	  <p>Element AI</p>
 	</div>
-</div>
-
-<div class="row">
-<h3>Logo design and artwork</h3>
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img/tess.berthier.jpeg"></center>
 	  <h4>Tess Berthier</h4>
+	  <p>Imagia</p>
+	</div>
+	<div class="col-xs-3 person">
+	  <center><img class="img-circle hvr-buzz" src="img/virgile.jpeg"></center>
+	  <h4>Virgile Sylvain</h4>
+	  <p>London School of Economics</p>
 	</div>
 </div>
 
@@ -278,7 +294,7 @@ Tess Berthier (Imagia)<br>
 Titouan Parcollet (University of Avignon)<br>
 Virgile Sylvain (LSE)<br>
 Yuchen Lu (University of Montreal)<br>
-            
+
             </p>
           </div><!-- /.blog-post -->
-          
+
