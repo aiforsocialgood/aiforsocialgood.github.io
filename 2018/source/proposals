@@ -20,19 +20,8 @@ background-color:gray
 
 <h4>Inferring crop pests and diseases from imagery soil data and soil properties</h4>
 	<p>
-	80% of the total exports made in Uganda are
-	known to be agricultural products mainly coffee, tea, cotton,
-	among others. Of these agricultural products that formulate
-	Uganda’s exports- Coffee is the major export with a percentage of
-	22 of the total exports. However, a decrease was registered in the
-	last financial year that depicted a drop by 2% as a result of
-	different challenges that the farmers are encountering which were
-	reported to be mainly pests and diseases. Without a proactive
-	measure for this challenge, the production of coffee is more
-	likely to drop according to some farmers. Various approaches have
-	been provided in line with other crops such as cassava,
-	bananas, tomatoes and can be extended to other crops
-	however, these are registered under active procedures- when the
+	80% of the total exports made in Uganda are known to be agricultural products mainly coffee, tea, cotton, among others. Of these agricultural products that formulate Uganda’s exports- Coffee is the major export with a percentage of 22 of the total exports. However, a decrease was registered in the last financial year that depicted a drop by 2% as a result of different challenges that the farmers are encountering which were reported to be mainly pests and diseases. Without a proactive measure for this challenge, the production of coffee is more likely to drop according to some farmers. Various approaches have been provided in line with other crops such as cassava,
+	bananas, tomatoes and can be extended to other crops however, these are registered under active procedures- when the
 	crops are already affected.
 	</p>
 	<div class="speaker">
@@ -43,7 +32,6 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
 	<div class="speaker">
 	<div class="col-xs-3 person">
@@ -53,7 +41,6 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
 </div>
 
@@ -63,24 +50,10 @@ background-color:gray
 
 <h4>A Dataset for Tackling Gender Bias in Text</h4>
 	<p>
-	Most work related to gender bias within the machine learning
-	community is focused on debiasing existing models such as word
-	embeddings, coreference resolution and captioning. We propose to
-	build a dataset from which a model can be trained to detect gender
-	bias in text. BiaslyAI.com was our first prototype; this website
-	allowed for sentences to be labeled via crowdsourcing. Each
-	participant labeled 10 sentences and after 7 days of being deployed
-	a total of 365 participants were reached. The two major takeaways
-	after this first experiment were that binary labeling is hard for
-	labelers and gender bias is misunderstood. Therefore, we suggest
-	finding a gender bias definition from experts to better guide the
-	labelers. With a linguistic approach, we would like to augment
-	existing text data and scrape the web to acquire a larger set of
-	sentences which could be presented through a best-worst scaling to
-	future labelers. With these labeled sentences, a model could be
-	trained to directly address the misconstrued expressions with
+	Most work related to gender bias within the machine learning community is focused on debiasing existing models such as word embeddings, coreference resolution and captioning. We propose to build a dataset from which a model can be trained to detect gender bias in text. BiaslyAI.com was our first prototype; this website allowed for sentences to be labeled via crowdsourcing. Each participant labeled 10 sentences and after 7 days of being deployed a total of 365 participants were reached. The two major takeaways after this first experiment were that binary labeling is hard for labelers and gender bias is misunderstood. Therefore, we suggest finding a gender bias definition from experts to better guide the labelers. With a linguistic approach, we would like to augment existing text data and scrape the web to acquire a larger set of sentences which could be presented through a best-worst scaling to future labelers. With these labeled sentences, a model could be trained to directly address the misconstrued expressions with
 	respect to gender bias.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/yasmeen_hitti.jpg"></center>
@@ -89,8 +62,8 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/Eunbee_Jang.jpg"></center>
@@ -99,8 +72,8 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/Ines_Moreno.JPG"></center>
@@ -109,8 +82,8 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/Carolyne_Pelletier.png"></center>
@@ -119,8 +92,8 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/jasleen_ashta.png"></center>
@@ -129,7 +102,6 @@ background-color:gray
 	</div>
 	<p class="speaker-bio">
 	</p>
-
 	</div>
 </div>
 
@@ -288,21 +260,11 @@ Effective riverine flood forecasting at scale is hindered by a multitude of fact
 
 <h4>Intelligent Drone Swarm for Search and Rescue Operations at Sea</h4>
 	<p>
-In recent years, a rising numbers of people arrived in the European Union,
-traveling across the Mediterranean Sea or overland through Southeast Europe
-in what has been later named as the European migrant crisis. In the last
-5 years, more than 16 thousands people have lost their lives in the
-Mediterranean sea during the crossing. The United Nations Secretary General
-Strategy on New Technologies is supporting the use of Artificial Intelligence
-(AI) and Robotics to accelerate the achievement of the 2030 Sustainable
-Development Agenda, which includes safe and regular migration processes among the others.
+	In recent years, a rising numbers of people arrived in the European Union, traveling across the Mediterranean Sea or overland through Southeast Europe in what has been later named as the European migrant crisis. In the last 5 years, more than 16 thousands people have lost their lives in the Mediterranean sea during the crossing. The United Nations Secretary General Strategy on New Technologies is supporting the use of Artificial Intelligence (AI) and Robotics to accelerate the achievement of the 2030 Sustainable Development Agenda, which includes safe and regular migration processes among the others.
 
-In the same spirit, the central idea of this project aims at using AI
-technology for Search And Rescue (SAR) operations at sea. In particular,
-we propose an autonomous fleet of self-organizing intelligent drones that would enable
-the coverage of a broader area, speeding-up the search processes and finally increasing
-the efficiency and effectiveness of migrants rescue operations.
+	In the same spirit, the central idea of this project aims at using AI technology for Search And Rescue (SAR) operations at sea. In particular, we propose an autonomous fleet of self-organizing intelligent drones that would enable the coverage of a broader area, speeding-up the search processes and finally increasing the efficiency and effectiveness of migrants rescue operations.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/vincenzo_lomonaco.jpg"></center>
@@ -359,21 +321,9 @@ the efficiency and effectiveness of migrants rescue operations.
 <a target="_blank" href="pdfs/track2/67_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>Using AI to Enhance Peer-to-Peer Moderation in Mental Health Forums</h4>
 	<p>
-Mental health is an integral part of people’s wellbeing, mentioned promi-nently
-in the United Nations sustainable development goal for good health and well-being.
-The vast gap between demand and supply of mental healthcare is vast, with people
-seeking help online to seek help they may not be able to get otherwise. Shortage of
-clinical support has partly led many people to participate in online mental health
-forums for seeking help. In forums such as Talklife, 7CupsofTea, and some
-subreddits on Reddit, people can post and interact with others to gain support.
-While online peer-to-peer support has been shown to be effective in helping people
-in emotional and mental distress, there is still much to be improved upon. More
-specifically, there are multiple threads on online mental health forums that have
-been left unmonitored where the original poster did not receive the help they need
-due to human error. In this short paper, we propose a method of using artificial
-intelligence to route peer-to-peer and expert support to threads in mental
-health forums that are in need of the most moderation.
+	Mental health is an integral part of people’s wellbeing, mentioned promi-nently in the United Nations sustainable development goal for good health and well-being. The vast gap between demand and supply of mental healthcare is vast, with people seeking help online to seek help they may not be able to get otherwise. Shortage of clinical support has partly led many people to participate in online mental health forums for seeking help. In forums such as Talklife, 7CupsofTea, and some subreddits on Reddit, people can post and interact with others to gain support. While online peer-to-peer support has been shown to be effective in helping people in emotional and mental distress, there is still much to be improved upon. More specifically, there are multiple threads on online mental health forums that have been left unmonitored where the original poster did not receive the help they need due to human error. In this short paper, we propose a method of using artificial intelligence to route peer-to-peer and expert support to threads in mental health forums that are in need of the most moderation.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/yada.jpg"></center>
@@ -407,16 +357,18 @@ health forums that are in need of the most moderation.
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/76_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>Using Neural Machine Translation to Create African Languages Corpora</h4>
 	<p>
-There is a need for people all over the world to be able to use their own language to learn and especially when using computers or accessing information on the Internet. This requires the existence of a variety of applications including local language spell-checkers, word processors, machine translation systems, search engines, etc. At the same time, the amount of work required to develop all aspects of natural language processing for a new language is huge.
+	There is a need for people all over the world to be able to use their own language to learn and especially when using computers or accessing information on the Internet. This requires the existence of a variety of applications including local language spell-checkers, word processors, machine translation systems, search engines, etc. At the same time, the amount of work required to develop all aspects of natural language processing for a new language is huge.
 
-There are several obstacles to progress in language processing for “new” languages, one of which is the lack of already available resources and tools. This creates a vicious cycle: having resources makes producing resources easier, but not having resources makes the creation and testing of new ones more difficult and time-consuming.
+	There are several obstacles to progress in language processing for “new” languages, one of which is the lack of already available resources and tools. This creates a vicious cycle: having resources makes producing resources easier, but not having resources makes the creation and testing of new ones more difficult and time-consuming.
 
-Another obstacle is the lack of interest(and understanding) of the needs for people to be able to use their own language in computer applications — a lack of interest both in the surrounding world, but also sometimes even in the countries where a language is used. Until a critical mass of language processing resources have been made publicly available, it is not likely that natural language processing for any language can “take off” and reach a level higher than that of academic prototype systems. Making such resources publicly available will further boost activities in the area by allowing researchers to benefit from the work of others and thereby to build more advanced tools without having to invent the wheel over and over again.
+	Another obstacle is the lack of interest(and understanding) of the needs for people to be able to use their own language in computer applications — a lack of interest both in the surrounding world, but also sometimes even in the countries where a language is used. Until a critical mass of language processing resources have been made publicly available, it is not likely that natural language processing for any language can “take off” and reach a level higher than that of academic prototype systems. Making such resources publicly available will further boost activities in the area by allowing researchers to benefit from the work of others and thereby to build more advanced tools without having to invent the wheel over and over again.
 
-This project proposes working on a variety of language processing tools for African languages, starting with the building of machine translation models that will use statistical translation to create bilingual(or multilingual) parallel corpora for African languages.
+	This project proposes working on a variety of language processing tools for African languages, starting with the building of machine translation models that will use statistical translation to create bilingual(or multilingual) parallel corpora for African languages.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/kathleen.jpg"></center>
@@ -430,17 +382,12 @@ This project proposes working on a variety of language processing tools for Afri
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/90_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>Information poverty - Connecting every child to opportunity</h4>
 	<p>
-For a child to be nutritionally healthy, 1,500 calories are required each day. Can
-similar measures be defined with respect to information? If so, how many kilobytes
-and of what type does a child need to be "information healthy" and have equitable
-access to opportunity and choice? UNICEF is creating an open source platform to
-measure a child’s access to information and use this to build sustainable infrastructures
-and programmes that connect every child to opportunity and employment. Here we explore ways
-Artificial Intelligence can help to connect every child in the world to the information they
-require to prepare them for the future.
+	For a child to be nutritionally healthy, 1,500 calories are required each day. Can similar measures be defined with respect to information? If so, how many kilobytes and of what type does a child need to be "information healthy" and have equitable access to opportunity and choice? UNICEF is creating an open source platform to measure a child’s access to information and use this to build sustainable infrastructures and programmes that connect every child to opportunity and employment. Here we explore ways Artificial Intelligence can help to connect every child in the world to the information they require to prepare them for the future.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
       <center><img class="img-circle hvr-buzz" src="img-speakers/naroa.png"></center>
@@ -494,20 +441,22 @@ require to prepare them for the future.
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/81_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>Foundational mapping of Uganda to assist American Red Cross disaster response to floods and pandemics</h4>
 	<p>
-Preparing and responding to humanitarian disasters requires accurate and timely mapping of affected regions. Foundational data such as roads, waterways, population settlements are critical in mapping evacuation routes, community gathering points, and resource allocation.
+	Preparing and responding to humanitarian disasters requires accurate and timely mapping of affected regions. Foundational data such as roads, waterways, population settlements are critical in mapping evacuation routes, community gathering points, and resource allocation.
 
-Current approaches require time-intensive manual labeling from teams of crowdsource human volunteers, such as the Humanitarian OpenStreetMap Team (HOT). We are partnering with the American Red Cross to explore how machine learning techniques can be leveraged to automate the generation of accurate foundational maps from remote sensing data. Here, we describe two critical Red Cross missions in Uganda, our proposed application of machine learning, and the constraints and challenges we anticipate to encounter in deployment and evaluation.
+	Current approaches require time-intensive manual labeling from teams of crowdsource human volunteers, such as the Humanitarian OpenStreetMap Team (HOT). We are partnering with the American Red Cross to explore how machine learning techniques can be leveraged to automate the generation of accurate foundational maps from remote sensing data. Here, we describe two critical Red Cross missions in Uganda, our proposed application of machine learning, and the constraints and challenges we anticipate to encounter in deployment and evaluation.
 
-The American Red Cross described two missions where effectiveness is hampered by the lack of accurate foundational data:
+	The American Red Cross described two missions where effectiveness is hampered by the lack of accurate foundational data:
 
-Pandemic Response: Containing outbreaks of diseases endemic to the region, such as viral hemorrhagic fevers, requires accessible facilities to act as local outposts to coordinate the response, and train healthcare workers.
+	Pandemic Response: Containing outbreaks of diseases endemic to the region, such as viral hemorrhagic fevers, requires accessible facilities to act as local outposts to coordinate the response, and train healthcare workers.
 
-Severe flooding: Heavy rainfall can cause disruptive flooding in Uganda, rendering transportation infrastructure unusable and displacing hundreds of thousands of people, who often rely on emergency relief for food and clean water. These events are expected to become more frequent due to climate change. Flooding that coincides with outbreaks could exacerbate pandemics by disrupting communities’ evacuation routes and hindering aid organizations’ ability to bring in needed supplies. Quickly identifying viable infrastructure after flooding would accelerate the ability of aid organizations to respond.
+	Severe flooding: Heavy rainfall can cause disruptive flooding in Uganda, rendering transportation infrastructure unusable and displacing hundreds of thousands of people, who often rely on emergency relief for food and clean water. These events are expected to become more frequent due to climate change. Flooding that coincides with outbreaks could exacerbate pandemics by disrupting communities’ evacuation routes and hindering aid organizations’ ability to bring in needed supplies. Quickly identifying viable infrastructure after flooding would accelerate the ability of aid organizations to respond.
 
-For both types of emergencies, well-annotated, reliable maps can provide emergency preparedness teams with crucial information needed to successfully and hastily conduct their missions.
+	For both types of emergencies, well-annotated, reliable maps can provide emergency preparedness teams with crucial information needed to successfully and hastily conduct their missions.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/Alexei_Bastidas.jpg"></center>
@@ -631,29 +580,18 @@ For both types of emergencies, well-annotated, reliable maps can provide emergen
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/20_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>211 Data for Social Good</h4>
 	<p>
-The purpose of this project is to use artificial intelligence to analyze data collected by 211
-in order to develop a Canadian-wide social planning tool that can identify the needs in some
-communities and detect trends and changes in social behaviour.
+	The purpose of this project is to use artificial intelligence to analyze data collected by 211 in order to develop a Canadian-wide social planning tool that can identify the needs in some communities and detect trends and changes in social behaviour.
 
-211 is Canada’s primary source of information on government and community-based health and
-social services. Over the phone and on the web, 211 helps to navigate the complex network of
-human services quickly and easily, 24 hours a day, 7 days a week, in over 100 languages. 211
-connects people to the right information and services, strengthens Canada’s health and human
-services, and helps Canadians become more engaged with their communities.
+	211 is Canada’s primary source of information on government and community-based health and social services. Over the phone and on the web, 211 helps to navigate the complex network of human services quickly and easily, 24 hours a day, 7 days a week, in over 100 languages. 211 connects people to the right information and services, strengthens Canada’s health and human services, and helps Canadians become more engaged with their communities.
 
-One of the key mandates of 211 is to improve social and community planning by sharing
-information relating to requests received. 211 data can contribute to enhance the social
-fabric and help to reduce inequalities by ensuring a fairer and more equitable resources
-redistribution based on real needs observed in the community.
+	One of the key mandates of 211 is to improve social and community planning by sharing information relating to requests received. 211 data can contribute to enhance the social fabric and help to reduce inequalities by ensuring a fairer and more equitable resources redistribution based on real needs observed in the community.
 
-
-Therefore, our idea is to maximize the social analysis potential, which could be done with
-211 data. We believe it would be possible to create a tool that uses artificial intelligence,
-using 211 data as well as other data sets, to detect social needs in some communities in order
-to improve and optimize social development.
+	Therefore, our idea is to maximize the social analysis potential, which could be done with 211 data. We believe it would be possible to create a tool that uses artificial intelligence, using 211 data as well as other data sets, to detect social needs in some communities in order to improve and optimize social development.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/mathieu_chaurette.jpeg"></center>
@@ -667,19 +605,14 @@ to improve and optimize social development.
 </div>
 
 <div class="schedule-item row">
+<a target="_blank" href="pdfs/track2/83_aisg_neurips2018.pdf"><img style="float:right" src="img/pdf.png" /></a>
 <h4>Government of Canada's Algorithmic Impact Assessment Framework</h4>
 	<p>
-The Government of Canada is currently working on an Algorithmic Impact Assessment framework that would help institutions better understand and mitigate the risks associated with Artificial Intelligence by providing the appropriate governance, oversight and reporting, and audit requirements.
+	The Government of Canada is currently working on an Algorithmic Impact Assessment framework that would help institutions better understand and mitigate the risks associated with Artificial Intelligence by providing the appropriate governance, oversight and reporting, and audit requirements.
 
-An impact assessment is a tool used for the analysis of possible consequences of an
-initiative with a view to provide recommendations as to how to deploy the initiative and
-under what conditions. The merits of impact assessments predominantly are: 1)
-supports informed decision-making and the protection of societal concerns; 2) facilitates
-compliance with legal and other regulatory requirements (e.g. standards and directives);
-3) when conducted in a transparent manner, appeals to public confidence and
-demonstrate corporate and social responsibility; and 4) being a "best-efforts obligation",
-constitute evidence of due diligence which can potentially limit liabilities.
+	An impact assessment is a tool used for the analysis of possible consequences of an initiative with a view to provide recommendations as to how to deploy the initiative and under what conditions. The merits of impact assessments predominantly are: 1) supports informed decision-making and the protection of societal concerns; 2) facilitates compliance with legal and other regulatory requirements (e.g. standards and directives); 3) when conducted in a transparent manner, appeals to public confidence and demonstrate corporate and social responsibility; and 4) being a "best-efforts obligation", constitute evidence of due diligence which can potentially limit liabilities.
 	</p>
+
 	<div class="speaker">
 	<div class="col-xs-3 person">
 	  <center><img class="img-circle hvr-buzz" src="img-speakers/noel_corriveau.jpg"></center>
@@ -701,11 +634,8 @@ $(function(){
 		$( this ).css("background-color", "white");
 	} )
 
-
 });
 </script>
 
-
             </p>
           </div><!-- /.blog-post -->
-
