@@ -9,7 +9,6 @@
           <div class="blog-post">
 
 <h2>Oral Presentation</h2>
-            <p>
 <style type="text/css">
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -76,8 +75,6 @@
     <td class="tg-0lax">Arijit Patra (University of Oxford)</td>
   </tr>
 </table>
-
-
 
 <h2>Poster Presentation</h2>
 <table class="table" style="undefined;table-layout: fixed; width: 100%">
@@ -250,9 +247,5 @@
   </tr>
 </table>
 
-
-
-
             </p>
           </div><!-- /.blog-post -->
-
