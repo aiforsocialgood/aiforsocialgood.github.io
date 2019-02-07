@@ -37,11 +37,11 @@
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},      
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-            "Geneviève Boucher" :   {"img": "",  "affiliation":"IRIC"},
-            "Virgile Sylvain" :     {"img": "",  "affiliation":""},
-            "Kris Sankaran":        {"img": "",  "affiliation":""},
-            "Kentaro Toyama":       {"img": "",  "affiliation":""},
-            "Rayid Ghani":          {"img": "",  "affiliation":""},
+            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC"},
+            "Virgile Sylvain" :     {"img": "img/missing.jpg",  "affiliation":""},
+            "Kris Sankaran":        {"img": "img/kris.jpg",  "affiliation":"Mila"},
+            "Kentaro Toyama":       {"img": "img/missing.jpg",  "affiliation":""},
+            "Rayid Ghani":          {"img": "img/missing.jpg",  "affiliation":""},
             "Tess Berthier":{"img": "img/tess.berthier.jpeg", "affiliation":"Imagia"}
 
         }
@@ -52,16 +52,18 @@
     "chair" : 
         {
             "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
-            "Paper Review and Call for Paper Chairs - Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
-            "Paper Review and Call for Paper Chairs - Problem Introduction Track" :    ["Kris Sankaran", "Joseph Paul Cohen", "Myriam Côté" ] ,
+            "Paper Review and Call for Paper Chairs" : { 
+               "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
+               "Problem Introduction Track" :    ["Kris Sankaran", "Joseph Paul Cohen", "Myriam Côté" ] 
+            },
             "Sponsor and Finance Chair" :    ["Myriam Côté", "Sean McGregor"],
             "Communication and Website Chair" :          ["Virgile Sylvain", "Geneviève Boucher"],
             "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
-
-           
             "Scientific Chair" :       ["Yoshua Bengio","Rayid Ghani", "Kentaro Toyama"],
             "Program Committee" :      ["Margaux Luck", "Tristan Sylvain","Joseph Paul Cohen",
-                                        "Sean McGregor", "Jonnie Penn",  "Myriam Côté", "Yoshua Bengio"]
+                                        "Sean McGregor", "Jonnie Penn",  "Myriam Côté", "Yoshua Bengio",
+                                        "Kris Sankaran", "Rayid Ghani", "Kentaro Toyama","Virgile Sylvain", 
+                                        "Geneviève Boucher" ]
            
         }
     },
