@@ -33,6 +33,11 @@ for section_name in sections:
         outfile.write(str(s))
         outfile.close()
 
+        if section_name == 'home':
+            outfile = open('../index.htm', "w")
+            outfile.write(str(s))
+            outfile.close()
+
     except Exception as e:
         print(section_name, e)
 
