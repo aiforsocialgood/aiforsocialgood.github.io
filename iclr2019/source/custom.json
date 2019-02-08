@@ -1,35 +1,49 @@
 {
 "default" :{
 
+  "conference_nick" : "ICLR2019", 
+  "conference_name" : "International Conference on Learning Representations", 
+  "conference_abbr" : "ICLR", 
+  "conference_website" : "https://iclr.cc",
+  "conference_city" : "New Orleans",
+  "conference_state" : "Louisiana",
+  "conference_location" : "Ernest N. Morial Convention Center, New Orleans",
+  "conference_onsite": "ICLR 2019, New Orleans, Louisiana, Ernest N. Morial Convention Center, New Orleans",
+  "conference_onsite_map":"https://www.google.com/maps/place/New+Orleans+Ernest+N.+Morial+Convention+Center/@29.9415187,-90.0657714,17z/data=!3m1!4b1!4m5!3m4!1s0x8620a66e2c49ba7f:0x185d4d6c82fa192f!8m2!3d29.9415141!4d-90.0635827",
+  
   "year" : "2019",
   "workshop_date": "May 6th, 2019" ,
   "workshop_room": "Room R5",
-  "workshop_from": "9:00AM",
-  "workshop_until": "6:00PM",
+  "workshop_from": "9:00 AM",
+  "workshop_until": "6:00 PM",
   "workshop_day_litteral" : "6th",
   "workshop_date_with_day" : "Monday May 6th",
   "workshop_abbr" : "AISG",
   "workshop_name" : "AI for Social Good",
   "workshop_mailto" : "aisg2019.iclr.contact@gmail.com",
 
-  "conference_nick" : "ICLR2019",
-  "conference_name" : "International Conference on Learning Representations",
-  "conference_abbr" : "ICLR",
-  "conference_website" : "https://iclr.cc",
-  "conference_city" : "New Orleans",
-  "conference_state" : "Louisiana",
-  "conference_location" : "Ernest N. Morial Convention Center, New Orleans",
-
+  "workshop_website" : "https://aiforsocialgood.github.io/iclr2019",
+ 
+  "workshop_talk_duration" : "TBD minutes",
   "github_link" : "https://aiforsocialgood.github.io/iclr2019",
-  "deadline_date" : "to be announced",
-  "deadline_hour" : "",
-  "notification_date" : "to be announced",
-  "cameraready_date" : "to be announced",
-  "submission_link" : "",
-  "overleaf_template_link" : "https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss",
+  "submission_open_date" : "March 6th 2019",
+  "submission_deadline_date" : "March 15th 2019",
+  "deadline_hour" : "", 
+  "notification_pre_selected" : "March 18th 2019",
+  "notification_date" : "April 8th 2019",
+  "cameraready_date" : "April 26th 2019",
+  "submission_link" : "https://cmt3.research.microsoft.com/AISG2019ICLR",
+  "overleaf_template_link" : "https://www.overleaf.com/latex/templates/template-for-iclr-2019-conference-submissions/cgrnhwjpnfsv",
+  "proposal_template_link" : "TBD",
+  "screen_size" : "TBD",
+  "poster_size_inches" : "TBD W x TBD H inches",
+  "poster_size_cm" : "TBD W x TBD H cm",
 
-  "people" :
-        {
+
+
+  "people" : 
+        { 
+
             "Margaux Luck" :        {"img": "img/margaux.jpg",  "affiliation":"Mila"},
             "Jonnie Penn" :         {"img": "img/jonnie.jpg",   "affiliation":"University of Cambridge"},
             "Tristan Sylvain" :     {"img": "img/tristan.jpg",  "affiliation":"Mila"},
@@ -43,6 +57,7 @@
             "Kentaro Toyama":       {"img": "img/kentaro.jpg",  "affiliation":""},
             "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg",  "affiliation":""}
 
+
         }
   },
 
@@ -54,6 +69,7 @@
             "Paper Review and Call for Paper Chairs" : {
                "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
                "Problem Introduction Track" :    ["Kris Sankaran", "Joseph Paul Cohen", "Myriam Côté" ]
+
             },
             "Sponsor and Finance Chair" :    ["Myriam Côté", "Sean McGregor"],
             "Communication and Website Chair" :          ["Virgile Sylvain", "Geneviève Boucher"],
