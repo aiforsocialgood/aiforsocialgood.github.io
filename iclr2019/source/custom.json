@@ -9,7 +9,7 @@
   "conference_state" : "Louisiana",
   "conference_location" : "Ernest N. Morial Convention Center, New Orleans",
   "conference_onsite": "ICLR 2019, New Orleans, Louisiana, Ernest N. Morial Convention Center, New Orleans",
-  "conference_onsite_map":"https://www.google.com/maps/place/New+Orleans+Ernest+N.+Morial+Convention+Center/@29.9415187,-90.0657714,17z/data=!3m1!4b1!4m5!3m4!1s0x8620a66e2c49ba7f:0x185d4d6c82fa192f!8m2!3d29.9415141!4d-90.0635827",
+  "conference_onsite_map": " https://www.google.com/maps/place/New+Orleans+Ernest+N.+Morial+Convention+Center/@29.9415187,-90.0657714,17z/data=!3m1!4b1!4m5!3m4!1s0x8620a66e2c49ba7f:0x185d4d6c82fa192f!8m2!3d29.9415141!4d-90.0635827",
   
   "year" : "2019",
   "workshop_date": "May 6th, 2019" ,
@@ -52,10 +52,10 @@
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
             "Geneviève Boucher" :   {"img": "img/genevieve.png",  "affiliation":"IRIC"},
-            "Virgile Sylvain" :     {"img": "img/virgile.jpeg",  "affiliation":""},
-            "Kris Sankaran":        {"img": "img/kris.jpg",  "affiliation":"Mila"},
-            "Kentaro Toyama":       {"img": "img/kentaro.jpg",  "affiliation":""},
-            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg",  "affiliation":""}
+            "Virgile Sylvain" :     {"img": "img/virgile.jpeg",   "affiliation":""},
+            "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
+            "Kentaro Toyama":       {"img": "img/kentaro.jpg",     "affiliation":""},
+            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":""}
 
 
         }
