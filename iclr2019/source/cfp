@@ -46,7 +46,7 @@ Track1/Track2 - Deadline for submissions: ${submission_deadline_date}<br>
 Track2 - Notification of pre-selected team: ${notification_pre_selected}<br>
 Track1/Track2 - Notification of acceptance: ${notification_date}<br>
 Track1/Track2 - Camera-ready submission: ${cameraready_date}<br>
-Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="$conference_onsite_map">${conference_onsite}</a>
+Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a>
 
 <br><br>
 <b>Submission details</b><br>
