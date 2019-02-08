@@ -32,21 +32,24 @@ We accept submissions relating to at least one of the previously mentioned domai
 We invite two types of submissions:
 <br><Br>
 <ul>
-<li><b>Short Papers Track</b> (Up to four page papers + unlimited pages for citations) for oral and/or poster presentation. The short papers should focus on past and current research work, showcasing actual results and demonstrating beneficial effects on society. We also accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.</li>
+<li><b>Short Papers Track aka Track 1 (Up to four page papers + unlimited pages for citations) </b>for oral and/or poster presentation. The short papers should focus on past and current research work, showcasing actual results and demonstrating beneficial effects on society. We also accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.</li>
 <br>
-<li><b>Problem Introduction Track</b> (Application form, up to four page responses + unlimited pages for citations) which will present a specific solution that will be shared with stakeholders, scientists, and funders. The workshop will provide a suite of questions designed to: (1) estimate the feasibility and impact of the proposed solutions, and (2) estimate the importance of data in their implementation. The application responses should highlight ideas that have not yet been implemented in practice but can lead to real impact. The projects may be at varying degrees of development, from formulation as a data problem to structure for effective deployment. The workshop provides a supportive platform for developing these early-stage or hobby proposals into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. Accepted submissions may be promoted to the wider AI solutions community following the workshop via the <a href="http://www.aicommons.com">AI Commons</a>, with whom we are partnering to promote the longer-term development of projects.</li>
+<li><b>Problem Introduction Track aka Track 2 (Application form, up to four page responses + unlimited pages for citations)</b> which will present a specific solution that will be shared with stakeholders, scientists, and funders. The workshop will provide a suite of questions designed to: (1) estimate the feasibility and impact of the proposed solutions, and (2) estimate the importance of data in their implementation. The application responses should highlight ideas that have not yet been implemented in practice but can lead to real impact. The projects may be at varying degrees of development, from formulation as a data problem to structure for effective deployment. The workshop provides a supportive platform for developing these early-stage or hobby proposals into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. Accepted submissions may be promoted to the wider AI solutions community following the workshop via the <a href="http://www.aicommons.com">AI Commons</a>, with whom we are partnering to promote the longer-term development of projects.</li>
 </ul>
 
 <br>
 
 <b>Important dates</b><br>
 
-Track1/Track2 - Submission open: ${submission_open_date}<br>
-Track1/Track2 - Deadline for submissions: ${submission_deadline_date}<br>
-Track2 - Notification of pre-selected team: ${notification_pre_selected}<br>
-Track1/Track2 - Notification of acceptance: ${notification_date}<br>
-Track1/Track2 - Camera-ready submission: ${cameraready_date}<br>
-Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a>
+Track 1 / Track 2 - Submissions open: <span style="float:right;">${submission_open_date}</span><br>
+Track 1 / Track 2 - Deadline for submissions: <span style="float:right;">${submission_deadline_date}</span><br>
+<!--Need to fix this in the future, not elegant -->
+Track 2 <%  spaces = "&nbsp" * (len(" / Track 1 ")+5) %> ${spaces}
+- Notification of pre-selected team: <span style="float:right;">${notification_pre_selected}</span><br>
+Track 1/ Track 2 - Notification of acceptance:&nbsp&nbsp <span style="float:right;">${notification_date}</span><br>
+Track 1/ Track 2 - Camera-ready submission:&nbsp&nbsp <span style="float:right;">${cameraready_date}</span><br>
+<br>
+Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a><br>
 
 <br><br>
 <b>Submission details</b><br>
@@ -61,7 +64,13 @@ Author guidelines can be found here:
 <br>
 Short Papers Track (four page papers) (<a href="${overleaf_template_link}">Overleaf template</a>)
 <br>
-Project Proposal Track (two page papers) (<a href="${proposal_template_link}"></a>) or a similar looking PDF
+Project Proposal Track (four page papers) 
+% if proposal_template_link == "TBD"  : 
+    (TBD) 
+% else :
+    (<a href="${proposal_template_link}"></a>)
+% endif
+or a similar looking PDF
 <br>
 Poster Size: ${poster_size_inches} or ${poster_size_cm}
 
