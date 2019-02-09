@@ -62,9 +62,9 @@ Camera-ready papers will be due in advance of the workshop. Final acceptance of 
 <br><br>
 Author guidelines can be found here: 
 <br>
-Short Papers Track (four page papers) (<a href="${overleaf_template_link}">Overleaf template</a>)
+Short Papers Track aka Track 1 (four page papers) (<a href="${overleaf_template_link}">Overleaf template</a>)
 <br>
-Problem Introduction Track (four page papers) 
+Problem Introduction Track aka Track 2 (four page papers) 
 % if proposal_template_link == "TBD"  : 
     (TBD) 
 % else :
