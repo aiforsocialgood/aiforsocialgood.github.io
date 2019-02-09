@@ -7,7 +7,7 @@ Do not edit .htm files directly as any modification will be lost next time compi
 The python script uses mako templating package (in source) to create the html pages.  
 Workshop custom informations are defined in the custom.json file.
 
-###Requirements : 
+### Requirements : 
 * python v3
 * mako 
   
