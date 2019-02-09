@@ -46,8 +46,8 @@ Track 1 / Track 2 - Deadline for submissions: <span style="float:right;">${submi
 <!--Need to fix this in the future, not elegant -->
 Track 2 <%  spaces = "&nbsp" * (len(" / Track 1 ")+5) %> ${spaces}
 - Notification of pre-selected team: <span style="float:right;">${notification_pre_selected}</span><br>
-Track 1/ Track 2 - Notification of acceptance:&nbsp&nbsp <span style="float:right;">${notification_date}</span><br>
-Track 1/ Track 2 - Camera-ready submission:&nbsp&nbsp <span style="float:right;">${cameraready_date}</span><br>
+Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp <span style="float:right;">${notification_date}</span><br>
+Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp <span style="float:right;">${cameraready_date}</span><br>
 <br>
 Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a><br>
 
@@ -64,7 +64,7 @@ Author guidelines can be found here:
 <br>
 Short Papers Track (four page papers) (<a href="${overleaf_template_link}">Overleaf template</a>)
 <br>
-Project Proposal Track (four page papers) 
+Problem Introduction Track (four page papers) 
 % if proposal_template_link == "TBD"  : 
     (TBD) 
 % else :
