@@ -13,6 +13,9 @@
 <br>${workshop_date}
 <br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
 </p>
+<p>Contact :  <br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+
+
           </div>
  <!--          <div class="sidebar-module">
             <h4>Sponsors</h4>
@@ -36,6 +39,7 @@
 
     <footer class="blog-footer">
       <p>AI for Social Good Workshop ${conference_nick}</p>
+      <p>Contact :  <a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
       <br><small>*not affiliated with the AI for Social Good Foundation</small>
     </footer>
 
