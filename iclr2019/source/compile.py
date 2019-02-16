@@ -6,7 +6,7 @@ from mako.lookup import TemplateLookup
 
 reg = "\$\{[^$]*\}"
 
-mylookup = TemplateLookup(directories=['.', '../bio', '../abstract'],
+mylookup = TemplateLookup(directories=['.', '../bio'],
                           strict_undefined=False,
                           input_encoding='utf-8')
 
@@ -14,7 +14,7 @@ mylookup = TemplateLookup(directories=['.', '../bio', '../abstract'],
 custom = json.loads(open('custom.json').read())
 
 # Get all sections
-sections = ['proposals', 'home', 'schedule',
+sections = ['proposals', 'home', 'schedule', 'faq',
             'acceptedpapers', 'cfp', 'organizers']
 
 for section_name in sections:
