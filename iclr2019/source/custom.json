@@ -21,7 +21,6 @@
   "workshop_abbr" : "AISG",
   "workshop_name" : "AI for Social Good",
   "workshop_mailto" : "aisg2019.iclr.contact@gmail.com",
-
   "workshop_website" : "https://aiforsocialgood.github.io/iclr2019",
  
   "workshop_talk_duration" : "TBD minutes",
@@ -86,14 +85,22 @@
 
  "schedule" : {
 
+        "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Monday May 6th"],
+
 
         "talks" :{
             "Monday May 6th" : [
-                {"time" : "9:00", "speaker_name": "Yoshua Bengio", "title" : "Opening remarks" }
+                {"time" : "9:00", "speaker_name": "Yoshua Bengio"}
 
             ]
         }
 
-    }
+    },
+  "acceptedpapers" : {
+    
+    "papers_dir" : "../accepted/track1",
+    "papers_pdf_link" : "accepted/track1/pdfs"
+  }
+
 }

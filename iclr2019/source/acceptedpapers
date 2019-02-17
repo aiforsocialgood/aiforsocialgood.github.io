@@ -16,6 +16,87 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
+<!--
+
+<table class="table" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 79px">
+<col style="width: 300px">
+<col style="">
+</colgroup>
+  <tr>
+    <th class="tg-0lax">Paper ID</th>
+    <th class="tg-0lax">Paper Title</th>
+    <th class="tg-0lax">Author Names</th>
+  </tr>
+
+    <%
+
+    import os
+    papers = [] 
+    filenames = os.listdir(papers_dir)
+    filenames = [f for f in filenames if '.txt' in f]
+    
+    for filename in filenames:
+
+        id = filename.split('_')[0]
+        name = filename.split('.')[0]
+
+        finput = open('{}/{}'.format(papers_dir, filename))
+        lines = finput.readlines()
+        infos = dict([tuple(l.strip().split(':')) for l in lines])
+        
+        # information not in the file
+        if "pdf" not in infos.keys():
+            infos["pdf"] = '{}/{}.pdf'.format(papers_pdf_link, name)
+
+        infos["id"] = id
+        infos["name"] = name
+
+        # Check that pdf exists
+        rootdir = os.path.dirname(os.getcwd())
+        pdffile = os.path.join(rootdir, infos['pdf'])
+        if not os.path.exists(pdffile):
+            infos["pdf"] = ""
+
+        papers.append(infos)
+        
+
+    %>
+
+
+   % for p in papers:
+    <tr>
+
+        <td class="tg-0lax"> ${p['id']}
+
+            <br>
+            % if p.get("pdf", "") != "" :
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+            % else:
+                Not available
+            % endif
+        </td>
+        
+        <td class="tg-0lax">
+        % if p.get("tag", "") != "" : 
+                 <span class="label label-success"> ${p["tag"]}</span> 
+        % endif
+
+        <br>${p.get("title", "")} </td>
+
+    <td class="tg-0lax"> ${p.get("authors", "")}</td>
+     </tr>
+    % endfor
+
+
+</table>
+
+
+-->
+
+
+
 
 
 
