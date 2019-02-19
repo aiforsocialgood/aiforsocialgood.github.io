@@ -10,6 +10,3 @@ Here: <a href="${workshop_website}/acceptedpapers.htm">${workshop_website}/accep
 Here: <a href="${workshop_website}/proposals.htm">${workshop_website}/proposals.htm</a>
 <br><br>
 
-<b>There is a mistake in the display of the title, author list, PDF, video, ... of my submission on the website what should I do?</b><br>
-Please send an email to the workshop email: 
-<a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
