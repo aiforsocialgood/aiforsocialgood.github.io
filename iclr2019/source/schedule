@@ -11,35 +11,46 @@
             <p>
 
 Coming soon
+
 <!--
 % for d in schedule_date:
-    % for t in talks[d]: 
+    % for talk in talks[d]: 
+
+    <%
+
+    filename = talk['speaker_name'].replace(' ', '_')
+    finput = open('{}/{}.txt'.format(schedule_items_dir, filename))
+    lines = finput.readlines()
+    infos = dict([tuple(l.strip().split(':')) for l in lines])
+
+    %>
 
     <div class="schedule-item row">
-    <h4>${t["time"]} ${t["title"]}</h4>
-	<p>
-    <%include file="${t['speaker_name'].replace(' ', '_')}.abstract.html"/>
+    <h4>${talk["time"]} ${infos.get('title', '')}</h4>
+   
+   <p>
+        ${infos.get('abstract', '')}
    </p>
+
     <div class="speaker">
     <div class="col-xs-3 person">
-      <center><img class="img-circle hvr-buzz" src="${people[t['speaker_name']]['img']}"></center>
-      <h4 class="speaker-name">${t["speaker_name"]}</h4>
-      <p class="speaker-org">${people[t["speaker_name"]]["affiliation"]}</p>
+      <center><img class="img-circle hvr-buzz" 
+      src="${people[talk['speaker_name']]['img']}"></center>
+      <h4 class="speaker-name">${talk["speaker_name"]}</h4>
+      <p class="speaker-org">${people[talk["speaker_name"]]["affiliation"]}</p>
     </div>
 
     <p class="speaker-bio">
-    	
-    	<%include file="${t['speaker_name'].replace(' ', '_')}.bio.html"/>
-    
+      <%include file="${talk['speaker_name'].replace(' ', '_')}.bio.html"/>
     </p>
+
     </div>
 </div>
 
     % endfor
 % endfor
+
 -->
-
-
 
 
 <script>

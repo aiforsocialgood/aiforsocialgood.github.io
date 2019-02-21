@@ -16,6 +16,51 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
+<!--
+
+<table class="table" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 79px">
+<col style="width: 300px">
+<col style="">
+</colgroup>
+  <tr>
+    <th class="tg-0lax">Paper ID</th>
+    <th class="tg-0lax">Paper Title</th>
+    <th class="tg-0lax">Author Names</th>
+  </tr>
+
+   % for p in papers:
+    <tr>
+
+        <td class="tg-0lax"> ${p['id']}
+
+            <br>
+            % if p.get("pdf", "") != "" :
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+            % else:
+                Not available
+            % endif
+        </td>
+        
+        <td class="tg-0lax">
+        % if p.get("tag", "") != "" : 
+                 <span class="label label-success"> ${p["tag"]}</span> 
+        % endif
+
+        <br>${p.get("title", "")} </td>
+
+    <td class="tg-0lax"> ${p.get("authors", "")}</td>
+     </tr>
+    % endfor
+
+
+</table>
+
+-->
+
+
+
 
 
 
