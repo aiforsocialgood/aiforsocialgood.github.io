@@ -5,7 +5,7 @@
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
           
             <h4>Important Dates</h4><br>
-<p><b>Deadline for submissions : <br>${submission_deadline_date}<br> ${deadline_hour} eastern time</b></p>
+<p><b>Deadline for submissions : <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
 <p>Notification of acceptance : <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
 <p>Workshop date : 
