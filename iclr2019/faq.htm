@@ -104,14 +104,14 @@ function pageScript(tomatch){
 <a href="#submission" style="text-decoration: none;cursor:pointer;" ><span class="label label-default">Submission</span></a>
 -->
 
-<a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-success">Workshop</span></a>
-<a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-default">Submission</span></a>
+<a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">Workshop</span></a>
+<a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
+<a id="fundings_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
 <br><br>
 
 
 <div id="workshop" class="faq" style="display:block;">
 <h3>General Workshop Questions</h3><br>
-
 <b>Where is the schedule of the event?</b><br>
 Here: <a href="https://aiforsocialgood.github.io/iclr2019/schedule.htm">https://aiforsocialgood.github.io/iclr2019/schedule.htm</a>
 <br><br>
@@ -125,13 +125,11 @@ Here: <a href="https://aiforsocialgood.github.io/iclr2019/proposals.htm">https:/
 <br><br>
 
 
-
 </div>
 
 
 <div id="submission" class="faq" style="display:none;">
 <h3>Submission Related Questions </h3> <br>
-
 <b>Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?</b><br>
 Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable number of pages (~4 additional pages) and that it follows the same format as the paper. Papers that are over length or violate the author guidelines format will be rejected without review.
 <br><br>
@@ -183,9 +181,69 @@ Please send an email to the workshop email:
 
 <b>I might have a VISA issue?</b><br>
 If you have submitted a paper (whether or not the deadline has passed) and you anticipate your US travel visa to take a long time, we encourage you to please contact us as soon as possible. We'll do our best to find a solution, by for example fast-tracking the review of your work.
-
 </div>
 
+
+<div id="fundings" class="faq" style="display:none;">
+<h3>Fundings Related Questions </h3> <br>
+
+<b>Can I apply for travel funding?</b><br>
+
+We have some funds we could use to pay the travel expenses of the speakers who need financial assistance and who satisfy all the following conditions:<br>
+<ul>
+<li>You do not have an alternative funding source to pay for your travel expenses</li>
+<li>You are a professor or a student registered in a university</li>
+</ul>
+We will also consider exceptional cases such as members of NGOs with limited resources.
+<br>
+If all of the conditions apply to you please let us know and send us:
+<ul>
+<li>Your CV</li>
+<li>A Motivation letter</li>
+<li>A summary of your research work</li>
+<li>Why you feel you should get funding</li>
+<li>An estimated travel budget (choices for travel and hotel must be low-cost)</li>
+<li>If you are a student a recommendation letter from your professor</li>
+<li>Proof that you are affiliated to the university (e.g. university id card, …)</li>
+</ul>
+
+Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
+<br>
+The workshop program committee will review all applicants and decide which will receive this grant. 
+<br>
+Be advised that we do not guarantee that all the people who submit a proposal will receive funding as we have limited funds. We also do not guarantee we will reimburse the full amount asked for in the application. In addition, reimbursements will only be processed once the final camera-ready version of the accepted submission has been received.
+
+<br><br>
+
+
+<b>How travel funding application are selected?</b><br>
+
+The following criteria will be considered:
+<ul>
+<li>Is the candidate from a developing country?</li>
+<li>Is the candidate from an under-represented group or minority (women, young researchers, …)?</li>
+<li>Impact of the applicant’s research.</li>
+<li>Will coming to the conference be beneficial to the applicant?</li>
+<li>Is the applicant the first author?</li>
+</ul>
+
+
+<br><br>
+
+
+<b>I have been selected by the workshop committee for travel fundings: What are the documents I need to provide to be reimbursed?</b><br>
+<ul>
+<li>Boarding passes of the airplane ticket. </li>
+<li>Hotel stay (only the stay on the 5th and 6th May 2019 will be considered as the workshop is held the 6th): We need receipts showing that you paid for the rooms.</li>
+<li>ICLR registration: We need the registration receipt showing that the registration was paid.</li>
+<li>Your bank account document showing that you paid those expenses. The credit card number on your bank account and the bill should concord.</li>
+<li>Proof that your University did not cover the expenses.</li>
+</ul>
+
+Please note: We will consider only the electronic version of the documents mentioned above. Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
+
+
+</div>
 
 <script>
 
@@ -194,6 +252,9 @@ If you have submitted a paper (whether or not the deadline has passed) and you a
       id = id.split("_")[0];
       $(".faq").hide();
       $("#"+id).show();
+      $("span.label").removeClass("label-current");
+      $("span.label").addClass("label-default");
+      $(this).find("span").addClass("label-current");
   } );
   
 

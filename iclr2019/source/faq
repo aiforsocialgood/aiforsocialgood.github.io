@@ -1,5 +1,5 @@
       <div class="blog-header">
-        <h1 class="blog-title">Frequently asked questions</h1>
+        <h1 class="blog-title">Frequently Asked Questions</h1>
       </div>
 
       <div class="row">
@@ -16,26 +16,28 @@
 <a href="#submission" style="text-decoration: none;cursor:pointer;" ><span class="label label-default">Submission</span></a>
 -->
 
-<a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-success">Workshop</span></a>
-<a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-default">Submission</span></a>
+<a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">Workshop</span></a>
+<a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
+<a id="fundings_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
 <br><br>
 
 
 <div id="workshop" class="faq" style="display:block;">
 <h3>General Workshop Questions</h3><br>
-
 <%include file="faq_general"/>
-
 </div>
 
 
 <div id="submission" class="faq" style="display:none;">
 <h3>Submission Related Questions </h3> <br>
-
 <%include file="faq_submission"/>
-
 </div>
 
+
+<div id="fundings" class="faq" style="display:none;">
+<h3>Fundings Related Questions </h3> <br>
+<%include file="faq_fundings"/>
+</div>
 
 <script>
 
@@ -44,6 +46,9 @@
       id = id.split("_")[0];
       $(".faq").hide();
       $("#"+id).show();
+      $("span.label").removeClass("label-current");
+      $("span.label").addClass("label-default");
+      $(this).find("span").addClass("label-current");
   } );
   
 
