@@ -1,0 +1,55 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Frequently Asked Questions</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+            
+
+
+<a id="reviewers_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">For Reviewers</span></a>
+<a id="areachairs_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">For Area Chairs</span></a>
+<br><br>
+
+
+<div id="reviewers" class="faq" style="display:block;">
+
+<%include file="guidelines_reviewers"/>
+</div>
+
+
+<div id="areachairs" class="faq" style="display:none;">
+
+<%include file="guidelines_areachairs"/>
+</div>
+
+
+<script>
+
+  $("a").on("click", function(){
+      var id = $(this).attr('id');
+      id = id.split("_")[0];
+      $(".faq").hide();
+      $("#"+id).show();
+      $("span.label").removeClass("label-current");
+      $("span.label").addClass("label-default");
+      $(this).find("span").addClass("label-current");
+  } );
+  
+
+</script>
+
+
+            
+            </p>
+          </div><!-- /.blog-post -->
+
+
+
+
+          
