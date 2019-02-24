@@ -19,6 +19,7 @@
 <a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">Workshop</span></a>
 <a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
 <a id="fundings_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
+<a id="reviewers_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
 <br><br>
 
 
@@ -30,6 +31,7 @@
 
 <div id="submission" class="faq" style="display:none;">
 <h3>Submission Related Questions </h3> <br>
+<em>As found in the <a href="cfp.htm">call for paper section</a></em><br><br>
 <%include file="faq_submission"/>
 </div>
 
@@ -39,9 +41,15 @@
 <%include file="faq_fundings"/>
 </div>
 
+<div id="reviewers" class="faq" style="display:none;">
+<h3>Reviewers Related Questions </h3> <br>
+<em>As found in the <a href="guidelines.htm">guidelines section</a></em><br><br>
+<%include file="faq_reviewers"/>
+</div>
+
 <script>
 
-  $("a").on("click", function(){
+  $("a[id$='_toggle']").on("click", function(){
       var id = $(this).attr('id');
       id = id.split("_")[0];
       $(".faq").hide();
@@ -49,8 +57,9 @@
       $("span.label").removeClass("label-current");
       $("span.label").addClass("label-default");
       $(this).find("span").addClass("label-current");
-  } );
-  
+  });
+
+
 
 </script>
 
