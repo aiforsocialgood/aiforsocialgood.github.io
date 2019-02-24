@@ -55,7 +55,8 @@ custom = json.loads(open('custom.json').read())
 
 # Get all sections
 sections = ['proposals', 'home', 'schedule', 'faq',
-            'acceptedpapers', 'cfp', 'organizers']
+            'acceptedpapers', 'cfp', 'organizers',
+            'guidelines']
 
 for section_name in sections:
 

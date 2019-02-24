@@ -64,7 +64,9 @@ function pageScript(tomatch){
       <div class="container">
         <nav class="blog-nav">
           <a class="blog-nav-item" href="index.htm">AI for Social Good ICLR2019 Workshop</a>
-          <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
+           <a class="blog-nav-item" href="schedule.htm">Schedule</a>
+
+           <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
 			<span class="dropdown">
 			  <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
 			    Accepted Papers
@@ -75,7 +77,7 @@ function pageScript(tomatch){
 			    <li><a href="proposals.htm">Problem Introduction</a></li>
 			  </ul>
 			</span>
-          <a class="blog-nav-item" href="schedule.htm">Schedule</a>
+          <a class="blog-nav-item" href="guidelines.htm">Guidelines</a>
           <a class="blog-nav-item" href="organizers.htm">Organizers</a>
           <a class="blog-nav-item" href="faq.htm">FAQ</a>
           <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
@@ -107,6 +109,7 @@ function pageScript(tomatch){
 <a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">Workshop</span></a>
 <a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
 <a id="fundings_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
+<a id="reviewers_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
 <br><br>
 
 
@@ -130,6 +133,7 @@ Here: <a href="https://aiforsocialgood.github.io/iclr2019/proposals.htm">https:/
 
 <div id="submission" class="faq" style="display:none;">
 <h3>Submission Related Questions </h3> <br>
+<em>As found in the <a href="cfp.htm">call for paper section</a></em><br><br>
 <b>Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?</b><br>
 Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable number of pages (~4 additional pages) and that it follows the same format as the paper. Papers that are over length or violate the author guidelines format will be rejected without review.
 <br><br>
@@ -245,9 +249,41 @@ Please note: We will consider only the electronic version of the documents menti
 
 </div>
 
+<div id="reviewers" class="faq" style="display:none;">
+<h3>Reviewers Related Questions </h3> <br>
+<em>As found in the <a href="guidelines.htm">guidelines section</a></em><br><br>
+<b>Is there a minimum number of papers I should accept or reject?</b>
+<p id='1'>
+No. Each paper should be evaluated in its own right. If you feel that most of the papers assigned to you have value, you should accept them. It is unlikely that most papers are bad enough to justify rejecting them all. However, if that is the case, provide clear and very specific comments in each review. Do NOT assume that your stack of papers necessarily should have the same acceptance rate as the entire conference ultimately will.
+</p>
+
+<b>Can I review a paper I already saw on arXiv and hence know who the authors are?</b><p>
+Yes. See next bullet below for guidelines.
+</p>
+
+
+<b>How should I treat papers for which I know the authors?</b><p>
+Reviewers should make every effort to treat each paper fairly, whether or not they know who wrote the paper. For example: It is Not OK for a reviewer to read a paper, think "I know who wrote this; it's on arXiv; they're usually quite good" and accept paper based on that reasoning. Conversely, it is also Not OK for a reviewer to read a paper, think "I know who wrote this; it's on arXiv; they're no good" and reject paper based on that reasoning.
+</p>
+
+
+<b>How should I treat arXiv papers?</b><p>
+ArXiv papers are not considered prior work since they have not been peer reviewed. Therefore, you should review your AISG workshop short papers independently as if the ArXiv papers didn't exist. Citations to these papers are not required and failing to cite or beat performance of arXiv papers are not grounds for rejection. For example:
+
+<ul>
+<li>It is Not OK for a reviewer to suggest rejection for not citing an arXiv paper or not being better than something on arXiv.</li>
+<li>It is Not OK to accept a paper solely because it performs better than something on arXiv.</li>
+<li>It is Not OK to reject a paper solely because it performs worse than something on arXiv.</li>
+<li>It is Not OK to regard arXiv as a standard for the state of the art, because it is not reviewed. This applies *whoever* wrote the arXiv paper.</li>
+<li>It is Not OK for a reviewer to reject a paper solely because another paper with a similar idea has already appeared on arXiv. If the reviewer is worried about plagiarism they should bring this up in confidential comments to the AC.</li>
+<li>It is OK for a reviewer to suggest an author should acknowledge and be aware of something on arXiv.</li>
+<li>It is OK for an author to decline to acknowledge something on arXiv (because it has not been reviewed and so may not be right).</li>
+</ul>
+</div>
+
 <script>
 
-  $("a").on("click", function(){
+  $("a[id$='_toggle']").on("click", function(){
       var id = $(this).attr('id');
       id = id.split("_")[0];
       $(".faq").hide();
@@ -255,8 +291,9 @@ Please note: We will consider only the electronic version of the documents menti
       $("span.label").removeClass("label-current");
       $("span.label").addClass("label-default");
       $(this).find("span").addClass("label-current");
-  } );
-  
+  });
+
+
 
 </script>
 
