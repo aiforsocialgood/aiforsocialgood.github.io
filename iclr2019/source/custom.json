@@ -68,7 +68,7 @@
             "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
             "Paper Review and Call for Paper Chairs" : {
                "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
-               "Problem Introduction Track" :    ["Kris Sankaran", "Joseph Paul Cohen", "Myriam Côté" ]
+               "Problem Introduction Track" :    ["Kris Sankaran", "Myriam Côté" ]
 
             },
             "Sponsor and Finance Chairs" :    ["Myriam Côté", "Sean McGregor"],
@@ -77,7 +77,7 @@
             "Scientific Chairs" :       ["Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"],
             "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
                                         "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
-                                        "Geneviève Boucher", "Joseph Paul Cohen", "Myriam Côté",
+                                        "Geneviève Boucher",  "Myriam Côté",
                                         "Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"]
 
         }
