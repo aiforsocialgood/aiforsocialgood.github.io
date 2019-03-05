@@ -1,5 +1,9 @@
 
-<h3>Reviewers Guidelines</h3><br>
+<h3>Reviewers Guidelines</h3>
+<h5><em>(for <a href="#short_paper">Short Paper</a> and <a href="#project_proposal">Project Proposal</a> tracks)</em></h5>
+<br>
+
+<div id="short_paper">
 <h4><b>Short paper track aka. Track 1</b></h4>
 <br>
 
@@ -14,7 +18,8 @@ We wish to acknowledge the following as sources of inspiration for the following
 
 
 <b>Contact information</b><p>
-<a href="mailto:${workshop_mailto}">${workshop_mailto}</a></p>
+<a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
+</p>
 <br>
 
 
@@ -40,7 +45,8 @@ Acceptance and rejection decisions should not be determined solely by the method
 Each short paper that is accepted should be technically sound and make a contribution to the field.
 <br><br>
 It is important to note that the potential impact of a proposition is one of the most important criteria. Some problems do not require technical novelty, but instead thoughtful application of existing methods. Papers in that category (i.e. impactful but not necessarily novel) should not be rejected for this reason only.
-</p><br>
+</p>
+<br>
 
 
 <b>Be Careful</b><p>
@@ -74,7 +80,7 @@ You have the responsibility to protect the confidentiality of the ideas represen
 <li>You should not use ideas from short papers you review to develop new ones.</li>
 <li>After the review process, you should destroy all copies of short papers and erase any implementations you have written to evaluate the ideas in the short papers, as well as any results of those implementations.</li>
 </ul>
-<br>
+
 <b><small>2. Avoid Conflict of Interest</small></b><br>
 There should be absolutely no question about the impartiality of any review. Thus, if you are assigned a paper where your review would create a possible conflict of interest, you should return the short paper and not submit a review. Conflicts of interest include (but are not limited to) situations in which:
 
@@ -86,18 +92,25 @@ There should be absolutely no question about the impartiality of any review. Thu
 <li>You were the MS/PhD advisor of one of the authors or the MS/PhD advisee of one of the authors. Most funding agencies and publications typically consider advisees to represent a lifetime conflict of interest. </li>
 </ul>
 
-<br>
+
 While the organizers make every effort to avoid such conflicts in the review assignments, they may nonetheless occasionally arise. If you recognize the work or the author and feel it could present a conflict of interest, contact your  Area Chair using CMT as soon as possible so he or she can find someone else to review it.
 <br>
 <br>
 <b><small>3. Be Professional</small></b><br>
 Belittling or sarcastic comments have no place in the reviewing process. The most valuable comments in a review are those that help the authors understand the shortcomings of their work and how they might improve it. Write a courteous, informative, incisive, and helpful review that you would be proud to add your name to (were it not anonymous).
-Reviewer Instructions
-The following provides further details for reviewing papers:
-Please make sure that your browser has cookies and Javascript enabled.
-Please add "cmt@microsoft.com" to your list of safe senders in your own email client to prevent important email announcements from being blocked by spam filters.
+</p>
+<br>
+<b>Reviewer Instructions</b><p>
+The following provides further details for reviewing papers:<br>
+<ul>
+
+<li>Please make sure that your browser has cookies and Javascript enabled.</li>
+<li>Please add "cmt@microsoft.com" to your list of safe senders in your own email client to prevent important email announcements from being blocked by spam filters.</li>
+</ul>
+
 Once you've been notified that the papers have been assigned to you, please log in to the CMT site and look at the papers.
 </p>
+
 <br>
 
 <h4>Reviewer FAQs</h4>
@@ -107,4 +120,40 @@ Once you've been notified that the papers have been assigned to you, please log 
 
 <b>Plagiarism</b>: Plagiarism is a regular nuisance in publication. Plagiarism consists of appropriating the words or results of another, without credit. Generally, reviewers can recognize plagiarism when they see it; it is unlikely that a reviewer will be uncertain whether plagiarism has occurred. 
 
+</div>
+<br><br>
+<hr>
+<div id="project_proposal">
+<h4><b>Project Proposals track aka. Track 2</b></h4>
+<br>
+<p>
+Though the content of the submissions differ (proposal vs. paper), the reviewer guidelines for track 1 continue to apply. We make some additions to those guidelines due to the different form of track 2 reviews.
+</p>
 
+<b>Important Dates</b><p>
+March 15th, 11:59ET : Deadline for submission <br>
+March 16th: Open Proposal Reviews <br>
+March 23rd: Proposal Pre-Acceptance <br>
+March 24th: Project Mentoring start <br>
+April 8th: Notification of Acceptance <br>
+</p>
+<br>
+
+<b>Writing Proposal Reviews</b><p>
+<ul>
+<li>We emphasize that a carefully crafted proposal that has not necessarily been developed previously is more valuable to the community than work that has been started but which doesn't hold as much long-term potential.</li>
+<li>Highlight points that are important for the proposal's evaluation, but which are ambiguous from the submission alone. 
+These comments will be shared with interactive reviewers.</li>
+
+<li>Provide constructive feedback. If something seems unimpactful or infeasible, provide recommendations about how some of the limitations might be addressed.</li>
+
+<li>As a general suggestion, consider including the following in your review,
+<ul>
+<li>Summary: An objective description of the proposal (without your personal commentary) is useful for your area chair.</li>
+<li>Clarity: Are sufficient details provided in the proposal for you to understand how the project could be developed? This does not mean that all details of implementation have been specified, but all next steps should be transparent.</li>
+<li>Potential Value: How much real-world value does the proposed project add? How much value does it add to the community's thinking about AI for Good?</li>
+<li>Decision Justification: Describe the arguments for and against passing the proposal to the next phase, and how you arrived at your final conclusion.</li>
+</li>
+</ul>
+</p>
+</div>

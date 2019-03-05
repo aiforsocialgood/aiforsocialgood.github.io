@@ -1,5 +1,7 @@
-<h3>Area Chair Guidelines</h3> <br>
-
+<h3>Area Chair Guidelines</h3> 
+<h5><em>(for <a href="#short_paper_area">Short Paper</a> and <a href="#project_proposal_area">Project Proposal</a> tracks)</em></h5>
+<br>
+<div id="short_paper_area">
 <h4><b>Short paper track aka. Track 1</b></h4>
 
 <br>
@@ -52,4 +54,37 @@ Please rate the paper according to the following choices:<br><ul>
 </li>
 </ul>
 Please also be on the lookout for one paper to be considered for the best paper award.</p>
+</div>
+
+
 <br>
+<br>
+<hr>
+
+<div id="project_proposal_area">
+<h4>Project Proposals track aka. Track 2</h4><p>
+
+Though the content of the submissions differ (proposal vs. paper), the Area Chairs guidelines for track 2 differs from track 1.
+</p>
+
+<b>Important Dates</b><p>
+
+March 15th, 11:59ET : Deadline for submission<br>
+March 16th: Open Proposal Reviews<br>
+March 23rd: Proposal Pre-Acceptance<br>
+March 24th: Project Mentoring start<br>
+April 8th: Notification of Acceptance<br>
+</p>
+
+<br>Project mentorship</b><p>
+<ul>
+<li.After the pre-acceptance of the proposal, you are expected to arrange a call with at least one of the proposal authors to offer guidance to facilitate later volunteer contribution and check the feasibility of the proposal.</li>
+
+<li>Though it is not the mentor’s responsibility to connect projects with volunteers, they should keep in mind how to make proposals accessible to potential volunteers drawn from the workshop participant pool.</li>
+
+<li>Since this review process involves speaking with project proposers, it is important to be courteous to those whose projects you are evaluated. Don't condescend to people who may not be machine learning specialists, and respect the time set aside for you to understand the project and whether it is a good fit for conference volunteers.</li>
+
+<li>Offer suggestions. If you can see opportunities to improve the impact or feasibility of a project, you should voice your perspective in a respectful and constructive way.</li>
+</ul>
+</p>
+</div>
