@@ -69,7 +69,7 @@ Problem Introduction Track aka Track 2 (five page papers - answering the questio
 % if proposal_template_link == "TBD"  : 
     (TBD)
 % else :
-    (<a href="${proposal_template_link}" target='_blank'>Overleaf template</a>)
+    (<a href="${proposal_template_link}">Overleaf template</a>)
 % endif
 or a similar looking PDF
 <br>
@@ -77,7 +77,7 @@ Poster Size: ${poster_size_inches} or ${poster_size_cm}
 
 <br><br>
 <b>Submission Site</b><br>
-Submit at: <a href="${submission_link}">${submission_link}</a>
+Submit at: <a href="${submission_link}" target="_blank">${submission_link}</a>
 
 <br><br>
 <b>Registration</b><br>
