@@ -12,7 +12,7 @@
 	<meta property="og:description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
 	<meta name="description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
     
-    <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, ${conference_city}, ${conference_name}, ${conference_nick}'>
+  <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, ${conference_city}, ${conference_name}, ${conference_nick}'>
 	<meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, ${conference_city}, ${conference_name}, ${conference_nick}">
 	<meta property="og:image" content="https://aiforsocialgood.github.io/2018/logo/logo2-white.png" />
 	<meta property="og:locale" content="en_US" />  
@@ -68,7 +68,7 @@ function pageScript(tomatch){
 
            <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
 			
-            <!-- <span class="dropdown">
+        <span class="dropdown">
 			  <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
 			    Accepted Papers
 			    <span class="caret"></span>
@@ -77,12 +77,13 @@ function pageScript(tomatch){
 			    <li><a href="acceptedpapers.htm">Short Papers</a></li>
 			    <li><a href="proposals.htm">Problem Introduction</a></li>
 			  </ul>
-			</span> -->
+			</span>
           <a class="blog-nav-item" href="guidelines.htm">Guidelines</a>
           <a class="blog-nav-item" href="organizers.htm">Organizers</a>
           <a class="blog-nav-item" href="pastworkshops.htm">Past Workshops</a>
-
           <a class="blog-nav-item" href="faq.htm">FAQ</a>
+         
+ 
           <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
         </nav>
       </div>
