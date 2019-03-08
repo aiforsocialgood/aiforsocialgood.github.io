@@ -46,7 +46,7 @@ def getScheduleItems():
     # see schedule template
     pass
 
-mylookup = TemplateLookup(directories=['.', '../bio', '../blog'],
+mylookup = TemplateLookup(directories=['.', '../bio'],
                           strict_undefined=False,
                           input_encoding='utf-8')
 
