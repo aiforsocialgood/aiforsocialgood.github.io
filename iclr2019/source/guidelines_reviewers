@@ -1,3 +1,22 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Guidelines</h1>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+
+<div id="guidelines">
+
+<a href="guidelines_reviewers.htm" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">For Reviewers</span></a>
+<a href="guidelines_areachairs.htm" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">For Area Chairs</span></a>
+<br><br>
+
+
+<div id="reviewers" class="faq">
+
 
 <h3>Reviewers Guidelines</h3>
 <h5><em>(for <a href="#short_paper">Short Paper</a> and <a href="#project_proposal">Project Proposal</a> tracks)</em></h5>
@@ -115,12 +134,12 @@ Once you've been notified that the papers have been assigned to you, please log 
 
 <h4>Reviewer FAQs</h4>
 
-<%include file="faq_reviewers"/>
+<%include file="faq_reviewers_q"/>
 
 
 <b>Plagiarism</b>: Plagiarism is a regular nuisance in publication. Plagiarism consists of appropriating the words or results of another, without credit. Generally, reviewers can recognize plagiarism when they see it; it is unlikely that a reviewer will be uncertain whether plagiarism has occurred. 
 
-</div>
+</div><!-- /.short paper-->
 <br><br>
 <hr>
 <div id="project_proposal">
@@ -158,4 +177,16 @@ These comments will be shared with interactive reviewers.</li>
 </li>
 </ul>
 </p>
+
+</div><!-- /.project proposal-->
+
+<a href="#guidelines"><em>Back to top</em></a>
+
 </div>
+</div>
+
+
+
+
+         </p>
+          </div><!-- /.blog-post -->
