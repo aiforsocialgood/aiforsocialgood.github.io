@@ -1,27 +1,56 @@
 
-      <div class="blog-header">
-        <h1 class="blog-title">Frequently Asked Questions</h1>
-      </div>
+<b>Can I apply for travel funding?</b><br>
 
-      <div class="row">
+We have some funds we could use to pay the travel expenses of the speakers who need financial assistance and who satisfy all the following conditions:<br>
+<ul>
+<li>You do not have an alternative funding source to pay for your travel expenses</li>
+<li>You are a professor or a student registered in a university</li>
+</ul>
+We will also consider exceptional cases such as members of NGOs with limited resources.
+<br>
+If all of the conditions apply to you please let us know and send us:
+<ul>
+<li>Your CV</li>
+<li>A Motivation letter</li>
+<li>A summary of your research work</li>
+<li>Why you feel you should get funding</li>
+<li>An estimated travel budget (choices for travel and hotel must be low-cost)</li>
+<li>If you are a student a recommendation letter from your professor</li>
+<li>Proof that you are affiliated to the university (e.g. university id card, …)</li>
+</ul>
 
-        <div class="col-sm-8 blog-main">
+Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
+<br>
+The workshop program committee will review all applicants and decide which will receive this grant. 
+<br>
+Be advised that we do not guarantee that all the people who submit a proposal will receive funding as we have limited funds. We also do not guarantee we will reimburse the full amount asked for in the application. In addition, reimbursements will only be processed once the final camera-ready version of the accepted submission has been received.
 
-          <div class="blog-post" style="text-align: justify;">
-
-            <p>
-            
-<a href='faq_general.htm' style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">Workshop</span></a>
-<a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Fundings</span></a>
-<a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
-<a href='faq_submission.htm'" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
 <br><br>
-<h3>Fundings Related Questions </h3> <br>
-
-<%include file="faq_fundings_q"/>
-            
-            </p>
-          </div><!-- /.blog-post -->
 
 
+<b>How travel funding application are selected?</b><br>
+
+The following criteria will be considered:
+<ul>
+<li>Is the candidate from a developing country?</li>
+<li>Is the candidate from an under-represented group or minority (women, young researchers, …)?</li>
+<li>Impact of the applicant’s research.</li>
+<li>Will coming to the conference be beneficial to the applicant?</li>
+<li>Is the applicant the first author?</li>
+</ul>
+
+
+<br><br>
+
+
+<b>I have been selected by the workshop committee for travel fundings: What are the documents I need to provide to be reimbursed?</b><br>
+<ul>
+<li>Boarding passes of the airplane ticket. </li>
+<li>Hotel stay (only the stay on the 5th and 6th May 2019 will be considered as the workshop is held the 6th): We need receipts showing that you paid for the rooms.</li>
+<li>ICLR registration: We need the registration receipt showing that the registration was paid.</li>
+<li>Your bank account document showing that you paid those expenses. The credit card number on your bank account and the bill should concord.</li>
+<li>Proof that your University did not cover the expenses.</li>
+</ul>
+
+Please note: We will consider only the electronic version of the documents mentioned above. Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
 

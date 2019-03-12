@@ -56,13 +56,7 @@
             "Virgile Sylvain" :     {"img": "img/virgile.jpeg",   "affiliation":"Unversity of Montréal"},
             "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
             "Kentaro Toyama":       {"img": "img/kentaro.jpg",     "affiliation":"University of Michigan School of Information"},
-            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"},
-            "Adriana Romero":       {"img": "img/adriana_romero.jpg", "affiliation":"Facebook"},
-            "Abhishek Gupta":             {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
-            "Ernest Mwebaze":       {"img": "img/ernest-mwebaze.jpeg", "affiliation":"Google"},
-            "Mathieu Germain":      {"img": "img/mathieu_germain.jpg", "affiliation":"Mila"},
-            "Arsene Fansi Tchango": {"img": "img/arsene.jpg", "affiliation":"Mila"},
-            "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"}
+            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"}
 
 
         }
@@ -75,7 +69,7 @@
             "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
             "Paper Review and Call for Paper Chairs" : {
                "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor", "Margaux Luck"] ,
-               "Problem Introduction Track" :    ["Kris Sankaran", "Sean McGregor", "Myriam Côté"]
+               "Problem Introduction Track" :    ["Kris Sankaran", "Myriam Côté" ]
 
             },
             "Sponsor and Finance Chairs" :    ["Myriam Côté", "Sean McGregor"],
@@ -84,9 +78,7 @@
             "Scientific Chairs" :       ["Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"],
             "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
                                         "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
-                                        "Geneviève Boucher",  "Myriam Côté", 
-                                        "Adriana Romero", "Simon Blackburn","Mathieu Germain",
-                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango",
+                                        "Geneviève Boucher",  "Myriam Côté",
                                         "Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"]
 
         }
