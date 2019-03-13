@@ -1,0 +1,75 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Frequently Asked Questions</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+            
+
+<!--
+<a href="#workshop" style="text-decoration: none;cursor:pointer;"><span class="label label-success">Workshop</span></a>
+<a href="#submission" style="text-decoration: none;cursor:pointer;" ><span class="label label-default">Submission</span></a>
+-->
+
+<a id="workshop_toggle" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">Workshop</span></a>
+<a id="submission_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
+<a id="fundings_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
+<a id="reviewers_toggle" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
+<br><br>
+
+
+<div id="workshop" class="faq" style="display:block;">
+<h3>General Workshop Questions</h3><br>
+<%include file="faq_general"/>
+</div>
+
+
+<div id="submission" class="faq" style="display:none;">
+<h3>Submission Related Questions </h3> <br>
+<em>As found in the <a href="cfp.htm">call for paper section</a></em><br><br>
+<%include file="faq_submission"/>
+</div>
+
+
+<div id="fundings" class="faq" style="display:none;">
+<h3>Fundings Related Questions </h3> <br>
+<%include file="faq_fundings"/>
+</div>
+
+<div id="reviewers" class="faq" style="display:none;">
+<h3>Reviewers Related Questions </h3> <br>
+<em>As found in the <a href="guidelines.htm">guidelines section</a></em><br><br>
+<%include file="faq_reviewers"/>
+</div>
+
+<script>
+
+  $("a[id$='_toggle']").on("click", function(){
+      var id = $(this).attr('id');
+      id = id.split("_")[0];
+      $(".faq").hide();
+      $("#"+id).show();
+      $("span.label").removeClass("label-current");
+      $("span.label").addClass("label-default");
+      $(this).find("span").addClass("label-current");
+  });
+
+
+
+</script>
+
+
+
+            
+            </p>
+          </div><!-- /.blog-post -->
+
+
+
+
+          

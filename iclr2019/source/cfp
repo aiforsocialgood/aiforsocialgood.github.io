@@ -95,7 +95,7 @@ Email: <a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
 <h2>FAQs</h2>
 
 
-<%include file="faq_submission_q"/>
+<%include file="faq_submission"/>
 
 
 
