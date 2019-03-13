@@ -46,59 +46,63 @@ def getScheduleItems():
     # see schedule template
     pass
 
-mylookup = TemplateLookup(directories=['.', '../bio'],
+mylookup = TemplateLookup(directories=['.', '../bio', '..'],
                           strict_undefined=False,
                           input_encoding='utf-8')
 
 # Load custom attributes from json file
 custom = json.loads(open('custom.json').read())
 
-# Get all sections
-sections = ['proposals', 'home', 'schedule', 'faq',
+# Get all pages
+pages = ['proposals', 'home', 'schedule', 
             'acceptedpapers', 'cfp', 'organizers',
-            'guidelines', 'pastworkshops']
+            'guidelines_areachairs', 'guidelines_reviewers', 
+            'pastworkshops',
+            'faq_general', 'faq_reviewers', 'faq_fundings',
+            'faq_submission'
+            ]
 
-for section_name in sections:
+for page_name in pages:
 
     attributes = custom['default'].copy()
-    attributes.update(custom.get(section_name, {}))
+    attributes.update(custom.get(page_name, {}))
 
     html = """<%include file="header"/>
               <%include file="{}"/>
-              <%include file="footer"/>""".format(section_name)
+              <%include file="footer"/>""".format(page_name)
 
-    section = Template(html, lookup=mylookup, strict_undefined=False)
+    page = Template(html, lookup=mylookup, strict_undefined=False)
 
     try:
 
         # Retrieve accepted papers from directory
-        if section_name == 'acceptedpapers':
+        if page_name == 'acceptedpapers':
             papers_dir = attributes['papers_dir']
             papers_pdf_link = attributes['papers_pdf_link']
             papers = getAcceptedPapers(papers_dir, papers_pdf_link)
             attributes['papers'] = papers
 
         # Generating the different .htm files
-        s = section.render(**attributes)
-        outfile = open('../%s.htm' % section_name, "w")
+        s = page.render(**attributes)
+        outfile = open('../%s.htm' % page_name, "w")
         outfile.write(str(s))
         outfile.close()
 
         # Copy home as index
-        if section_name == 'home':
+        if page_name == 'home':
             outfile = open('../index.htm', "w")
             outfile.write(str(s))
             outfile.close()
 
 
     except Exception as e:
-        print(section_name, e)
+        print(page_name, e)
 
-        ctc = re.findall(reg, open(section_name).read())
+        ctc = re.findall(reg, open(page_name).read())
         atr = attributes.keys()
         for c in ctc:
             c = c.strip("${}")
             if c not in atr:
-                print(section_name, " : ", c,  " is missing")
+                print(page_name, " : ", c,  " is missing")
         # print("footer", re.findall(reg, open("footer").read()))
         # print("header", re.findall(reg, open("header").read()))
