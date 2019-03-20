@@ -26,7 +26,7 @@ h6, .h6 {
 
 @media (min-width: 1200px) {
   .container {
-    width: 970px;
+    width: 1024px;
   }
 }
 
@@ -81,7 +81,7 @@ h6, .h6 {
  */
 
 .blog-header {
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 20px;
 }
 .blog-title {
@@ -241,5 +241,13 @@ h6, .h6 {
 p.justify {
   text-align: justify;
   text-justify: inter-word;
+}
+
+.label-faq {
+  font-size:80%;
+}
+
+.label-current {
+  background-color:#4dad41;  /* #4dad41;  #508ac1; */
 }
 

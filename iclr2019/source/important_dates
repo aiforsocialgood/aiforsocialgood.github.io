@@ -1,0 +1,10 @@
+
+${submission_deadline_date.replace(" 2019", "")}, ${deadline_hour}: Deadline for submission<br>
+March 23rd: Area Chairs and reviewers bidding periods begin<br>
+March 25th: Area Chairs and reviewers bidding periods end<br>
+March 26th: Short Papers Track Chairs assign short papers to Area Chairs<br>
+March 27th: Area Chairs assign short papers to their reviewers<br>
+April 1st: Review period ends<br>
+April 7th: Area Chairs meta-review starts<br>
+April 14th: Area Chairs give back their meta-reviews and decisions<br>
+${notification_date.replace(" 2019", "")}: Final decision, notification of acceptance<br>

@@ -1,19 +1,21 @@
       </div><!-- /.blog-main -->
 
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+           
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
           
-            <h4>Important Dates</h4><br>
-<p><b>Deadline for submissions : <br>${submission_deadline_date}<br> ${deadline_hour} eastern time</b></p>
-<p>Notification of acceptance : <br>${notification_date}</p>
+<p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
+<p>Notification of acceptance: <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
-<p>Workshop date : 
-<br>Onsite ${conference_abbr}:
+<p>Workshop date: 
 <br>${workshop_date}
+<br>Onsite ${conference_abbr}:
 <br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
 </p>
-<p>Contact :  <br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+<p>Contact:<br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+
+
 
 
           </div>
@@ -39,7 +41,8 @@
 
     <footer class="blog-footer">
       <p>AI for Social Good Workshop ${conference_nick}</p>
-      <p>Contact :  <a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+      <p>Contact:  <a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+      <p>Code of Conduct: <a href="https://iclr.cc/public/CodeOfConduct">ICLR Code of Conduct</a></p>
       <br><small>*not affiliated with the AI for Social Good Foundation</small>
     </footer>
 

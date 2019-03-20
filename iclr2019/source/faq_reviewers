@@ -13,12 +13,11 @@
             
 <a href='faq_general.htm' style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">Workshop</span></a>
 <a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
-<a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
-<a href='faq_submission.htm'" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Submission</span></a>
+<a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Reviewers</span></a>
+<a href='faq_submission.htm'" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
 <br><br>
-<h3>Submission Related Questions </h3> <br>
-<em>As found in the <a href="cfp.htm">call for paper section</a></em><br><br>
-
+<h3>Reviewers Related Questions </h3> <br>
+<em>As found in the <a href="guidelines.htm">guidelines section</a></em><br><br>
 
 
 <%include file="faq_reviewers_q"/>
