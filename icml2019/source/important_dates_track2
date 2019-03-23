@@ -1,0 +1,7 @@
+${submission_deadline_date.replace(" 2019", "")}, ${deadline_hour} : Deadline for submission<br>
+April 23rd: Open Proposal Reviews<br>
+April 29th: Screening reviews Due<br>
+${notification_pre_selected.replace(" 2019", "")}: Proposal Pre-Acceptance<br>
+May 1st: Project Mentoring start<br>
+May 14th: Selection Reviews Due<br>
+${notification_date.replace(" 2019", "")}: Notification of Acceptance <br>

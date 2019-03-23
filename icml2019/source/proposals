@@ -1,0 +1,39 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Accepted Problem Introduction</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+<div class="blog-post schedule">
+
+<p>
+<style>
+.img-circle{
+background-color:gray
+}
+</style>
+
+
+	
+
+
+
+<script>
+$(function(){
+	
+	$(".schedule-item ").hover( function(){
+		$( this ).css("background-color", "#eeeeee");
+	}, function(){
+		$( this ).css("background-color", "white");
+	} )
+	
+	
+});
+</script>
+
+            
+</p>
+</div><!-- /.blog-post -->
+          

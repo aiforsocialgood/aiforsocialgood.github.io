@@ -1,0 +1,105 @@
+{
+"default" :{
+
+  "conference_nick" : "ICML2019",
+  "conference_name" : " International Conference on Machine Learning",
+  "conference_abbr" : "ICML",
+  "conference_website" : "https://icml.cc",
+  "conference_city" : "Long Beach",
+  "conference_state" : "California",
+  "conference_location" : "Long Beach Convention Center, Long Beach, California",
+  "conference_onsite": "Long Beach Convention Center, Long Beach, California",
+  "conference_onsite_map": "https://www.google.com/maps/place/Long+Beach+Convention+%26+Entertainment+Center/@33.7652636,-118.1893385,15z/data=!4m5!3m4!1s0x0:0x69f1fff3cb508d42!8m2!3d33.7652036!4d-118.1893341",
+
+  "year" : "2019",
+  "workshop_date": "June 14th, 2019" ,
+  "workshop_room": "Room TBD",
+  "workshop_from": "9:00 AM",
+  "workshop_until": "6:00 PM",
+  "workshop_day_litteral" : "14th",
+  "workshop_date_with_day" : "Friday June 14th",
+  "workshop_abbr" : "AISG",
+  "workshop_name" : "AI for Social Good",
+  "workshop_mailto" : "aisg2019.icml.contact@gmail.com",
+  "workshop_website" : "https://aiforsocialgood.github.io/icml2019",
+
+  "workshop_talk_duration" : "TBD minutes",
+  "github_link" : "https://aiforsocialgood.github.io/icml2019",
+
+  "submission_open_date" : "April 6th 2019",
+  "submission_deadline_date" : "April 22nd 2019",
+  "deadline_hour" : "11:59PM ET",
+  "notification_pre_selected" : "April 30th 2019",
+  "notification_date" : "May 15th 2019",
+  "cameraready_date" : "May 26th 2019",
+
+  "submission_link":"https://cmt3.research.microsoft.com/ICMLAISGW2019/",
+  "overleaf_template_link" : "https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc",
+  "proposal_template_link" : "https://www.overleaf.com/read/zkgnfwhtnnjz",
+  "proposal_ps_form": "https://docs.google.com/document/d/1awBHeyGqzJhhEk_Ga8ewoampJoEfmMyAYkW5ekxhQP4/edit?usp=sharing",
+  "screen_size" : "TBD",
+  "poster_size_inches" : "TBD W x TBD H inches",
+  "poster_size_cm" : "TBD W x TBD H cm",
+
+
+
+  "people" :
+        {
+
+            "Margaux Luck" :        {"img": "img/margaux.jpg",  "affiliation":"Mila"},
+            "Jonnie Penn" :         {"img": "img/jonnie.jpg",   "affiliation":"University of Cambridge"},
+            "Tristan Sylvain" :     {"img": "img/tristan.jpg",  "affiliation":"Mila"},
+            "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
+            "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
+            "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
+           "Geneviève Boucher" :    {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"},
+            "Virgile Sylvain" :     {"img": "img/virgile.jpeg",   "affiliation":"Unversity of Montréal"},
+            "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
+            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"}
+
+        }
+  },
+
+"organizers" : {
+
+    "chair" :
+        {
+            "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
+            "Paper Review and Call for Paper Chairs" : {
+               "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor"] ,
+               "Problem Introduction Track" :    ["Kris Sankaran", "Sean McGregor", "Myriam Côté"]
+
+            },
+            "Sponsor and Finance Chairs" :    ["Myriam Côté", "Sean McGregor", "Virgile Sylvain"],
+            "Communication and Website Chairs" :          ["Margaux Luck", "Geneviève Boucher"],
+            "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
+            "Scientific Chairs" :       ["Rayid Ghani", "Yoshua Bengio"],
+            "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
+                                        "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
+                                        "Geneviève Boucher",  "Myriam Côté", "Rayid Ghani",
+                                        "Yoshua Bengio"]
+
+        }
+    },
+
+ "schedule" : {
+
+        "schedule_items_dir" : "../schedule-items",
+        "schedule_date" : ["Friday June 14th"],
+
+
+        "talks" :{
+            "Friday June 14th" : [
+                {"time" : "9:00", "speaker_name": "Yoshua Bengio"}
+
+            ]
+        }
+
+    },
+  "acceptedpapers" : {
+
+    "papers_dir" : "../accepted/track1",
+    "papers_pdf_link" : "accepted/track1/pdfs"
+  }
+
+}
