@@ -1,0 +1,68 @@
+<div class="blog-header">
+	<h1 class="blog-title">Organizers</h1>
+ </div>
+
+<div class="row">
+	 <div class="col-sm-8 blog-main">
+		<div class="blog-post">
+		 <p>
+
+
+		<!-- Add chair and people in custom.json -->
+		% for c in chair.keys():
+			<div class="row">
+            <h3>${c}</h3>
+            
+            <%
+            sub=[]
+            members = chair[c]
+            if isinstance(members, list):
+                sub.append(('',members))
+            else : 
+                
+                for k, v in chair[c].items():
+                    sub.append((k,v))            
+            %>
+
+            % for subsection,members in sub:
+            <div class="col-xs-12">
+                <br>
+                <h4>${subsection}</h4>
+
+   			  % for p in members: 
+    			<div class="col-xs-3 person">
+     				 <center><img class="img-circle hvr-buzz" src="${people[p]['img']}" ></center>
+    				 <h4>${p}</h4>
+      				<p>${people[p]['affiliation']}</p>
+   				 </div>
+   			 
+             % endfor  
+             </div>
+            % endfor  
+			</div>
+		% endfor    
+
+
+
+	<!--	<div class="row org-logos">
+			<h3>We thank the following organizations for allowing their members to participate</h3>
+
+
+
+		</div> -->
+
+		<script>
+		$(".logos-allowing").html($(".logos-allowing .logo").sort(function(){
+ 			   return Math.random()-0.5;
+		}));
+
+		</script>
+
+
+		<h3>We thank our reviewers</h3>
+
+		<%include file="organizers_reviewers"/>
+
+ 		</p>
+ 		</div><!-- /.blog-post -->
+          
