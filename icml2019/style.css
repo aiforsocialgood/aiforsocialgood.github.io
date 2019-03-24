@@ -49,18 +49,19 @@ h6, .h6 {
   display: inline-block;
   padding: 10px;
   font-weight: 500;
-  color: rgb(53,80,40);/*#444446;*/
+  color: rgb(206, 229, 188);/*#444446;*/
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
-  color: rgb(240,240,240);
   text-decoration: none;
 }
 
 
 /* Active state gets a caret at the bottom */
-.blog-nav .active {
-  color: rgb(240,240,240);
+.blog-nav .active, 
+.blog-nav-item:focus, 
+.blog-nav-item:hover {
+  color: rgb(255,255,255);
 }
 .blog-nav .active:after {
   position: absolute;
@@ -249,6 +250,6 @@ p.justify {
 }
 
 .label-current {
-  background-color:#4dad41;  /* #4dad41;  #508ac1; */
+  background-color: #000;  /* #4dad41;  #508ac1; rgb(89,55,21)*/
 }
 
