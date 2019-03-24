@@ -94,10 +94,14 @@ function pageScript(tomatch){
           
           var url = window.location.href;
           var page = url.split(/[\\/]/).pop();
-          $.each($(".blog-nav a"), function(i, e) {
-              var p = $(e).attr('href');
 
-              if (p==page) {
+          $.each($(".blog-nav a"), function(i, e) {
+              var p = $(e).attr("href");
+           
+              var s1 = page.split("_")[0];
+              var s2 = p.split("_")[0];
+
+              if (p==page | s1==s2) {
                 if ($(e).hasClass('blog-nav-item')) {
                   $(e).addClass('active');
                 }
@@ -107,7 +111,7 @@ function pageScript(tomatch){
                   $("#"+id).addClass('active');
                 }
               }
-
+             
           });
     </script>
 
