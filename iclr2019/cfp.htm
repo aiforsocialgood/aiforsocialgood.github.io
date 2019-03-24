@@ -74,8 +74,8 @@ function pageScript(tomatch){
 			    <span class="caret"></span>
 			  </a>
 			  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <li><a href="acceptedpapers.htm">Short Papers</a></li>
-			    <li><a href="proposals.htm">Problem Introduction</a></li>
+			    <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
+			    <li><a id="dropdownMenu1_item1" href="proposals.htm">Problem Introduction</a></li>
 			  </ul>
 			</span>
           <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
@@ -88,6 +88,30 @@ function pageScript(tomatch){
         </nav>
       </div>
     </div>
+
+
+    <script>
+          
+          var url = window.location.href;
+          var page = url.split(/[\\/]/).pop();
+          $.each($(".blog-nav a"), function(i, e) {
+              var p = $(e).attr('href');
+
+              if (p==page) {
+                if ($(e).hasClass('blog-nav-item')) {
+                  $(e).addClass('active');
+                }
+                else {
+                  var id = $(e).attr('id');
+                  id = id.split('_')[0];
+                  $("#"+id).addClass('active');
+                }
+              }
+
+          });
+    </script>
+
+
 
     <div class="container">
 
