@@ -38,7 +38,7 @@ h6, .h6 {
 /* Other color option : #311b4f;,  was #2d0000 */
 
 .blog-masthead {
-  background-color: #21D176;
+  background-color: #53ab3e;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -49,17 +49,18 @@ h6, .h6 {
   display: inline-block;
   padding: 10px;
   font-weight: 500;
-  color: #444446;
+  color: rgb(53,80,40);/*#444446;*/
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
-  color: #fff;
+  color: rgb(240,240,240);
   text-decoration: none;
 }
 
+
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
-  color: #fff;
+  color: rgb(240,240,240);
 }
 .blog-nav .active:after {
   position: absolute;

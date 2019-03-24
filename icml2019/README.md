@@ -1,4 +1,4 @@
-## ICLR AISG 2019 worskhop website
+## ICML AISG 2019 worskhop website
 
 The htm files are created by running python compile.py in source/.
 
