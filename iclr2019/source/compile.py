@@ -58,7 +58,7 @@ custom = json.loads(open('custom.json').read())
 pages = ['proposals', 'home', 'schedule', 
             'acceptedpapers', 'cfp', 'organizers',
             'guidelines_areachairs', 'guidelines_reviewers', 
-            'pastworkshops',
+            'pastworkshops', 'futureworkshops',
             'faq_general', 'faq_reviewers', 'faq_fundings',
             'faq_submission'
             ]
