@@ -1,8 +1,17 @@
     <div class="blog-header">
-      
+      <div class="col-sm-8">
       <center><img src="logo/logo2.png" style="width:400px;" alt="${workshop_name}"/></center>
         <p class="lead blog-description"> ${conference_nick} Workshop</p>
       </div>
+
+      <!-- Future workshops add-->
+      <div class="col-sm-3 col-sm-offset-1 sidebar-module-inset" style='margin-top:15px;'>
+      <h4>Future workshops</h4>
+      <hr>
+      The AI for Social Good workshop will also be at <strong>ICML 2019</strong>.
+      For details, see the <a class="alert-link" href="https://aiforsocialgood.github.io/icml2019/">ICML AISG 2019</a> website.
+      </div>
+
 
       <div class="row">
 
