@@ -58,8 +58,8 @@ h6, .h6 {
 
 
 /* Active state gets a caret at the bottom */
-.blog-nav .active, 
-.blog-nav-item:focus, 
+.blog-nav .active,
+.blog-nav-item:focus,
 .blog-nav-item:hover {
   color: rgb(255,255,255);
 }
@@ -171,13 +171,13 @@ h6, .h6 {
 
 .person {
 
-	min-height: 160px;
+  min-height: 160px;
 
 }
 .person h4 {
-	margin-top: 10px;
-	font-size:9pt;
-	text-align:center;
+  margin-top: 10px;
+  font-size:9pt;
+  text-align:center;
 }
 .person p {
     font-size:8pt;
@@ -185,8 +185,8 @@ h6, .h6 {
 }
 
 .person img {
-	width:75px;
-	height:75px;
+  width:75px;
+  height:75px;
 
 }
 
@@ -197,8 +197,8 @@ h6, .h6 {
 
 .org-logos img {
 
-	width:200px;
-	padding:10px;
+  width:200px;
+  padding:10px;
 }
 
 
@@ -212,7 +212,7 @@ h6, .h6 {
 }
 
 .schedule-item .speaker {
-	padding:0px;
+  padding:0px;
 }
 
 .schedule-item .speaker p {
@@ -223,7 +223,7 @@ h6, .h6 {
 }
 
 .schedule-item {
-	padding:8px;
+  padding:8px;
 }
 
 
@@ -235,8 +235,8 @@ h6, .h6 {
 
 .sponsorlogo {
 
-	width:90%;
-	padding:5%;
+  width:90%;
+  padding:5%;
 }
 
 
@@ -252,4 +252,3 @@ p.justify {
 .label-current {
   background-color: #000;  /* #4dad41;  #508ac1; rgb(89,55,21)*/
 }
-

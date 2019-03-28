@@ -41,36 +41,34 @@ We invite two types of submissions:
 <br>
 
 <b>Important dates</b><br>
-
-<b>Important dates</b><br>
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Submissions open:</span> 
+Track 1 / Track 2 - Submissions open:</span>
 <span class='col-sm' style="float:right;">${submission_open_date}</span>
 </div>
 
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Deadline for submissions: </span> 
+Track 1 / Track 2 - Deadline for submissions: </span>
 <span class='col-sm' style="float:right;">${submission_deadline_date}</span>
 </div>
 <!--Need to fix this in the future, not elegant -->
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
 Track 2 <%  spaces = "&nbsp" * (len(" / Track 1 ")+5) %> ${spaces}
-- Notification of pre-selected team: </span> 
+- Notification of pre-selected team: </span>
 <span class='col-sm' style="float:right;">${notification_pre_selected}</span>
 </div>
 
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span> 
+Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;"> ${notification_date}</span>
 </div>
 
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span> 
+Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;">${cameraready_date}</span>
 </div><br>
 <br>
@@ -127,4 +125,3 @@ Email: <a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
 
             </p>
           </div><!-- /.blog-post -->
-
