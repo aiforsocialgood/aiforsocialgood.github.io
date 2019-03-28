@@ -33,7 +33,7 @@
   "notification_date" : "May 15th 2019",
   "cameraready_date" : "May 26th 2019",
 
-  "submission_link":"https://cmt3.research.microsoft.com/ICMLAISGW2019/",
+  "submission_link":"https://cmt3.research.microsoft.com/AISGW2019",
   "overleaf_template_link" : "https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc",
   "proposal_template_link" : "https://www.overleaf.com/read/zkgnfwhtnnjz",
   "proposal_ps_form": "https://docs.google.com/document/d/1awBHeyGqzJhhEk_Ga8ewoampJoEfmMyAYkW5ekxhQP4/edit?usp=sharing",
@@ -52,10 +52,12 @@
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-           "Geneviève Boucher" :    {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"},
+            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"},
             "Virgile Sylvain" :     {"img": "img/virgile.jpeg",   "affiliation":"Unversity of Montréal"},
             "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
-            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"}
+            "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"},
+            "Lester Mackey":        {"img": "img/lester_mackey.jpg", "affiliation": "Microsoft Research New England"},
+            "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"}
 
         }
   },
@@ -64,20 +66,16 @@
 
     "chair" :
         {
-            "Schedule Chairs" :        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
-            "Paper Review and Call for Paper Chairs" : {
-               "Short Papers Track" :    ["Tristan Sylvain", "Sean McGregor"] ,
-               "Problem Introduction Track" :    ["Kris Sankaran", "Sean McGregor", "Myriam Côté"]
-
-            },
-            "Sponsor and Finance Chairs" :    ["Myriam Côté", "Sean McGregor", "Virgile Sylvain"],
-            "Communication and Website Chairs" :          ["Margaux Luck", "Geneviève Boucher"],
-            "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
-            "Scientific Chairs" :       ["Rayid Ghani", "Yoshua Bengio"],
-            "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
-                                        "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
-                                        "Geneviève Boucher",  "Myriam Côté", "Rayid Ghani",
-                                        "Yoshua Bengio"]
+            "Schedule Chairs" :                        ["Margaux Luck", "Jonnie Penn", "Sean McGregor"],
+            "Paper Review and Call for Paper Chairs" : ["Tristan Sylvain", "Kris Sankaran", "Girmaw Abebe Tadesse"],
+            "Sponsor and Finance Chairs" :             ["Myriam Côté", "Sean McGregor", "Virgile Sylvain"],
+            "Communication and Website Chairs" :       ["Margaux Luck", "Geneviève Boucher"],
+            "Logistics Chairs" :                       ["Margaux Luck", "Kris Sankaran"],
+            "Scientific Chairs" :                      ["Lester Mackey", "Rayid Ghani", "Yoshua Bengio"],
+            "Program Committee" :                      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
+                                                        "Sean McGregor", "Jonnie Penn", "Girmaw Abebe Tadesse",
+                                                        "Virgile Sylvain", "Geneviève Boucher",  "Myriam Côté",
+                                                        "Lester Mackey", "Rayid Ghani", "Yoshua Bengio"]
 
         }
     },

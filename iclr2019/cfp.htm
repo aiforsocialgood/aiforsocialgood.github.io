@@ -74,20 +74,61 @@ function pageScript(tomatch){
 			    <span class="caret"></span>
 			  </a>
 			  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <li><a href="acceptedpapers.htm">Short Papers</a></li>
-			    <li><a href="proposals.htm">Problem Introduction</a></li>
+			    <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
+			    <li><a id="dropdownMenu1_item2" href="proposals.htm">Problem Introduction</a></li>
 			  </ul>
 			</span>
           <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
           <a class="blog-nav-item" href="organizers.htm">Organizers</a>
-          <a class="blog-nav-item" href="pastworkshops.htm">Past Workshops</a>
+          
           <a class="blog-nav-item" href="faq_general.htm">FAQ</a>
+
+
+           <span class="dropdown">
+        <a class="blog-nav-item dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
+          Past/Future
+          <span class="caret"></span>
+        </a>
+       <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+         
+          <li><a id="dropdownMenu2_item1" href="futureworkshops.htm">Future Workshops</a></li>
+          <li><a id="dropdownMenu2_item2" href="pastworkshops.htm">Past Workshops</a></li>
+        </ul>
+      </span>
          
  
           <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
         </nav>
       </div>
     </div>
+
+
+    <script>
+          
+          var url = window.location.href;
+          var page = url.split(/[\\/]/).pop();
+
+          $.each($(".blog-nav a"), function(i, e) {
+              var p = $(e).attr("href");
+           
+              var s1 = page.split("_")[0];
+              var s2 = p.split("_")[0];
+
+              if (p==page | s1==s2) {
+                if ($(e).hasClass('blog-nav-item')) {
+                  $(e).addClass('active');
+                }
+                else {
+                  var id = $(e).attr('id');
+                  id = id.split('_')[0];
+                  $("#"+id).addClass('active');
+                }
+              }
+             
+          });
+    </script>
+
+
 
     <div class="container">
 
@@ -134,14 +175,38 @@ We invite two types of submissions:
 <br>
 
 <b>Important dates</b><br>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Submissions open:</span> 
+<span class='col-sm' style="float:right;">March 6th 2019</span>
+</div>
 
-Track 1 / Track 2 - Submissions open: <span style="float:right;">March 6th 2019</span><br>
-Track 1 / Track 2 - Deadline for submissions: <span style="float:right;">March 22nd 2019</span><br>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Deadline for submissions: </span> 
+<span class='col-sm' style="float:right;">March 22nd 2019</span>
+</div>
 <!--Need to fix this in the future, not elegant -->
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
 Track 2  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-- Notification of pre-selected team: <span style="float:right;">March 30th 2019</span><br>
-Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp <span style="float:right;">April 15th 2019</span><br>
-Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp <span style="float:right;">April 26th 2019</span><br>
+- Notification of pre-selected team: </span> 
+<span class='col-sm' style="float:right;">March 30th 2019</span>
+</div>
+
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span> 
+<span class='col-sm' style="float:right;"> April 15th 2019</span>
+</div>
+
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span> 
+<span class='col-sm' style="float:right;">April 26th 2019</span>
+</div>
+
+<br>
 <br>
 Workshop date: Monday May 6th 9:00 AM -- 6:00 PM @ Room R5 onsite <a href=" https://www.google.com/maps/place/New+Orleans+Ernest+N.+Morial+Convention+Center/@29.9415187,-90.0657714,17z/data=!3m1!4b1!4m5!3m4!1s0x8620a66e2c49ba7f:0x185d4d6c82fa192f!8m2!3d29.9415141!4d-90.0635827" target="_blank">ICLR 2019, New Orleans, Louisiana, Ernest N. Morial Convention Center, New Orleans</a><br>
 

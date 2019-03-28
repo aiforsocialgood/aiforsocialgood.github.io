@@ -74,20 +74,61 @@ function pageScript(tomatch){
 			    <span class="caret"></span>
 			  </a>
 			  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <li><a href="acceptedpapers.htm">Short Papers</a></li>
-			    <li><a href="proposals.htm">Problem Introduction</a></li>
+			    <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
+			    <li><a id="dropdownMenu1_item2" href="proposals.htm">Problem Introduction</a></li>
 			  </ul>
 			</span>
           <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
           <a class="blog-nav-item" href="organizers.htm">Organizers</a>
-          <a class="blog-nav-item" href="pastworkshops.htm">Past Workshops</a>
+          
           <a class="blog-nav-item" href="faq_general.htm">FAQ</a>
+
+
+           <span class="dropdown">
+        <a class="blog-nav-item dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
+          Past/Future
+          <span class="caret"></span>
+        </a>
+       <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+         
+          <li><a id="dropdownMenu2_item1" href="futureworkshops.htm">Future Workshops</a></li>
+          <li><a id="dropdownMenu2_item2" href="pastworkshops.htm">Past Workshops</a></li>
+        </ul>
+      </span>
          
  
           <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
         </nav>
       </div>
     </div>
+
+
+    <script>
+          
+          var url = window.location.href;
+          var page = url.split(/[\\/]/).pop();
+
+          $.each($(".blog-nav a"), function(i, e) {
+              var p = $(e).attr("href");
+           
+              var s1 = page.split("_")[0];
+              var s2 = p.split("_")[0];
+
+              if (p==page | s1==s2) {
+                if ($(e).hasClass('blog-nav-item')) {
+                  $(e).addClass('active');
+                }
+                else {
+                  var id = $(e).attr('id');
+                  id = id.split('_')[0];
+                  $("#"+id).addClass('active');
+                }
+              }
+             
+          });
+    </script>
+
+
 
     <div class="container">
 
@@ -112,15 +153,18 @@ function pageScript(tomatch){
 <br><br>
 <h3>Fundings Related Questions </h3> <br>
 
+<span style='color:#c8243e;'>Be advised that we do not guarantee that all the people who submit a proposal will receive funding as we have limited funds. We also do not guarantee we will reimburse the full amount asked for in the application. In addition, reimbursements will only be processed once the final camera-ready version of the accepted submission has been received and that we confirmed you were present at the workshop. Also, keep in mind that you must be reasonable in your expenses (e.g. no first class for the flight, no 5 star hotel). Only the following items are eligible for reimbursement: registration ticket at the conference, travel, hotel/accommodations and meals. Only economy class is eligible. We will not reimburse more than 2 days for hotel/accommodations and meals, and it should correspond to the date of the workshop. For more information please refer to the <a href="https://docs.google.com/document/d/1HvYfVVu14Y8e-FYpMxvbfN6gjSndCNbGUepqkZbhVmQ/edit?usp=sharing">travel policy guidelines</a>.</span>
+<br><br>
+
 <b>Can I apply for travel funding?</b><br>
 
-We have some funds we could use to pay the travel expenses of the speakers who need financial assistance and who satisfy all the following conditions:<br>
+We have some funds we could use to pay the travel expenses of the speakers who need financial assistance and who satisfy all the following conditions:
 <ul>
 <li>You do not have an alternative funding source to pay for your travel expenses</li>
 <li>You are a professor or a student registered in a university</li>
 </ul>
-We will also consider exceptional cases such as members of NGOs with limited resources.
-<br>
+We will also consider exceptional cases such as members of NGOs with limited resources.<br>
+
 If all of the conditions apply to you please let us know and send us:
 <ul>
 <li>Your CV</li>
@@ -132,13 +176,7 @@ If all of the conditions apply to you please let us know and send us:
 <li>Proof that you are affiliated to the university (e.g. university id card, …)</li>
 </ul>
 
-Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
-<br>
-The workshop program committee will review all applicants and decide which will receive this grant. 
-<br>
-Be advised that we do not guarantee that all the people who submit a proposal will receive funding as we have limited funds. We also do not guarantee we will reimburse the full amount asked for in the application. In addition, reimbursements will only be processed once the final camera-ready version of the accepted submission has been received.
-
-<br><br>
+Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied). The workshop program committee will review all applicants and decide which will receive this grant.<br><br>
 
 
 <b>How travel funding application are selected?</b><br>
@@ -151,22 +189,22 @@ The following criteria will be considered:
 <li>Will coming to the conference be beneficial to the applicant?</li>
 <li>Is the applicant the first author?</li>
 </ul>
-
-
-<br><br>
-
+<br>
 
 <b>I have been selected by the workshop committee for travel fundings: What are the documents I need to provide to be reimbursed?</b><br>
+
+The documents you need to provide to be reimbursed are the following:
 <ul>
 <li>Boarding passes of the airplane ticket. </li>
 <li>Hotel stay (only the stay on the 5th and 6th May 2019 will be considered as the workshop is held the 6th): We need receipts showing that you paid for the rooms.</li>
 <li>ICLR registration: We need the registration receipt showing that the registration was paid.</li>
 <li>Your bank account document showing that you paid those expenses. The credit card number on your bank account and the bill should concord.</li>
 <li>Proof that your University did not cover the expenses.</li>
+<li><a href="https://docs.google.com/spreadsheets/d/1AUxBwnzOpfWEZUQCM3Nd8UtSKQ_S4OS1z8l9DZuvERY/edit?usp=sharing">The expense form</a>.</li>
+<li><a href="https://docs.google.com/document/d/1OXpKr5GB36_7UhV1jNPPnGKcbinzxzkHbDEELt83AQM/edit?usp=sharing">The wire transfer form</a>.</li>
 </ul>
 
 Please note: We will consider only the electronic version of the documents mentioned above. Applications must contain all the documents when the application is sent (incomplete applications will most likely be denied).
-
 
             
             </p>
