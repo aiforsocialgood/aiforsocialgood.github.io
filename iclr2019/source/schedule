@@ -10,11 +10,8 @@
 
             <p>
 
-Coming soon
-
-<!--
 % for d in schedule_date:
-    % for talk in talks[d]: 
+    % for talk in talks[d]:
 
     <%
 
@@ -27,14 +24,14 @@ Coming soon
 
     <div class="schedule-item row">
     <h4>${talk["time"]} ${infos.get('title', '')}</h4>
-   
+
    <p>
         ${infos.get('abstract', '')}
    </p>
 
     <div class="speaker">
     <div class="col-xs-3 person">
-      <center><img class="img-circle hvr-buzz" 
+      <center><img class="img-circle hvr-buzz"
       src="${people[talk['speaker_name']]['img']}"></center>
       <h4 class="speaker-name">${talk["speaker_name"]}</h4>
       <p class="speaker-org">${people[talk["speaker_name"]]["affiliation"]}</p>
@@ -50,24 +47,22 @@ Coming soon
     % endfor
 % endfor
 
--->
-
 
 <script>
 $(function(){
-	
+
 	$(".schedule-item ").hover( function(){
 		$( this ).css("background-color", "#eeeeee");
 	}, function(){
 		$( this ).css("background-color", "white");
 	} );
-	
+
 });
 
 
 </script>
 
-            
+
             </p>
           </div><!-- /.blog-post -->
-          
+

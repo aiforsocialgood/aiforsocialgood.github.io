@@ -53,17 +53,20 @@
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-           "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"},
+            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"},
             "Virgile Sylvain" :     {"img": "img/virgile.jpeg",   "affiliation":"Unversity of Montréal"},
             "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
             "Kentaro Toyama":       {"img": "img/kentaro.jpg",     "affiliation":"University of Michigan School of Information"},
             "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"},
             "Adriana Romero":       {"img": "img/adriana_romero.jpg", "affiliation":"Facebook AI"},
-            "Abhishek Gupta":             {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
+            "Abhishek Gupta":       {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
             "Ernest Mwebaze":       {"img": "img/ernest-mwebaze.jpeg", "affiliation":"Google"},
             "Mathieu Germain":      {"img": "img/mathieu_germain.jpg", "affiliation":"Mila"},
             "Arsene Fansi Tchango": {"img": "img/arsene.jpg", "affiliation":"Mila"},
-            "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"}
+            "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"},
+            "Jack Clark":           {"img": "img/Jack_Clark.jpg", "affiliation":"OpenAI"},
+            "Meredith Whittaker":   {"img": "img/MeredithWhittaker.jpg", "affiliation":"AI Now Institute"},
+            "Joanna Bryson":        {"img": "img/BrysonJoanna.jpg", "affiliation":"University of Bath"}
 
         }
   },
@@ -97,11 +100,12 @@
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Monday May 6th"],
 
-
         "talks" :{
             "Monday May 6th" : [
-                {"time" : "9:00", "speaker_name": "Yoshua Bengio"}
-
+                {"time": "11:00 - 11:45", "speaker_name": "Jack Clark"},
+                {"time": "11:45 - 12:15", "speaker_name": "Joanna Bryson"},
+                {"time": "12:15 - 12:20", "speaker_name": "Yoshua Bengio"},
+                {"time": "16:30 - 17:30", "speaker_name": "Meredith Whittaker"}
             ]
         }
 
