@@ -1,0 +1,3 @@
+title:Disaster Insurance - New parametric contracts based on satellite images
+authors:Eric Bouyé (The World Bank)
+tag:

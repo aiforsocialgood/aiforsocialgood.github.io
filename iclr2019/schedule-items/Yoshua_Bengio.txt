@@ -1,2 +1,2 @@
 title:AI Commons
-abstract:Coming soon.
+abstract:AI Commons is a collective project whose goal is to make the benefits of AI available to all. Since AI research can benefit from the input of a large range of talents across the world, the project seeks to develop ways for developers and organizations to collaborate more easily and effectively. As a community operating in an environment of trust and problem-solving, AI Commons can empower researchers to tackle the world's important problems using all the possibilities of cutting-edge AI.

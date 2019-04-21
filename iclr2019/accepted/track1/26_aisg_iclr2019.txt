@@ -1,0 +1,3 @@
+title:Predicting Survival after surgery for brain tumour patients - A machine learning study on clinical and molecular data
+authors:Patric Fulop (University of Edinburgh)
+tag:

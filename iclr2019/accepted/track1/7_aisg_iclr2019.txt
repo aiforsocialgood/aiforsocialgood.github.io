@@ -1,0 +1,3 @@
+title:A pipeline for emergency response
+authors:Ayan Mukhopadhyay (Vanderbilt University); Yevgeniy Vorobeychik (Washington University in St. Louis)
+tag:

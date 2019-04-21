@@ -1,0 +1,3 @@
+title:Mapping Informal Settlements in Developing Countries with Multi-resolution, Multi-spectral Data
+authors:Patrick C Helber (German Research Center for Artificial Intelligence); Bradley J Gram-Hansen (University of Oxford); Indhu Varatharajan (German Aerospace Center DLR); Faiza Azam (University of Bremen); Alejandro Coca-Castro (Kings College London); Veronika Kopackova (Czech Geological Survey); Piotr Bilinski (University of Oxford)
+tag:

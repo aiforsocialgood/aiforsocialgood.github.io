@@ -55,9 +55,9 @@ mylookup = TemplateLookup(directories=['.', '../bio', '..'],
 custom = json.loads(open('custom.json').read())
 
 # Get all pages
-pages = ['proposals', 'home', 'schedule', 
+pages = ['proposals', 'home', 'schedule',
             'acceptedpapers', 'cfp', 'organizers',
-            'guidelines_areachairs', 'guidelines_reviewers', 
+            'guidelines_areachairs', 'guidelines_reviewers',
             'pastworkshops', 'futureworkshops',
             'faq_general', 'faq_reviewers', 'faq_fundings',
             'faq_submission'
@@ -78,6 +78,12 @@ for page_name in pages:
 
         # Retrieve accepted papers from directory
         if page_name == 'acceptedpapers':
+            papers_dir = attributes['papers_dir']
+            papers_pdf_link = attributes['papers_pdf_link']
+            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
+            attributes['papers'] = papers
+
+        if page_name == 'proposals':
             papers_dir = attributes['papers_dir']
             papers_pdf_link = attributes['papers_pdf_link']
             papers = getAcceptedPapers(papers_dir, papers_pdf_link)

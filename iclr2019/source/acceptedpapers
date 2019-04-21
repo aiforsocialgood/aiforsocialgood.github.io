@@ -16,7 +16,6 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-<!--
 
 <table class="table" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -42,10 +41,10 @@
                 Not available
             % endif
         </td>
-        
+
         <td class="tg-0lax">
-        % if p.get("tag", "") != "" : 
-                 <span class="label label-success"> ${p["tag"]}</span> 
+        % if p.get("tag", "") != "" :
+                 <span class="label label-success"> ${p["tag"]}</span>
         % endif
 
         <br>${p.get("title", "")} </td>
@@ -57,7 +56,6 @@
 
 </table>
 
--->
 
 
 
@@ -68,4 +66,4 @@
 
  </p>
 </div><!-- /.blog-post -->
-          
+
