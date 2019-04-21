@@ -1,0 +1,3 @@
+title:RxRx1 - An image set for cellular morphological variation across many experimental batches
+authors:Berton Earnshaw (Recursion); Jason Yosinski (Uber AI Labs)
+tag:

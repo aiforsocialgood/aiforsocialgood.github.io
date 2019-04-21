@@ -1,0 +1,3 @@
+title:Computer Vision for Food Quality - The Case of Injera
+authors:Wondimagegnhue Tsegaye Tufa (Addis Ababa University)
+tag:

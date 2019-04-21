@@ -1,0 +1,2 @@
+title:A pipeline for emergency response
+abstract:The talk will focus on our research done in collaboration with the Nashville Fire and Police departments to forecast incidents like accidents and crimes, and algorithmic methods of allocating and dispatching emergency responders.
