@@ -5,7 +5,7 @@
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
 
-<p><b>Deadline for submissions: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
+<p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
 <p>Notification of acceptance: <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
 <p>Workshop date:
