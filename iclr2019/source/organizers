@@ -44,7 +44,7 @@
 
 
 
-	   <div class="row org-logos">
+	  <!-- <div class="row org-logos">
 			<h3>We thank the following organizations for allowing their members to participate</h3>
             <div class="logos-allowing">
             % for e in sponsors['affiliation']:
@@ -57,7 +57,7 @@
             </div>
 
 
-		</div> 
+		</div> -->
 
 		<script>
 		$(".logos-allowing").html($(".logos-allowing .logo-link").sort(function(){
