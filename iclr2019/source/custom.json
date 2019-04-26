@@ -42,8 +42,6 @@
   "poster_size_cm" : "90 W x 122 H cm",
   "poster_paper" : " light weight paper - not laminated",
 
-
-
   "people" :
         {
 
@@ -66,13 +64,30 @@
             "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"},
             "Jack Clark":           {"img": "img/Jack_Clark.jpg", "affiliation":"OpenAI"},
             "Meredith Whittaker":   {"img": "img/MeredithWhittaker.jpg", "affiliation":"AI Now Institute"},
-            "Joanna Bryson":        {"img": "img/BrysonJoanna.jpg", "affiliation":"University of Bath"},
+            "Joanna Bryson":        {"img": "img/BrysonJoanna4.jpeg", "affiliation":"University of Bath"},
             "Amine Bellahsen":      {"img": "img/AmineBellahsen.jpg", "affiliation":"Polytechnique Montreal"},
             "Ayan Mukhopadhyay":    {"img": "img/AyanMukhopadhyay.jpeg", "affiliation":"Vanderbilt University"},
             "Yevgeniy Vorobeychik": {"img": "img/EugeneVorobeychik.jpg", "affiliation":"Washington University in St. Louis"}
 
-        }
-  },
+        },
+  
+
+  "logos" : {
+
+    "mila" :       {"img":"other-logos/mila.png", "link":""},
+    "intelai" :    {"img":"other-logos/intelai.jpg", "link":""},
+    "waterlooai" : {"img":"other-logos/waterlooai.png","link":""},
+    "aiia" :       {"img":"other-logos/aiia.jpg","link":""},
+    "cmu" :        {"img":"other-logos/cmu.png","link":""},
+    "syntiant" :   {"img":"other-logos/syntiant.png","link":""}
+    },
+
+  "sponsors" : {
+    "sustainer" : ["intelai"],
+    "organizer" : ["mila"],
+    "affiliation" : ["waterlooai", "cmu", "mila", "syntiant", "aiia"]
+  }
+ },
 
 "organizers" : {
 
@@ -127,5 +142,4 @@
     "papers_dir" : "../accepted/track2",
     "papers_pdf_link" : "accepted/track2/pdfs"
   }
-
 }
