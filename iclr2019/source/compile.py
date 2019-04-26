@@ -106,9 +106,9 @@ for page_name in pages:
 
         ctc = re.findall(reg, open(page_name).read())
         atr = attributes.keys()
-        for c in ctc:
-            c = c.strip("${}")
-            if c not in atr:
-                print(page_name, " : ", c,  " is missing")
+        #for c in ctc:
+        #    c = c.strip("${}")
+        #    if c not in atr:
+        #        print(page_name, " : ", c,  " is missing")
         # print("footer", re.findall(reg, open("footer").read()))
         # print("header", re.findall(reg, open("header").read()))

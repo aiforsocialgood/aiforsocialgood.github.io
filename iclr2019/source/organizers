@@ -44,21 +44,29 @@
 
 
 
-	<!--	<div class="row org-logos">
+	   <div class="row org-logos">
 			<h3>We thank the following organizations for allowing their members to participate</h3>
+            <div class="logos-allowing">
+            % for e in sponsors['affiliation']:
+                <a class="logo-link" href="${logos[e]['link']}">
+                  <img class="logo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                  </img>
+                </a>
+            % endfor    
+
+            </div>
 
 
-
-		</div> -->
+		</div> 
 
 		<script>
-		$(".logos-allowing").html($(".logos-allowing .logo").sort(function(){
+		$(".logos-allowing").html($(".logos-allowing .logo-link").sort(function(){
  			   return Math.random()-0.5;
 		}));
 
 		</script>
 
-
+        <br>
 		<h3>We thank our reviewers</h3>
 
 		<%include file="organizers_reviewers"/>
