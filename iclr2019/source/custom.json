@@ -67,7 +67,10 @@
             "Joanna Bryson":        {"img": "img/BrysonJoanna4.jpeg", "affiliation":"University of Bath"},
             "Amine Bellahsen":      {"img": "img/AmineBellahsen.jpg", "affiliation":"Polytechnique Montreal"},
             "Ayan Mukhopadhyay":    {"img": "img/AyanMukhopadhyay.jpeg", "affiliation":"Vanderbilt University"},
-            "Yevgeniy Vorobeychik": {"img": "img/EugeneVorobeychik.jpg", "affiliation":"Washington University in St. Louis"}
+            "Yevgeniy Vorobeychik": {"img": "img/EugeneVorobeychik.jpg", "affiliation":"Washington University in St. Louis"},
+            "Joey Hyun Joon Lee" :  {"img": "img/JoeyHyunJoonLee.png", "affiliation":"World Bank Treasury"},
+            "Jean-Xavier Bourre" :  {"img": "img/JeanXavierBourre.jpg", "affiliation":"World Bank Treasury"},
+            "Eric Bouyé" :          {"img": "img/EricBouye.jpg", "affiliation":" World Bank Treasury"}
 
         },
   
@@ -120,12 +123,13 @@
 
         "talks" :{
             "Monday May 6th" : [
-                {"time": "11:00 - 11:45", "speaker_name": "Jack Clark"},
-                {"time": "11:45 - 12:15", "speaker_name": "Joanna Bryson"},
-                {"time": "12:15 - 12:20", "speaker_name": "Yoshua Bengio"},
-                {"time": "12:30 - 12:35", "speaker_name": "Amine Bellahsen"},
-                {"time": "16:30 - 17:30", "speaker_name": "Meredith Whittaker"},
-                {"time": "17:30 - 17:35", "speaker_name": "Ayan Mukhopadhyay"}
+                {"id": "aisg_iclr2019_1100", "time": "11:00 - 11:45", "speaker_name": ["Jack Clark"]},
+                {"id": "aisg_iclr2019_1145", "time": "11:45 - 12:15", "speaker_name": ["Joanna Bryson"]},
+                {"id": "aisg_iclr2019_1215", "time": "12:15 - 12:20", "speaker_name": ["Yoshua Bengio"]},
+                {"id": "aisg_iclr2019_1220", "time": "12:20 - 12:25", "speaker_name": ["Eric Bouyé", "Jean-Xavier Bourre", "Joey Hyun Joon Lee"]},
+                {"id": "aisg_iclr2019_1230", "time": "12:30 - 12:35", "speaker_name": ["Amine Bellahsen"]},
+                {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:30", "speaker_name": ["Meredith Whittaker"]},
+                {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:35", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]}
             ]
         }
 

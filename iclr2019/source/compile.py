@@ -66,6 +66,7 @@ pages = ['proposals', 'home', 'schedule',
 for page_name in pages:
 
     attributes = custom['default'].copy()
+   
     attributes.update(custom.get(page_name, {}))
 
     html = """<%include file="header"/>
