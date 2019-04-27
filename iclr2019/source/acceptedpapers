@@ -36,7 +36,7 @@
 
             <br>
             % if p.get("pdf", "") != "" :
-                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="30" /></a>
             % else:
                 Not available
             % endif
