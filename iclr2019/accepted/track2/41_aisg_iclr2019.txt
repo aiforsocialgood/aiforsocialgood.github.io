@@ -1,3 +1,3 @@
 title:Planning in Home Health Care Structures using Reinforcement Learning
-authors:Sanae Lotfi (Polytechnique Montréal); Loubna Benabou (UQAR); Abderrahim khalifa (Polytechnique Montreal); Amine BELLAHSEN (Polytechnique Montreal)
+authors:Sanae Lotfi (Polytechnique Montréal); Abderrahim Khalifa (Polytechnique Montréal); Amine Bellahsen (Polytechnique Montréal); Loubna Benabbou (UQAR Levis Campus)
 tag:
