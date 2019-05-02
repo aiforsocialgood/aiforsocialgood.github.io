@@ -31,8 +31,11 @@
 
  % for speaker in talk['speaker_name'] :   
    
+  
     <div class="speaker row">
+    % if speaker != "Coming soon":
        <div class="col-xs-3 person">
+        
            <center><img class="img-circle hvr-buzz"
            src="${people[speaker]['img']}"></center>
            <h4 class="speaker-name">${speaker}</h4>
@@ -42,8 +45,10 @@
       <p class="speaker-bio">
         <%include file="${speaker.replace(' ', '_')}.bio.html"/>
       </p>
-
+   
+    % endif
     </div>
+    
   % endfor
 </div>
 
