@@ -1,0 +1,2 @@
+title:Problem Introduction - Decoding Hidden Language for Social Good
+abstract:Bad actors on digital platforms find creative ways to evade detection by moderation systems. For example, large groups of users may decide to use euphemisms or “code words” for communities within hate speech, names of drugs for online drug peddling and criminal activities within gangspeak. We propose the use of robust neural language models trained over large corpora to automatically infer unusual parts of text within specific contexts that may indicate the use of euphemisms. 
