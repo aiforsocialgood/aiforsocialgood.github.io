@@ -1,2 +1,2 @@
 title:Towards the Standardization of Data Licenses
-abstract:
+abstract:This paper provides a taxonomy for the licensing of data in the fields of artificial intelligence and machine learning. The paper’s goal is to build towards a common framework for data licensing akin to the licensing of open source software. Increased transparency and resolving conceptual ambiguities in the existing licensing language would be beneficial to the AI community as a whole.

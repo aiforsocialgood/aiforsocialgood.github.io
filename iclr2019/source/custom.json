@@ -72,6 +72,8 @@
             "Jean-Xavier Bourre" :  {"img": "img/JeanXavierBourre.jpg", "affiliation":"World Bank Treasury"},
             "Eric Bouyé" :          {"img": "img/EricBouye.jpg", "affiliation":"World Bank Treasury"},
             "Rijul Magu" :          {"img": "img/rijul_magu.jpg", "affiliation":"Conduent Labs"},
+            "Paul Gagnon" :         {"img": "img/paul.jpeg", "affiliation":"ElementAI"},
+            "Misha Benjamin" :      {"img": "img/misha_benjamin.png", "affiliation":"ElementAI"},
             "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"}
 
         },
@@ -140,7 +142,7 @@
                 {"id": "aisg_iclr2019_1737", "time": "17:37 - 17:44", "speaker_name": ["Coming soon"]},
                 {"id": "aisg_iclr2019_1744", "time": "17:44 - 17:51", "speaker_name": ["Coming soon"]},
                 {"id": "aisg_iclr2019_1751", "time": "17:51 - 17:58", "speaker_name": ["Byung-Hak Kim"]},
-                {"id": "aisg_iclr2019_1758", "time": "17:58 - 17:05", "speaker_name": ["Coming soon"]},
+                {"id": "aisg_iclr2019_1758", "time": "17:58 - 17:05", "speaker_name": ["Paul Gagnon", "Misha Benjamin"]},
                 {"id": "aisg_iclr2019_1805", "time": "18:05 - 18:30", "speaker_name": []}
             ]
         }
