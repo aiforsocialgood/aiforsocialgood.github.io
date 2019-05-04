@@ -39,7 +39,12 @@
                 <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="30" /></a>
             % else:
                 Not available
-            % endif
+            %endif
+
+            % if p.get("poster", "") != "" :
+            <br>
+                <a target="_blank" href="${p['poster']}"><img src="img/poster.png" height="30" /></a>
+            %endif
         </td>
 
         <td class="tg-0lax">
