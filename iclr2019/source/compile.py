@@ -8,7 +8,7 @@ from mako.lookup import TemplateLookup
 reg = "\$\{[^$]*\}"
 
 
-def getAcceptedPapers(papers_dir, papers_pdf_link):
+def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     '''
     Retrieve the list of accepted papers from
     directory defined in the .json file
@@ -31,16 +31,27 @@ def getAcceptedPapers(papers_dir, papers_pdf_link):
         if "pdf" not in infos.keys():
             infos["pdf"] = '{}/{}.pdf'.format(papers_pdf_link, name)
 
+        if "poster" not in infos.keys():
+            infos["poster"] = '{}/{}.pdf'.format(posters_pdf_link, name)
+
         infos["id"] = id
         infos["name"] = name
 
-        # Check that pdf exists
+        # Check that pdf and poster exists
         rootdir = os.path.dirname(os.getcwd())
-        pdffile = os.path.join(rootdir, infos['pdf'])
-        if not os.path.exists(pdffile):
-            infos["pdf"] = ""
+        infos["pdf"] = insertIfExists(rootdir, infos["pdf"])
+        infos["poster"] = insertIfExists(rootdir, infos["poster"])
+
         papers.append(infos)
     return papers
+
+
+def insertIfExists(rootdir, basename, default=''):
+    path = os.path.join(rootdir, basename)
+    result = default
+    if os.path.exists(path):
+        result = path
+    return result
 
 
 def getScheduleItems():
@@ -66,7 +77,6 @@ pages = ['proposals', 'home', 'schedule',
 for page_name in pages:
 
     attributes = custom['default'].copy()
-   
     attributes.update(custom.get(page_name, {}))
 
     html = """<%include file="header"/>
@@ -78,17 +88,12 @@ for page_name in pages:
     try:
 
         # Retrieve accepted papers from directory
-        if page_name == 'acceptedpapers':
-            papers_dir = attributes['papers_dir']
-            papers_pdf_link = attributes['papers_pdf_link']
-            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
-            attributes['papers'] = papers
-
-        if page_name == 'proposals':
-            papers_dir = attributes['papers_dir']
-            papers_pdf_link = attributes['papers_pdf_link']
-            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
-            attributes['papers'] = papers
+        if page_name in ['acceptedpapers', 'proposals']:
+            attributes["papers"] = getAcceptedPapers(
+                attributes["papers_dir"],
+                attributes["papers_pdf_link"],
+                attributes["posters_pdf_link"],
+            )
 
         # Generating the different .htm files
         s = page.render(**attributes)
