@@ -50,7 +50,7 @@ def insertIfExists(rootdir, basename, default=''):
     path = os.path.join(rootdir, basename)
     result = default
     if os.path.exists(path):
-        result = path
+        result = basename
     return result
 
 
