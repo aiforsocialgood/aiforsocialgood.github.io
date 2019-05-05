@@ -1,2 +1,2 @@
 title:Visualizing the Consequences of Climate Change Using Cycle-Consistent Adversarial Networks
-abstract:
+abstract:There are many problems related to Climate Change in which AI can help. We chose to focus on making it more real, more personal and more visceral for persons by producing both scientifically sound and emotionally compelling visualizations. As a first attempt, we focused on how to generate images of a typical Climate Change extreme event: flooding. Using a person's address, we use CycleGANs to apply a "flooding" transformation to an image of their home, in order to engage them into supporting necessary actions.
