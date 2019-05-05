@@ -74,7 +74,9 @@
             "Rijul Magu" :          {"img": "img/rijul_magu.jpg", "affiliation":"Conduent Labs"},
             "Paul Gagnon" :         {"img": "img/paul.jpeg", "affiliation":"ElementAI"},
             "Misha Benjamin" :      {"img": "img/misha_benjamin.png", "affiliation":"ElementAI"},
-            "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"}
+            "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"},
+            "Victor Schmidt" :      {"img": "img/VictorSchmidt.png", "affiliation":"MILA"},
+            "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"}
 
         },
   
@@ -139,8 +141,8 @@
                 {"id": "aisg_iclr2019_1600", "time": "16:00 - 16:30", "speaker_name": []},
                 {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:30", "speaker_name": ["Meredith Whittaker"]},
                 {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:37", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
-                {"id": "aisg_iclr2019_1737", "time": "17:37 - 17:44", "speaker_name": ["Coming soon"]},
-                {"id": "aisg_iclr2019_1744", "time": "17:44 - 17:51", "speaker_name": ["Coming soon"]},
+                {"id": "aisg_iclr2019_1737", "time": "17:37 - 17:44", "speaker_name": ["Jackson Wang"]},
+                {"id": "aisg_iclr2019_1744", "time": "17:44 - 17:51", "speaker_name": ["Victor Schmidt"]},
                 {"id": "aisg_iclr2019_1751", "time": "17:51 - 17:58", "speaker_name": ["Byung-Hak Kim"]},
                 {"id": "aisg_iclr2019_1758", "time": "17:58 - 17:05", "speaker_name": ["Paul Gagnon", "Misha Benjamin"]},
                 {"id": "aisg_iclr2019_1805", "time": "18:05 - 18:30", "speaker_name": []}
