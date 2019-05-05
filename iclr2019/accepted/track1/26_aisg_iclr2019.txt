@@ -1,3 +1,3 @@
 title:Predicting Survival after surgery for brain tumour patients - A machine learning study on clinical and molecular data
-authors:Patric Fulop (University of Edinburgh); Alex Agachi (Empiric Capital); Paul Pop (Neurolaboratories Limited)
+authors:Patric Fulop (University of Edinburgh); Areti Manataki (University of Edinburgh); Alex Agachi (Empiric Capital); Paul Pop (Neurolaboratories Limited)
 tag:
