@@ -12,7 +12,6 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     '''
     Retrieve the list of accepted papers from
     directory defined in the .json file
-
     Name of the .txt file should contain the id
     '''
     papers = []
@@ -26,7 +25,7 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
         finput = open('{}/{}'.format(papers_dir, filename))
         lines = finput.readlines()
         # all files need to have the same number of elements
-        
+
         infos = dict([tuple(l.strip().split(':')) for l in lines])
 
         # information not in the file
@@ -45,9 +44,9 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
         infos["poster"] = insertIfExists(rootdir, infos["poster"])
 
         papers.append(infos)
-        
+
     papers =  sorted(papers, key=lambda k: int(k['id']))
-    papers =  sorted(papers, key=lambda k: k.get('category', '')) 
+    papers =  sorted(papers, key=lambda k: k.get('category', ''))
     return papers
 
 
@@ -100,12 +99,6 @@ for page_name in pages:
                 attributes["posters_pdf_link"],
             )
 
-        if page_name == 'proposals':
-            papers_dir = attributes['papers_dir']
-            papers_pdf_link = attributes['papers_pdf_link']
-            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
-            attributes['papers'] = papers
-
         # Generating the different .htm files
         s = page.render(**attributes)
         outfile = open('../%s.htm' % page_name, "w")
@@ -117,7 +110,7 @@ for page_name in pages:
             outfile = open('../index.htm', "w")
             outfile.write(str(s))
             outfile.close()
-    
+
     except Exception as e:
         print(page_name, e)
 
