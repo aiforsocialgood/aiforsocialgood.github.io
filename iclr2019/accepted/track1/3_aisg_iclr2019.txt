@@ -1,3 +1,7 @@
 title:Deep Learning to Predict Student Outcomes
 authors:Byung-Hak Kim (Udacity)
 tag:
+<<<<<<< HEAD
+=======
+category:Education
+>>>>>>> upstream/master

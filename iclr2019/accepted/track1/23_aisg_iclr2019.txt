@@ -1,3 +1,7 @@
 title:Towards the Standardization of Data Licenses
 authors:Misha Benjamin (Element AI); Paul Gagnon (Element AI); Negar Rostamzadeh (Element AI); Chris Paul (UdeM); Yoshua Bengio (Mila); Alex Shee (Element AI)
 tag:
+<<<<<<< HEAD
+=======
+category:
+>>>>>>> upstream/master

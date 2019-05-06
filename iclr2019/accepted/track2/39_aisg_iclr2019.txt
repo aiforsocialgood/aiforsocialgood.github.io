@@ -1,3 +1,9 @@
 title:AI for mitigating effects of climate and weather changes in agriculture
+<<<<<<< HEAD
 authors:Narmada Balasooriya (ConscientAI Labs); CD Athuraliya (ConscientAI Labs); Janak Gunatilleke (ConscientAI Labs)
 tag:
+=======
+authors:Narmada Balasooriya (ConscientAI Labs); CD Athuraliya (ConscientAI Labs, LIRNEasia); Janak Gunatilleke (ConscientAI Labs)
+tag:
+category:Agriculture
+>>>>>>> upstream/master

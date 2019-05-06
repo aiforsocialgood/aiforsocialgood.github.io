@@ -1,3 +1,9 @@
 title:Multi-Task Learning for Segmentation of Building Footprints with Neural Networks
+<<<<<<< HEAD
 authors:Benjamin Bischke (DFKI GmbH); Patrick C Helber (German Research Center for Artificial Intelligence); Joachim Folz (DFKI GmbH); Damian Borth (DFKI GmbH); Andreas Dengel (DFKI GmbH)
 tag:
+=======
+authors: Benjamin Bischke (DFKI, TU KL); Patrick Helber (DFKI, TU KL); Joachim Folz (DFKI, TU KL); Andreas Dengel (DFKI, TU KL); Damian Borth (University of St. Gallen)
+tag:
+category:Urban Planning
+>>>>>>> upstream/master

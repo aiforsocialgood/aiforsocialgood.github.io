@@ -36,7 +36,7 @@
 
             <br>
             % if p.get("pdf", "") != "" :
-                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="30"/></a>
             % else:
                 Not available
             % endif
@@ -47,7 +47,12 @@
                  <span class="label label-success"> ${p["tag"]}</span>
         % endif
 
-        <br>${p.get("title", "")} </td>
+        <br>${p.get("title", "")}
+        % if p.get("category", "") != "" :
+        <small> <span class="label label-default"> ${p["category"]}</span></small>
+        % endif
+
+        </td>
 
     <td class="tg-0lax"> ${p.get("authors", "")}</td>
      </tr>

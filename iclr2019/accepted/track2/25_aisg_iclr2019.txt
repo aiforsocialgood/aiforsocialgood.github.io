@@ -1,3 +1,9 @@
 title:Disaster Insurance - New parametric contracts based on satellite images
+<<<<<<< HEAD
 authors:Eric Bouyé (The World Bank)
 tag:
+=======
+authors:Eric Bouyé (The World Bank); Jean-Xavier Bourre (The World Bank); Joey Hyun Joon Lee (The World Bank)
+tag:
+category:Sustainable Dev
+>>>>>>> upstream/master

@@ -8,7 +8,7 @@ from mako.lookup import TemplateLookup
 reg = "\$\{[^$]*\}"
 
 
-def getAcceptedPapers(papers_dir, papers_pdf_link):
+def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     '''
     Retrieve the list of accepted papers from
     directory defined in the .json file
@@ -25,22 +25,38 @@ def getAcceptedPapers(papers_dir, papers_pdf_link):
 
         finput = open('{}/{}'.format(papers_dir, filename))
         lines = finput.readlines()
+        # all files need to have the same number of elements
+        
         infos = dict([tuple(l.strip().split(':')) for l in lines])
 
         # information not in the file
         if "pdf" not in infos.keys():
             infos["pdf"] = '{}/{}.pdf'.format(papers_pdf_link, name)
 
+        if "poster" not in infos.keys():
+            infos["poster"] = '{}/{}.pdf'.format(posters_pdf_link, name)
+
         infos["id"] = id
         infos["name"] = name
 
-        # Check that pdf exists
+        # Check that pdf and poster exists
         rootdir = os.path.dirname(os.getcwd())
-        pdffile = os.path.join(rootdir, infos['pdf'])
-        if not os.path.exists(pdffile):
-            infos["pdf"] = ""
+        infos["pdf"] = insertIfExists(rootdir, infos["pdf"])
+        infos["poster"] = insertIfExists(rootdir, infos["poster"])
+
         papers.append(infos)
+        
+    papers =  sorted(papers, key=lambda k: int(k['id']))
+    papers =  sorted(papers, key=lambda k: k.get('category', '')) 
     return papers
+
+
+def insertIfExists(rootdir, basename, default=''):
+    path = os.path.join(rootdir, basename)
+    result = default
+    if os.path.exists(path):
+        result = basename
+    return result
 
 
 def getScheduleItems():
@@ -77,11 +93,12 @@ for page_name in pages:
     try:
 
         # Retrieve accepted papers from directory
-        if page_name == 'acceptedpapers':
-            papers_dir = attributes['papers_dir']
-            papers_pdf_link = attributes['papers_pdf_link']
-            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
-            attributes['papers'] = papers
+        if page_name in ['acceptedpapers', 'proposals']:
+            attributes["papers"] = getAcceptedPapers(
+                attributes["papers_dir"],
+                attributes["papers_pdf_link"],
+                attributes["posters_pdf_link"],
+            )
 
         if page_name == 'proposals':
             papers_dir = attributes['papers_dir']
@@ -100,15 +117,15 @@ for page_name in pages:
             outfile = open('../index.htm', "w")
             outfile.write(str(s))
             outfile.close()
-
+    
     except Exception as e:
         print(page_name, e)
 
         ctc = re.findall(reg, open(page_name).read())
         atr = attributes.keys()
-        for c in ctc:
-            c = c.strip("${}")
-            if c not in atr:
-                print(page_name, " : ", c,  " is missing")
+        #for c in ctc:
+        #    c = c.strip("${}")
+        #    if c not in atr:
+        #        print(page_name, " : ", c,  " is missing")
         # print("footer", re.findall(reg, open("footer").read()))
         # print("header", re.findall(reg, open("header").read()))

@@ -1,3 +1,9 @@
 title:Modeling Opioid Abuse Indicators and Interventions in Appalachia
+<<<<<<< HEAD
 authors:Savannah J Thais (Yale University)
 tag:
+=======
+authors:Savannah Thais (Yale University); Chase Shimmin (Yale University)
+tag:
+category:Social Welfare
+>>>>>>> upstream/master
