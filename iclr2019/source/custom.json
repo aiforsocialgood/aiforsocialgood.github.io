@@ -129,6 +129,8 @@
 
         "talks" :{
             "Monday May 6th" : [
+                {"id": "aisg_iclr2019_845", "time": "8:45 - 10:30", "speaker_name": []},
+                {"id": "aisg_iclr2019_1030", "time": "10:30 - 11:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1100", "time": "11:00 - 11:45", "speaker_name": ["Jack Clark"]},
                 {"id": "aisg_iclr2019_1145", "time": "11:45 - 12:15", "speaker_name": ["Joanna Bryson"]},
                 {"id": "aisg_iclr2019_1215", "time": "12:15 - 12:20", "speaker_name": ["Yoshua Bengio"]},
@@ -137,15 +139,16 @@
                 {"id": "aisg_iclr2019_1230", "time": "12:30 - 12:35", "speaker_name": ["Sanae Lofti"]},
                 {"id": "aisg_iclr2019_1235", "time": "12:35 - 13:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1300", "time": "13:00 - 14:30", "speaker_name": []},
-                {"id": "aisg_iclr2019_1515", "time": "15:15 - 16:00", "speaker_name": []},
+                {"id": "aisg_iclr2019_1430", "time": "14:30 - 16:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1600", "time": "16:00 - 16:30", "speaker_name": []},
-                {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:30", "speaker_name": ["Meredith Whittaker"]},
-                {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:37", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
-                {"id": "aisg_iclr2019_1737", "time": "17:37 - 17:44", "speaker_name": ["Jackson Wang"]},
-                {"id": "aisg_iclr2019_1744", "time": "17:44 - 17:51", "speaker_name": ["Victor Schmidt"]},
-                {"id": "aisg_iclr2019_1751", "time": "17:51 - 17:58", "speaker_name": ["Byung-Hak Kim"]},
-                {"id": "aisg_iclr2019_1758", "time": "17:58 - 17:05", "speaker_name": ["Paul Gagnon", "Misha Benjamin"]},
-                {"id": "aisg_iclr2019_1805", "time": "18:05 - 18:30", "speaker_name": []}
+                {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:00", "speaker_name": ["Meredith Whittaker"]},
+                {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
+                {"id": "aisg_iclr2019_1710", "time": "17:10 - 17:20", "speaker_name": ["Jackson Wang"]},
+                {"id": "aisg_iclr2019_1720", "time": "17:20 - 17:30", "speaker_name": ["Victor Schmidt"]},
+                {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:40", "speaker_name": ["Byung-Hak Kim"]},
+                {"id": "aisg_iclr2019_1740", "time": "17:40 - 17:50", "speaker_name": ["Paul Gagnon", "Misha Benjamin"]},
+                {"id": "aisg_iclr2019_1750", "time": "17:50 - 18:00", "speaker_name": []},
+                {"id": "aisg_iclr2019_1800", "time": "18:00 - 18:30", "speaker_name": []}
             ]
         }
 
