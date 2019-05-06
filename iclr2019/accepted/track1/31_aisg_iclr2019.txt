@@ -1,3 +1,4 @@
 title:Split learning for health - Distributed deep learning without sharing raw patient data
 authors:Praneeth Vepakomma (MIT); Otkrist Gupta (MIT); Tristan Swedish (MIT); Ramesh Raskar (MIT)
 tag:
+category:Health

@@ -1,3 +1,4 @@
 title:Reducing leakage in distributed deep learning for sensitive health data
 authors:Praneeth Vepakomma (MIT); Otkrist Gupta (MIT); Abhimanyu Dubey (MIT); Ramesh Raskar (MIT)
 tag:
+category:Health

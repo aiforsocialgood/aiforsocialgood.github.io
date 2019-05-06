@@ -1,3 +1,4 @@
 title:Visualizing the Consequences of Climate Change Using Cycle-Consistent Adversarial Networks
 authors:Victor Schmidt (Mila); Alexandra Luccioni (Mila); S. Karthik Mukkavilli (Mila); Kris Sankaran (Mila); Yoshua Bengio (Mila); Narmada Balasooriya (ConscientAI Labs); Jennifer Chayes (Microsoft Research New England)
 tag:
+category:Environmental

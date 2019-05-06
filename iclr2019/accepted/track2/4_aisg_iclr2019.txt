@@ -1,3 +1,4 @@
 title:Inferring crop pests and diseases from imagery soil data and soil properties
 authors:Bruno Ssekiwere (Uganda Technology and Management University); Claire Babirye (Uganda Technology and Management University)
 tag:
+category:Agriculture

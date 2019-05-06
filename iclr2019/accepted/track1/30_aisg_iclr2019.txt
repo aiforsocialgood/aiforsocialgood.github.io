@@ -1,3 +1,4 @@
 title:RxRx1 - An image set for cellular morphological variation across many experimental batches
 authors:James Taylor (Recursion Pharmaceuticals); Berton Earnshaw (Recursion Pharmaceuticals); Ben Mabey (Recursion Pharmaceuticals); Mason Victors (Recursion Pharmaceuticals); Jason Yosinski (Uber AI Labs)
 tag:
+category:Health
