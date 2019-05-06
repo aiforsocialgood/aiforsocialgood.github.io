@@ -1,9 +1,4 @@
 title:Mapping Informal Settlements in Developing Countries with Multi-resolution, Multi-spectral Data
-<<<<<<< HEAD
-authors:Patrick C Helber (German Research Center for Artificial Intelligence); Bradley J Gram-Hansen (University of Oxford); Indhu Varatharajan (German Aerospace Center DLR); Faiza Azam (University of Bremen); Alejandro Coca-Castro (Kings College London); Veronika Kopackova (Czech Geological Survey); Piotr Bilinski (University of Oxford)
-tag:
-=======
 authors:Patrick Helber (DFKI, TU KL); Bradley J Gram-Hansen (University of Oxford); Indhu Varatharajan (German Aerospace Center DLR); Faiza Azam (Independent researcher); Alejandro Coca-Castro (Kings College London); Veronika Kopackova (Czech Geological Survey); Piotr Bilinski (University of Oxford, University of Warsaw)
 tag:
 category:Sustainable Dev
->>>>>>> upstream/master

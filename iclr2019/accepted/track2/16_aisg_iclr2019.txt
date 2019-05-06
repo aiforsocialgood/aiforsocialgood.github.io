@@ -1,7 +1,4 @@
 title:AI for Science Journalism – Synthesizing Accurate and Understandable Reporting of Scientific Advances
 authors:Snigdha Petluru (Conduent Labs India); Harshit Agrawal (Conduent Labs India); Sandya Mannarswamy (Conduent Labs, India)
 tag:
-<<<<<<< HEAD
-=======
 category:Social Welfare
->>>>>>> upstream/master

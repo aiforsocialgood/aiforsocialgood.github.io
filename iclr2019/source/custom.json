@@ -141,7 +141,7 @@
                 {"id": "aisg_iclr2019_1300", "time": "13:00 - 14:30", "speaker_name": []},
                 {"id": "aisg_iclr2019_1430", "time": "14:30 - 16:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1600", "time": "16:00 - 16:30", "speaker_name": []},
-                {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:00", "speaker_name": ["Meredith Whittaker"]},
+                {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
                 {"id": "aisg_iclr2019_1710", "time": "17:10 - 17:20", "speaker_name": ["Jackson Wang"]},
                 {"id": "aisg_iclr2019_1720", "time": "17:20 - 17:30", "speaker_name": ["Victor Schmidt"]},

@@ -1,9 +1,4 @@
 title:AI-based evaluation of the SDGs - The case of crop detection with earth observation data
-<<<<<<< HEAD
-authors:Natalia Efremova (University of Oxford)
-tag:
-=======
 authors:Natalia Efremova (University of Oxford); Dennis West (University of Oxford); Dmitry Zausaev (Deep Planet)
 tag:
-category:
->>>>>>> upstream/master
+category:Agriculture

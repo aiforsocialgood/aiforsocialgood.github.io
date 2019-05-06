@@ -1,9 +1,4 @@
 title:A Knowledge Graph-based Approach for Exploring the U.S. Opioid Epidemic
-<<<<<<< HEAD
-authors:Maulik R Kamdar (Stanford University); Tymor Hamamsy (Stanford University); Shea Zhao (Stanford University); Ayin Vala (Stanford University); Tome Eftimov (Stanford University); James Zou (Stanford University); Suzanne Tamang (Stanford University)
-tag:
-=======
 authors:Maulik R Kamdar (Stanford University); Tymor Hamamsy (Stanford University); Shea Shelton (Stanford University); Ayin Vala (Stanford University, Foundation for Precision Medicine); Tome Eftimov (Stanford University); James Zou (Stanford University); Suzanne Tamang (Stanford University)
 tag:
 category:Health
->>>>>>> upstream/master

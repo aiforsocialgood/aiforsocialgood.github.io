@@ -1,7 +1,4 @@
 title:Customizable Facial Gesture Recognition for Improved Assistive Technology
 authors:Kuan-Chieh Wang (University of Toronto); Jixuan Wang (University of Toronto); Khai Truong (University of Toronto); Richard Zemel (University of Toronto)
 tag:
-<<<<<<< HEAD
-=======
 category:Assistive Tech
->>>>>>> upstream/master

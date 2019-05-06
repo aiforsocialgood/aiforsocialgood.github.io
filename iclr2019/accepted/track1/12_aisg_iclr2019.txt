@@ -1,9 +1,4 @@
 title:Structure-Based Networks for Drug Validation
-<<<<<<< HEAD
-authors:Cătălina Cangea (University of Cambridge)
-tag:
-=======
 authors:Cătălina Cangea (University of Cambridge); Arturas Grauslys (University of Liverpool); Pietro Lio (University of Cambridge); Francesco Falciani (University of Liverpool)
 tag:
 category:Health
->>>>>>> upstream/master
