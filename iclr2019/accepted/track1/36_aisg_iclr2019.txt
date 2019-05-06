@@ -1,3 +1,4 @@
 title:High-frequency crowd insights for public safety and congestion control
 authors:Karthik Nandakumar (IBM Research, Singapore); Sebastien Blandin (IBM Research, Singapore); Laura Wynter (IBM Research, Singapore)
 tag:
+category:Urban Planning

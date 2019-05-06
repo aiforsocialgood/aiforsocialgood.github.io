@@ -1,3 +1,4 @@
 title:Neural Transfer Learning for the Diagnosis of Perinatal Asphyxia
 authors:Charles C Onu (McGill University); Jonathan Lebensold (McGill University); William L Hamilton (McGill University); Doina Precup (McGill University)
 tag:
+category:Health

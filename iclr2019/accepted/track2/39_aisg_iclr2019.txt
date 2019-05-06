@@ -1,3 +1,4 @@
 title:AI for mitigating effects of climate and weather changes in agriculture
 authors:Narmada Balasooriya (ConscientAI Labs); CD Athuraliya (ConscientAI Labs, LIRNEasia); Janak Gunatilleke (ConscientAI Labs)
 tag:
+category:Agriculture

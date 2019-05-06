@@ -25,6 +25,8 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
 
         finput = open('{}/{}'.format(papers_dir, filename))
         lines = finput.readlines()
+        # all files need to have the same number of elements
+        
         infos = dict([tuple(l.strip().split(':')) for l in lines])
 
         # information not in the file
@@ -43,6 +45,9 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
         infos["poster"] = insertIfExists(rootdir, infos["poster"])
 
         papers.append(infos)
+        
+    papers =  sorted(papers, key=lambda k: int(k['id']))
+    papers =  sorted(papers, key=lambda k: k.get('category', '')) 
     return papers
 
 
@@ -106,7 +111,7 @@ for page_name in pages:
             outfile = open('../index.htm', "w")
             outfile.write(str(s))
             outfile.close()
-
+    
     except Exception as e:
         print(page_name, e)
 
