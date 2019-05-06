@@ -47,7 +47,7 @@
                  <span class="label label-success"> ${p["tag"]}</span>
         % endif
 
-        <br>${p.get("title", "")} 
+        <br>${p.get("title", "")}
         % if p.get("category", "") != "" :
         <small> <span class="label label-default"> ${p["category"]}</span></small>
         % endif
