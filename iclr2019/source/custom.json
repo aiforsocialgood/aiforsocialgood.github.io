@@ -76,7 +76,8 @@
             "Misha Benjamin" :      {"img": "img/misha_benjamin.png", "affiliation":"ElementAI"},
             "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"},
             "Victor Schmidt" :      {"img": "img/VictorSchmidt.png", "affiliation":"MILA"},
-            "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"}
+            "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"},
+            "Neama Dadkhahnikoo":   {"img": "img/missing.jpg",  "affiliation":"XPRIZE Foundation "}
 
         },
 
@@ -112,11 +113,13 @@
             "Communication and Website Chairs" :          ["Virgile Sylvain", "Geneviève Boucher"],
             "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
             "Scientific Chairs" :       ["Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"],
+            "Area Chairs" :             ["Adriana Romero", "Simon Blackburn","Mathieu Germain",
+                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango","Neama Dadkhahnikoo"],
             "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
                                         "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
                                         "Geneviève Boucher",  "Myriam Côté",
                                         "Adriana Romero", "Simon Blackburn","Mathieu Germain",
-                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango",
+                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango","Neama Dadkhahnikoo",
                                         "Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"]
 
         }
