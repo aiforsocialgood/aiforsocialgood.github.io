@@ -65,7 +65,14 @@
 		}));
 
 		</script>
+    <!--
+    <h3>We thank our Area Chairs</h3>
 
+    <%include file="organizers_acs"/>
+
+    </p>
+
+    <br>-->
         <br>
 		<h3>We thank our reviewers</h3>
 
