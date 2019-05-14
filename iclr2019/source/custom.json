@@ -77,7 +77,7 @@
             "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"},
             "Victor Schmidt" :      {"img": "img/VictorSchmidt.png", "affiliation":"MILA"},
             "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"},
-            "Neama Dadkhahnikoo":   {"img": "img/missing.jpg",  "affiliation":"XPRIZE Foundation "}
+            "Neama Dadkhahnikoo":   {"img": "img/neama_dadkhahnikoo.jpg",  "affiliation":"XPRIZE Foundation "}
 
         },
 
@@ -145,7 +145,7 @@
                 {"id": "aisg_iclr2019_1430", "time": "14:30 - 16:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1600", "time": "16:00 - 16:30", "speaker_name": []},
                 {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:00", "speaker_name": []},
-                {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
+                {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay"]},
                 {"id": "aisg_iclr2019_1710", "time": "17:10 - 17:20", "speaker_name": ["Jackson Wang"]},
                 {"id": "aisg_iclr2019_1720", "time": "17:20 - 17:30", "speaker_name": ["Victor Schmidt"]},
                 {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:40", "speaker_name": ["Byung-Hak Kim"]},
