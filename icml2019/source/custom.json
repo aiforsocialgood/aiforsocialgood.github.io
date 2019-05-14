@@ -57,6 +57,12 @@
             "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
             "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"},
             "Lester Mackey":        {"img": "img/lester_mackey.jpg", "affiliation": "Microsoft Research New England"},
+            "Florian Golemo":       {"img": "img/missing.jpg", "affiliation": "University of Montreal"},
+            "Lily Hu" :             {"img": "img/missing.jpg", "affiliation": "Salesforce Research"},
+            "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"},
+            "Mathieu Germain":      {"img": "img/mathieu_germain.jpg", "affiliation":"Mila"},
+            "Neama Dadkhahnikoo":   {"img": "img/neama_dadkhahnikoo.jpg",  "affiliation":"XPRIZE Foundation "},
+            "Abhishek Gupta":       {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
             "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"}
 
         }
@@ -70,6 +76,8 @@
             "Paper Review and Call for Paper Chairs" : ["Tristan Sylvain", "Kris Sankaran", "Girmaw Abebe Tadesse"],
             "Sponsor and Finance Chairs" :             ["Myriam Côté", "Sean McGregor", "Virgile Sylvain"],
             "Communication and Website Chairs" :       ["Margaux Luck", "Geneviève Boucher"],
+            "Area Chairs" :                            ["Simon Blackburn","Mathieu Germain", "Lily Hu",
+                                                        "Abhishek Gupta","Neama Dadkhahnikoo", "Florian Golemo"],
             "Logistics Chairs" :                       ["Margaux Luck", "Kris Sankaran"],
             "Scientific Chairs" :                      ["Lester Mackey", "Rayid Ghani", "Yoshua Bengio"],
             "Program Committee" :                      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
