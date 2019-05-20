@@ -49,7 +49,10 @@
 
         <td class="tg-0lax">
         % if p.get("tag", "") != "" :
-                 <span class="label label-success"> ${p["tag"]}</span>
+          %for t in p.get("tag", "").split(','):
+                 <!--<span class="label label-success"> ${p["tag"]}</span>-->
+                 <span class="label label-success"> ${t}</span>
+          %endfor
         % endif
 
         <br>${p.get("title", "")} 
