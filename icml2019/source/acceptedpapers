@@ -16,7 +16,6 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-<!--
 
 <table class="table" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -37,27 +36,37 @@
 
             <br>
             % if p.get("pdf", "") != "" :
-                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="30" /></a>
             % else:
                 Not available
-            % endif
+            %endif
+
+            % if p.get("poster", "") != "" :
+            <br>
+                <a target="_blank" href="${p['poster']}"><img src="img/poster.png" height="30" /></a>
+            %endif
         </td>
-        
+
         <td class="tg-0lax">
-        % if p.get("tag", "") != "" : 
-                 <span class="label label-success"> ${p["tag"]}</span> 
+        % if p.get("tag", "") != "" :
+                 <span class="label label-success"> ${p["tag"]}</span>
         % endif
 
-        <br>${p.get("title", "")} </td>
+        <br>${p.get("title", "")} 
+        % if p.get("category", "") != "" :
+        <small> <span class="label label-default"> ${p["category"]}</span></small>
+        % endif
+        </td>
 
     <td class="tg-0lax"> ${p.get("authors", "")}</td>
+
+
      </tr>
     % endfor
 
 
 </table>
 
--->
 
 
 
@@ -68,4 +77,4 @@
 
  </p>
 </div><!-- /.blog-post -->
-          
+

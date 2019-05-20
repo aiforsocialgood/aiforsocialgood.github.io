@@ -1,0 +1,3 @@
+title:Building Fair and Transparent Machine Learning via Operationalised Risk: Towards an Open-Access Standard
+authors:Daniel First (QuantumBlack); Giles Colclough (QuantumBlack); Imran Ahmed (QuantumBlack); Jacomo Corbo (QuantumBlack); QuantumBlack Contributors (QuantumBlack)
+tag:poster

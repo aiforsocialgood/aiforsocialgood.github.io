@@ -1,0 +1,3 @@
+title:Crowdsourcing Insect Observation to Assess Demographic Shifts and Improve Classification
+authors:Léonard Boussioux (Ecole Centrale Paris, Mila); Charles Guille-Escuret (U. Montreal, Mila); Tomas Giro-Larraz (Ecole Centrale Paris, EPFL); Mehdi Cherti (Mines Paristech); Balazs Kegl (CNRS-LAL, Huawei, U. Paris-sud)
+tag:poster

@@ -1,0 +1,3 @@
+title:Pareto Efficient Fairness for Skewed Subgroup Data
+authors:Ananth Balashankar (New york University); Alyssa Lees (Google); Chris Welty (Google); Lakshminarayanan Subramanian (NYU)
+Tag:oral

@@ -1,0 +1,3 @@
+title:Achieving Fairness in Determining Medicaid Eligibility through Fairgroup Construction
+authors:Boli Fang (Indiana University); Miao Jiang (Indiana University); Jerry Shen (Indiana University)
+tag:poster
