@@ -1,0 +1,4 @@
+title:Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images
+authors: Yukai Hong (McGill University); Pedro O. Pinheiro (Element AI); Scott Weichenthal (McGill University)
+tag:
+category:oral

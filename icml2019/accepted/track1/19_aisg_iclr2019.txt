@@ -1,0 +1,4 @@
+title:Wildlife GUARDSS: Using Uncertain Real-Time Information in Signaling Games for Sustainability
+authors:Elizabeth Bondi (University of Southern California); Hoon Oh (Carnegie Mellon University); Haifeng Xu (Harvard University); Fei Fang (Carnegie Mellon); Bistra Dilkina (University of Southern California); Milind Tambe (USC)
+tag:
+category:poster

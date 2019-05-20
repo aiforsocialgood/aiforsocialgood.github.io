@@ -1,0 +1,4 @@
+title:Anomaly Detection with Joint Representation Leaning of Content and Connection
+authors:Junhao Wang (Mila)
+tag:
+category:poster

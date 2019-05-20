@@ -1,0 +1,4 @@
+title:Using AI for Economic Upliftment of Handicraft Industry
+authors:Nitya Raviprakash (Microsoft); Sonam Damani (Microsoft); Ankush Chatterjee (Microsoft); Meghana Joshi (Microsoft)
+tag:
+category:oral

@@ -1,0 +1,4 @@
+title:Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts
+authors:Joseph P Bullock (UN Global Pulse and Durham University)
+tag:
+category:poster

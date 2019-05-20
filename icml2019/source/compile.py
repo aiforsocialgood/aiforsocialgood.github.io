@@ -8,11 +8,10 @@ from mako.lookup import TemplateLookup
 reg = "\$\{[^$]*\}"
 
 
-def getAcceptedPapers(papers_dir, papers_pdf_link):
+def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     '''
     Retrieve the list of accepted papers from
     directory defined in the .json file
-
     Name of the .txt file should contain the id
     '''
     papers = []
@@ -20,27 +19,49 @@ def getAcceptedPapers(papers_dir, papers_pdf_link):
     filenames = [f for f in filenames if '.txt' in f]
 
     for filename in filenames:
+        
         id = filename.split('_')[0]
         name = filename.split('.')[0]
 
         finput = open('{}/{}'.format(papers_dir, filename))
         lines = finput.readlines()
-        infos = dict([tuple(l.strip().split(':')) for l in lines])
+        #print(lines)
+        # all files need to have the same number of elements
 
+        toks = [l.strip().split(':') for l in lines]
+        
+        infos = dict([(t[0], ':'.join(t[1:])) for t in toks])
+        
         # information not in the file
         if "pdf" not in infos.keys():
             infos["pdf"] = '{}/{}.pdf'.format(papers_pdf_link, name)
 
+        if "poster" not in infos.keys():
+            infos["poster"] = '{}/{}.pdf'.format(posters_pdf_link, name)
+
         infos["id"] = id
         infos["name"] = name
 
-        # Check that pdf exists
+        # Check that pdf and poster exists
         rootdir = os.path.dirname(os.getcwd())
-        pdffile = os.path.join(rootdir, infos['pdf'])
-        if not os.path.exists(pdffile):
-            infos["pdf"] = ""
+        infos["pdf"] = insertIfExists(rootdir, infos["pdf"])
+        infos["poster"] = insertIfExists(rootdir, infos["poster"])
+
         papers.append(infos)
+
+    papers =  sorted(papers, key=lambda k: int(k['id']))
+    
+    # Sort by category
+    #papers =  sorted(papers, key=lambda k: k.get('category', ''))
     return papers
+
+
+def insertIfExists(rootdir, basename, default=''):
+    path = os.path.join(rootdir, basename)
+    result = default
+    if os.path.exists(path):
+        result = basename
+    return result
 
 
 def getScheduleItems():
@@ -55,10 +76,10 @@ mylookup = TemplateLookup(directories=['.', '../bio', '..'],
 custom = json.loads(open('custom.json').read())
 
 # Get all pages
-pages = ['proposals', 'home', 'schedule', 
+pages = ['proposals', 'home', 'schedule',
             'acceptedpapers', 'cfp', 'organizers',
-            'guidelines_areachairs', 'guidelines_reviewers', 
-            'pastworkshops',
+            'guidelines_areachairs', 'guidelines_reviewers',
+            'pastworkshops', 'futureworkshops',
             'faq_general', 'faq_reviewers', 'faq_fundings',
             'faq_submission'
             ]
@@ -77,11 +98,12 @@ for page_name in pages:
     try:
 
         # Retrieve accepted papers from directory
-        if page_name == 'acceptedpapers':
-            papers_dir = attributes['papers_dir']
-            papers_pdf_link = attributes['papers_pdf_link']
-            papers = getAcceptedPapers(papers_dir, papers_pdf_link)
-            attributes['papers'] = papers
+        if page_name in ['acceptedpapers', 'proposals']:
+            attributes["papers"] = getAcceptedPapers(
+                attributes["papers_dir"],
+                attributes["papers_pdf_link"],
+                attributes["posters_pdf_link"],
+            )
 
         # Generating the different .htm files
         s = page.render(**attributes)
@@ -96,13 +118,14 @@ for page_name in pages:
             outfile.close()
 
     except Exception as e:
+        print('Error')
         print(page_name, e)
 
         ctc = re.findall(reg, open(page_name).read())
         atr = attributes.keys()
-        for c in ctc:
-            c = c.strip("${}")
-            if c not in atr:
-                print(page_name, " : ", c,  " is missing")
+        #for c in ctc:
+        #    c = c.strip("${}")
+        #    if c not in atr:
+        #        print(page_name, " : ", c,  " is missing")
         # print("footer", re.findall(reg, open("footer").read()))
         # print("header", re.findall(reg, open("header").read()))

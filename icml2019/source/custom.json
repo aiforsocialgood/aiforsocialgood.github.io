@@ -93,10 +93,9 @@
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Friday June 14th"],
 
-
         "talks" :{
             "Friday June 14th" : [
-                {"time" : "9:00", "speaker_name": "Yoshua Bengio"}
+                 {"id": "aisg_iclr2019_1", "time": "", "speaker_name": []}
 
             ]
         }
@@ -105,7 +104,17 @@
   "acceptedpapers" : {
 
     "papers_dir" : "../accepted/track1",
-    "papers_pdf_link" : "accepted/track1/pdfs"
+    "papers_pdf_link" : "accepted/track1/pdfs",
+    "posters_pdf_link" : "accepted/track1/posters"
+
+  },
+
+  "proposals" : {
+
+    "papers_dir" : "../accepted/track2",
+    "papers_pdf_link" : "accepted/track2/pdfs",
+    "posters_pdf_link" : "accepted/track2/posters"
+
   }
 
 }
