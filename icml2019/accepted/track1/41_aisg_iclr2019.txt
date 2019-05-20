@@ -1,3 +1,4 @@
 title:Crisis Sub-Events on Social Media: A Case Study of Wildfires
 authors:Shan Jiang (Northeastern University); William Groves (Dataminr); Sam Anzaroot (Dataminr); Alejandro Jaimes (Dataminr)
-tag:oral
+tag:
+category:oral

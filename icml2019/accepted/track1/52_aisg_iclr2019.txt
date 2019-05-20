@@ -1,3 +1,4 @@
 title:Interpretable Multi-Modal Hate Speech Detection
 authors:Prashanth Vijayaraghavan (MIT); Hugo Larochelle (Google); Deb Roy (MIT)
-tag:poster
+tag:
+category:poster

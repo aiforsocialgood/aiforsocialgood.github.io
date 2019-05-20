@@ -1,5 +1,12 @@
       <div class="blog-header">
-        <h1 class="blog-title">Schedule <Br><small>${workshop_date_with_day}</small></h1>
+        <h1 class="blog-title">Schedule <br>
+          <small>${workshop_date_with_day}
+
+          %if schedule_video_link:
+            <a href="${schedule_video_link}"> See the videos here </a>
+          %endif
+          </small>
+          </h1>
       </div>
 
       <div class="row">

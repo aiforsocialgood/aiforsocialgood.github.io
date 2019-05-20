@@ -1,3 +1,4 @@
 title:AI for Video Accessibility for the visually impaired
 authors:Ilmi Yoon (SFSU)
-tag:poster
+tag:
+category:poster

@@ -1,3 +1,4 @@
 title:SpotholeAI - An Artificial Intelligence (AI) assistant to fix Potholes.
 authors:Vishal Bhalla (Technical University of Munich (TUM))
-tag:poster
+tag:
+category:poster

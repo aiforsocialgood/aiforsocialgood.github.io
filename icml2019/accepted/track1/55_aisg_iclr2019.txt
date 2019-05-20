@@ -1,3 +1,4 @@
 title:How Do Fairness Definitions Fare?
 authors:Nripsuta Saxena (University of Southern California)
-tag:poster
+tag:
+category:poster
