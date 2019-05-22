@@ -1,4 +1,4 @@
 title:Improving tuberculosis treatment by integrating optimization and learning
 authors: Bryan Wilder (University of Southern California)
-tag:
+tag:sustainable development
 category:poster

@@ -1,4 +1,4 @@
 title:Using Deep Networks and Transfer Learning to Address Disinformation
 authors:Numa Dhamani (New Knowledge); Paul Azunre (Algorine); Craig Corcoran (New Knowledge); Garrett Honke (Binghamton University (SUNY)); Jeffrey Gleason (New Knowledge); Steve Kramer (New Knowledge)
-tag:
+tag:protecting democracy
 category:poster

@@ -1,4 +1,4 @@
 title:Mapping Poverty in the Philippines Using Machine Learning, Satellite Imagery, and Crowd-sourced Geospatial Information
 authors: Isabelle B Tingzon (Thinking Machines Data Science); Ardie Orden (Thinking Machines Data Science); Stephanie Sy (Thinking Machines Data Science); Vedran Sekara (UNICEF); Dohyung Kim (UNICEF); Ingmar Weber (Qatar Computing Research Institute, Qatar); Masoomali Fatehkia (Qatar Computing Research Institute, Qatar)
 category:poster
-tag:
+tag:social welfare
