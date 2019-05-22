@@ -129,7 +129,7 @@
 
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Monday May 6th"],
-        "schedule_video_link": "https://slideslive.com/iclr/iclr-2019",
+        "schedule_video_link": "https://slideslive.com/iclr/iclr-2019-r05-ai-for-social-good",
 
         "talks" :{
             "Monday May 6th" : [

@@ -17,8 +17,7 @@
 
             <p>
 
-Coming soon
-<!--
+
 % for d in schedule_date:
     % for talk in talks[d]:
 
@@ -63,7 +62,7 @@ Coming soon
 
     % endfor
 % endfor
--->
+
 
 <script>
 $(function(){

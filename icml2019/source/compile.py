@@ -52,7 +52,8 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     papers =  sorted(papers, key=lambda k: int(k['id']))
     
     # Sort by category
-    #papers =  sorted(papers, key=lambda k: k.get('category', ''))
+    papers =  sorted(papers, key=lambda k: k.get('category', ''))
+    papers =  sorted(papers, key=lambda k: k.get('tag', ''))
     return papers
 
 
