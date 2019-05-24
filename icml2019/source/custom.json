@@ -96,6 +96,14 @@
 
         "talks" :{
             "Saturday June 15th" : [
+                {"id": "aisg_iclr2019_1", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_2", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_3", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_4", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_5", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_6", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_7", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_8", "time": "-", "speaker_name": []}
             
 
             ]
