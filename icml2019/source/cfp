@@ -95,8 +95,10 @@ Problem Introduction Track aka Track 2 (five page papers - answering the questio
     (<a href="${proposal_template_link}">Overleaf template</a>)
 % endif
 or a similar looking PDF
-<br>
-Poster Size: ${poster_size_inches} or ${poster_size_cm}
+<br><span style='color:#B22222;'>
+Poster Size: ${poster_size_inches} or ${poster_size_cm}<br>
+Poster Paper: ${poster_paper}
+</span>
 
 <br><br>
 <b>Submission Site</b><br>

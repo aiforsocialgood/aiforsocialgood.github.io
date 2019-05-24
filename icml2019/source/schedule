@@ -17,7 +17,7 @@
 
             <p>
 
-
+<!--
 % for d in schedule_date:
     % for talk in talks[d]:
 
@@ -62,7 +62,7 @@
 
     % endfor
 % endfor
-
+-->
 
 <script>
 $(function(){

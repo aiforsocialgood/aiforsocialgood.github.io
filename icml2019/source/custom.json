@@ -14,10 +14,10 @@
   "year" : "2019",
   "workshop_date": "June 15th, 2019" ,
   "workshop_room": "Room 104 B",
-  "workshop_from": "9:00 AM",
+  "workshop_from": "8:30 AM",
   "workshop_until": "6:00 PM",
   "workshop_day_litteral" : "15th",
-  "workshop_date_with_day" : "Friday June 15th",
+  "workshop_date_with_day" : "Saturday June 15th",
   "workshop_abbr" : "AISG",
   "workshop_name" : "AI for Social Good",
   "workshop_mailto" : "aisg2019.icml.contact@gmail.com",
@@ -38,8 +38,9 @@
   "proposal_template_link" : "https://www.overleaf.com/read/zkgnfwhtnnjz",
   "proposal_ps_form": "https://docs.google.com/document/d/1awBHeyGqzJhhEk_Ga8ewoampJoEfmMyAYkW5ekxhQP4/edit?usp=sharing",
   "screen_size" : "TBD",
-  "poster_size_inches" : "TBD W x TBD H inches",
-  "poster_size_cm" : "TBD W x TBD H cm",
+  "poster_size_inches" : "36 W x 48 H inches",
+  "poster_size_cm" : "90 W x 122 H cm",
+  "poster_paper" : " light weight paper - not laminated",
 
 
 
@@ -91,18 +92,11 @@
  "schedule" : {
 
         "schedule_items_dir" : "../schedule-items",
-        "schedule_date" : ["Friday June 14th"],
+        "schedule_date" : ["Saturday June 15th"],
 
         "talks" :{
-            "Friday June 14th" : [
-                 {"id": "aisg_iclr2019_1", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_2", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_3", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_4", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_5", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_6", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_7", "time": "-", "speaker_name": []},
-                 {"id": "aisg_iclr2019_8", "time": "-", "speaker_name": []}
+            "Saturday June 15th" : [
+            
 
             ]
         }
