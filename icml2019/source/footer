@@ -8,6 +8,7 @@
 <p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
 <p>Notification of acceptance: <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
+<p>Poster submission: <br>${poster_date}</p>
 <p>Workshop date:
 <br>${workshop_date}
 <br>Onsite ${conference_abbr}:
