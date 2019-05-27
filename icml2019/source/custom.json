@@ -65,7 +65,9 @@
             "Mathieu Germain":      {"img": "img/mathieu_germain.jpg", "affiliation":"Mila"},
             "Neama Dadkhahnikoo":   {"img": "img/neama_dadkhahnikoo.jpg",  "affiliation":"XPRIZE Foundation "},
             "Abhishek Gupta":       {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
-            "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"}
+            "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"},
+            "Krzysztof Jerzy Geras": {"img": "img/krzysztof.jpg", "affiliation": "New York University"},
+            "Nan Wu":                {"img": "img/Nan.jpg", "affiliation":"New York University"}
 
         }
   },
@@ -97,7 +99,7 @@
 
         "talks" :{
             "Saturday June 15th" : [
-                {"id": "aisg_iclr2019_1", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_1", "time": "-", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
                 {"id": "aisg_iclr2019_2", "time": "-", "speaker_name": []},
                 {"id": "aisg_iclr2019_3", "time": "-", "speaker_name": []},
                 {"id": "aisg_iclr2019_4", "time": "-", "speaker_name": []},
