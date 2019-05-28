@@ -1,2 +1,0 @@
-title:Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images
-abstract:

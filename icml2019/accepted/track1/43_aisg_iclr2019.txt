@@ -1,5 +1,0 @@
-title:Towards Detecting Dyslexia in Children's Handwriting Using Neural Networks
-authors:Katie Spoon (Indiana University Bloomington)*; David Crandall (Indiana University); Katie Siek (Indiana University)
-tag:education
-category:oral
-

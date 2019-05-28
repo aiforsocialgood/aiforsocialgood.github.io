@@ -1,0 +1,4 @@
+title:Deep Learning For Crop Yield Prediction in Africa
+authors:Apollo Kaneko (Stanford U.); Thomas Kennedy (Stanford U.); Lantao Mei (Stanford U.); Christina Sintek (Stanford U.); Marshall Burke (Stanford U.); Stefano Ermon (Stanford U.); David Lobell (Stanford U.)
+tag:agriculture
+category:poster

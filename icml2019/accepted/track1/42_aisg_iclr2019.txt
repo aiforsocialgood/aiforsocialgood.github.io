@@ -1,4 +1,0 @@
-title:Hijacking Malaria Simulators with Probabilistic Programming
-authors:Bradley J Gram-Hansen (University of Oxford); Christian A Schroeder (University of Oxford); Philip Torr (University of Oxford); Yee Whye Teh (University of Oxford); Tom Rainforth (University of Oxford); Atilim Gunes Baydin (University of Oxford)
-tag:health
-category:poster

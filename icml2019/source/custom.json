@@ -69,7 +69,8 @@
             "Krzysztof Jerzy Geras": {"img": "img/krzysztof.jpg", "affiliation": "New York University"},
             "Nan Wu":                {"img": "img/Nan.jpg", "affiliation":"New York University"},
             "Mwiza Simbeye":         {"img": "img/missing.jpg", "affiliation":"AgriPredict"},
-            "Phebe Vayanos":         {"img": "img/phebe.jpg", "affiliation":"University of Southern California"}
+            "Phebe Vayanos":         {"img": "img/phebe.jpg", "affiliation":"University of Southern California"},
+            "Emma Beauxis-Aussalet":          {"img": "img/emma_beauxis.jpg", "affiliation":"Amsterdam University of Applied Science"}
 
         }
   },
@@ -101,15 +102,15 @@
 
         "talks" :{
             "Saturday June 15th" : [
-                {"id": "aisg_iclr2019_1", "time": "-", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
-                {"id": "aisg_iclr2019_2", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_3", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_4", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_5", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_6", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_7", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_8", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_9", "time": "-", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]}
+                {"id": "aisg_icml2019_1", "time": "-", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
+                {"id": "aisg_icml2019_2", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_3", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_4", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_5", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_6", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_7", "time": "-", "speaker_name": ["Emma Beauxis-Aussalet"]},
+                {"id": "aisg_icml2019_8", "time": "-", "speaker_name": []},
+                {"id": "aisg_icml2019_9", "time": "-", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]}
                
             
 
