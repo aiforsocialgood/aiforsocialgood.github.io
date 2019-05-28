@@ -67,7 +67,9 @@
             "Abhishek Gupta":       {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
             "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"},
             "Krzysztof Jerzy Geras": {"img": "img/krzysztof.jpg", "affiliation": "New York University"},
-            "Nan Wu":                {"img": "img/Nan.jpg", "affiliation":"New York University"}
+            "Nan Wu":                {"img": "img/Nan.jpg", "affiliation":"New York University"},
+            "Mwiza Simbeye":         {"img": "img/missing.jpg", "affiliation":"AgriPredict"},
+            "Phebe Vayanos":         {"img": "img/phebe.jpg", "affiliation":"University of Southern California"}
 
         }
   },
@@ -106,7 +108,9 @@
                 {"id": "aisg_iclr2019_5", "time": "-", "speaker_name": []},
                 {"id": "aisg_iclr2019_6", "time": "-", "speaker_name": []},
                 {"id": "aisg_iclr2019_7", "time": "-", "speaker_name": []},
-                {"id": "aisg_iclr2019_8", "time": "-", "speaker_name": []}
+                {"id": "aisg_iclr2019_8", "time": "-", "speaker_name": []},
+                {"id": "aisg_iclr2019_9", "time": "-", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]}
+               
             
 
             ]
