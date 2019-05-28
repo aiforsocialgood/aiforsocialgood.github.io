@@ -1,0 +1,4 @@
+title:Why should you trust my interpretation? Understanding uncertainty in LIME predictions
+authors:Yiming Sun (Cornell University); Yujia Zhang (Cornell University ); Kuangyan Song (Zshield Inc); Sarah Tan (Cornell University); Madeleine Udell (Cornell University)
+tag:social welfare
+category:poster

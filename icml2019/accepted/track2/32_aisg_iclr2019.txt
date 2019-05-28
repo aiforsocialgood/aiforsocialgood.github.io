@@ -1,4 +1,0 @@
-title:Building Fair and Transparent Machine Learning via Operationalised Risk: Towards an Open-Access Standard
-authors:Imran Ahmed (QuantumBlack); Giles Colclough (QuantumBlack); Daniel First (QuantumBlack);
-tag:social welfare
-category:poster

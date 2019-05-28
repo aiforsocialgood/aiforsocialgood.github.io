@@ -1,0 +1,4 @@
+title:How Do Fairness Definitions Fare? Examining Public Attitudes Towards Algorithmic Definitions of Fairness
+authors:Nripsuta Ani Saxena (USC); Karen Huang (Harvard U.); Evan DeFilippis (Harvard U.); Goran Radanovic (Harvard U.); David C. Parkes (Harvard U.); Yang Liu (U. of California)
+tag:social welfare
+category:poster

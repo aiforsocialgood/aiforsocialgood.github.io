@@ -1,4 +1,0 @@
-title:Detecting Waterborne Debris with Sim2Real and Randomization
-authors:Jie Fu (MILA, Polytechnic Montréal); Ritchie Ng (National University of Singapore); Merghaney Mohammed (The African Institute for Mathematical Sciences); Yi Tay (Nanyang Technological University); Kris Sankaran (Montreal Institute for Learning Algorithms); Shangbang Long (Peking University); Alfredo Canziani (New York University); Chris J Pal (MILA, Polytechnique Montréal, Element AI); Moustapha Cisse (Google Research)
-tag:environmental sustainability
-category:oral

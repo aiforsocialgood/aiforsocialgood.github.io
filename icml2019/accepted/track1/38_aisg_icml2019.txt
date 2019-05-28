@@ -1,0 +1,4 @@
+title:Bayesian Modelling in Practice: Using Uncertainty to Improve Trustworthiness in Medical Applications
+authors:David Ruhe (U. of Amsterdam, Pacmed BV); Giovanni Cinà (Pacmed BV); Michele Tonutti (Pacmed BV); Daan de Bruin (Pacmed BV); Paul Elbers (Academic Medical Center, Amsterdam)
+tag:health
+category:poster

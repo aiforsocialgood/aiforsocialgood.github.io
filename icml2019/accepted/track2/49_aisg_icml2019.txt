@@ -1,0 +1,4 @@
+title:AI for Video Accessibility for the visually impaired
+authors:Ilmi Yoon (SFSU)
+tag:assistive technology
+category:poster

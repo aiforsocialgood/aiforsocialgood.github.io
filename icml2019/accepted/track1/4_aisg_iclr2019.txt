@@ -1,4 +1,0 @@
-title:Prediction of Workplace Injuries
-authors: Mehdi Sadeqi (Cority); Ariel Sibilia (Cority); Azin Asgarian (Georgian Partners Inc)
-category:poster
-tag:health

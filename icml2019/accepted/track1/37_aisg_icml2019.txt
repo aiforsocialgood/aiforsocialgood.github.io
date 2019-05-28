@@ -1,0 +1,4 @@
+title:Addressing Novel Sources of Bias for Change Detection on Large Social Networks
+authors:Gabriel Cadamuro (U. of Washington); Ramya Korlakai Vinayak (U. of Washington); Joshua Blumenstock (U. of California Berkeley); Sham Kakadel (U. of Washington ); Jacob N. Shapiro (Princeton U.)
+tag:social welfare
+category:poster
