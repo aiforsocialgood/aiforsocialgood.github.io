@@ -1,2 +1,2 @@
 title:Using AI for Economic Upliftment of Handicraft Industry
-abstract:
+abstract:The handicraft industry is a strong pillar of Indian economy which provides large-scale employment opportunities to artisans in rural and underprivileged communities. However, in this era of globalization, diverse modern designs have rendered traditional designs old and monotonous, causing an alarming decline of handicraft sales. In this talk, we will discuss our approach leveraging techniques like GANs, Color Transfer, Pattern Generation etc. to generate contemporary designs for two popular Indian handicrafts - Ikat and Block Print. The resultant designs are evaluated to be significantly more likeable and marketable than the current designs used by artisans.
