@@ -1,2 +1,2 @@
-title:Pareto Efficient Fairness for Skewed Subgroup Data
+title:Contributed talk - Pareto Efficient Fairness for Skewed Subgroup Data
 abstract:

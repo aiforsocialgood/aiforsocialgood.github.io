@@ -1,2 +1,2 @@
-title:Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images
+title:Contributed talk - Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images
 abstract:The World Health Organization identifies outdoor fine particulate air pollution (PM2.5) as a leading risk factor for premature mortality globally. As such, understanding the global distribution of PM2.5 is an essential precursor towards implementing pollution mitigation strategies and modelling global public health. Here, we present a convolutional neural network based approach for estimating annual average outdoor PM2.5 concentrations using only satellite images. The resulting model achieves comparable performance to current state-of-the-art statistical models.
