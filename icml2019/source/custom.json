@@ -72,11 +72,13 @@
             "Phebe Vayanos":         {"img": "img/phebe.jpg", "affiliation":"University of Southern California"},
             "Emma Beauxis-Aussalet": {"img": "img/emma_beauxis.jpg", "affiliation":"Amsterdam University of Applied Science"},
             "Sonam Damani":          {"img": "img/sonam_damani.jpg", "affiliation":"Microsoft"},
-            "P Anandan":             {"img": "img/anandan.jpg", "affiliation":"Wadhwani Institute of Artificial Intelligence"},
+            "Padmanabhan Anandan":   {"img": "img/anandan.jpg", "affiliation":"Wadhwani Institute of Artificial Intelligence"},
             "Katie Spoon":           {"img": "img/katie_spoon.png", "affiliation":"Indiana University"}, 
             "Scott_Weichenthal" :    {"img": "img/AI4SG_ScottWeichenthal.jpeg", "affiliation":"McGill University"}, 
             "Kris Y Hong" :          {"img": "img/AI4SG_KrisYHong.jpg", "affiliation":"McGill University"}, 
-            "Pedro O Pinheiro":      {"img": "img/AI4SG_PedroOPinheiro.png", "affiliation":"Element AI"}
+            "Pedro O Pinheiro":      {"img": "img/AI4SG_PedroOPinheiro.png", "affiliation":"Element AI"},
+            "Daniel Sheldon":        {"img": "img/missing.jpg", "affiliation":""},
+            "Alejandro (Alex) Jaimes":      {"img": "img/alex_jaimes.jpg", "affiliation":"Dataminr"}
         }
   },
 
@@ -107,16 +109,30 @@
 
         "talks" :{
             "Saturday June 15th" : [
-                {"id": "aisg_icml2019_1", "time": "-", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
-                {"id": "aisg_icml2019_2", "time": "-", "speaker_name": ["Kris Y Hong","Pedro O Pinheiro","Scott_Weichenthal"]},
-                {"id": "aisg_icml2019_3", "time": "-", "speaker_name": ["Sonam Damani"]},
-                {"id": "aisg_icml2019_4", "time": "-", "speaker_name": []},
-                {"id": "aisg_icml2019_5", "time": "-", "speaker_name": []},
-                {"id": "aisg_icml2019_6", "time": "-", "speaker_name": ["Katie Spoon"]},
-                {"id": "aisg_icml2019_7", "time": "-", "speaker_name": ["Emma Beauxis-Aussalet"]},
-                {"id": "aisg_icml2019_8", "time": "-", "speaker_name": ["Kris Sankaran"]},
-                {"id": "aisg_icml2019_9", "time": "-", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]},
-                {"id": "aisg_icml2019_10", "time": "-", "speaker_name": ["P Anandan"]}
+                {"id": "aisg_icml2019_0",  "time": "8:45 - 9:00", "speaker_name": []},
+                {"id": "aisg_icml2019_OR", "time": "9:00 - 9:05", "speaker_name": ["Yoshua Bengio"]},
+                {"id": "aisg_icml2019_10", "time": "9:05 - 9:45", "speaker_name": ["Padmanabhan Anandan"]},
+                {"id": "aisg_icml2019_AI", "time": "9:45 - 9:50", "speaker_name": ["Yoshua Bengio"]},
+                {"id": "aisg_icml2019_8",  "time": "9:50 - 10:00", "speaker_name": ["Kris Sankaran"]},
+                {"id": "aisg_icml2019_7",  "time": "10:00 - 10:10", "speaker_name": ["Emma Beauxis-Aussalet"]},
+                {"id": "aisg_icml2019_PS", "time": "10:10 - 10:30", "speaker_name": []},
+                {"id": "aisg_icml2019_PS2","time": "10:30 - 11:00", "speaker_name": []},
+                {"id": "aisg_icml2019_11", "time": "11:00 - 11:40", "speaker_name": ["Daniel Sheldon"]},
+                {"id": "aisg_icml2019_3",  "time": "11:40 - 11:50", "speaker_name": ["Sonam Damani"]},
+                {"id": "aisg_icml2019_1",  "time": "11:50 - 12:00", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
+                {"id": "aisg_icml2019_Lunch",   "time": "12:00 - 14:00", "speaker_name": []},
+                {"id": "aisg_icml2019_Keynote", "time": "14:00 - 14:40", "speaker_name": []},
+                {"id": "aisg_icml2019_PS",      "time": "14:40 - 15:00", "speaker_name": []},
+                {"id": "aisg_icml2019_PS2",     "time": "15:00 - 15:30", "speaker_name": []},
+                {"id": "aisg_icml2019_Keynote", "time": "15:30 - 16:10", "speaker_name": []},
+                {"id": "aisg_icml2019_2", "time": "16:10 - 16:20", "speaker_name": ["Kris Y Hong","Pedro O Pinheiro","Scott_Weichenthal"]},
+                {"id": "aisg_icml2019_4", "time": "16:20 - 16:30", "speaker_name": []},
+                {"id": "aisg_icml2019_5", "time": "16:20 - 16:30", "speaker_name": ["Alejandro (Alex) Jaimes"]},
+                {"id": "aisg_icml2019_6", "time": "16:40 - 16:50", "speaker_name": ["Katie Spoon"]},
+                {"id": "aisg_icml2019_9", "time": "16:50 - 17:50", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]},
+                {"id": "aisg_icml2019_End", "time": "17:50 - 18:00", "speaker_name": []}
+
+                
                
             
 
