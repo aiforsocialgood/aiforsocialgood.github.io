@@ -1,2 +1,2 @@
 title:Towards Detecting Dyslexia in Children's Handwriting Using Neural Networks
-abstract:
+abstract:Dyslexia is a learning disability that hinders a person's ability to read. Dyslexia needs to be caught early, however, teachers are not trained to detect dyslexia and screening tests are used inconsistently. We propose (1) two new data sets of handwriting collected from children with and without dyslexia amounting to close to 500 handwriting samples, and (2) an automated early screening technique to be used in conjunction with current approaches, to accelerate the detection process. Preliminary results suggest our system out-performs teachers.
