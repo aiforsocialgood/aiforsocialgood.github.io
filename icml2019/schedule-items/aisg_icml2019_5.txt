@@ -1,2 +1,2 @@
 title:Contributed talk - Crisis Sub-Events on Social Media: A Case Study of Wildfires
-abstract:
+abstract:Social media has been extensively used for crisis management. Recent work examines possible sub-events as a major crisis unfolds. In this project, we first propose a framework to identify sub-events from tweets. Then, leveraging 4 California wildfires in 2018-2019 as a case study, we investigate how sub-events cascade based on existing hypotheses drawn from the disaster management literature, and find that most hypotheses are supported on social media, e.g., fire induces smoke, which causes air pollution, which later harms health and eventually affects the healthcare system. In addition, we discuss other unexpected sub-events that emerge from social media.

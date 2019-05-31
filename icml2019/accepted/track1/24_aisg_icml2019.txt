@@ -1,4 +1,4 @@
 title:Pareto Efficient Fairness for Skewed Subgroup Data
-authors:Ananth Balashankar (New york University); Alyssa Lees (Google); Chris Welty (Google); Lakshminarayanan Subramanian (NYU)
+authors:Ananth Balashankar (NYU, Google AI); Alyssa Lees (Google AI); Chris Welty (Google AI); Lakshminarayanan Subramanian (NYU)
 tag:social welfare
 category:oral
