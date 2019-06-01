@@ -1,4 +1,2 @@
-title:Anomaly Detection with Joint Representation Leaning of Content and Connection
-authors:Junhao Wang (Mila)
-tag:protecting democracy
+title:Anomaly Detection with Joint Representation Learning of Content and Connection authors:Junhao Wang (McGill U.); Renhao Wang (U. of British Columbia); Aayushi Kulshrestha (McGill U.); Reihaneh Rabbany (McGill U.)tag:protecting democracy
 category:poster
