@@ -1,4 +1,4 @@
 title:Analyzing and Mitigating Gender Bias in Languages with Grammatical Gender and Bilingual Word Embeddings
-authors:Pei Zhou (University of California, Los Angeles); Weijia Shi (UCLA); Jieyu Zhao (University of California Los Angeles); Kuan-Hao Huang (University of California, Los Angeles); muhao chen (University of California, Los Angeles ); Kai-Wei Chang (kwchang@cs.ucla.edu)
+authors:Pei Zhou (U. of California); Weijia Shi (U. of California); Jieyu Zhao (U. of California); Kuan-Hao Huang (U. of California); Muhao Chen (U. of California); Kai-Wei Chang (U. of California)
 tag:social welfare
 category:poster
