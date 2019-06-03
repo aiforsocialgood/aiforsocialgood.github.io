@@ -81,8 +81,21 @@
             "Alejandro (Alex) Jaimes":   {"img": "img/alex_jaimes.jpg", "affiliation":"Dataminr"},
             "Ananth Balashankar" :     {"img": "img/ananth.jpg", "affiliation":"NYU, Google AI"},
             "Mwiza Simbeye" :     {"img": "img/mwiza_simbeye.jpg", "affiliation":"African Leadership University"}
-        }
-  },
+        },
+ 
+
+
+"logos" : {
+
+    "mila" :       {"img":"other-logos/mila.png", "link":""}
+    },
+
+  "sponsors" : {
+    
+    "organizer" : ["mila"]
+   
+  }
+ },
 
 "organizers" : {
 
