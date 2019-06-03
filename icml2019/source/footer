@@ -20,25 +20,45 @@
 
 
           </div>
- <!--          <div class="sidebar-module">
+          <div class="sidebar-module">
             <h4>Sponsors</h4>
             <ol class="list-unstyled">
-              <li>Level<br>
-             ß
-			       </li>
+            
+              
+              % if "sustainer" in sponsors.keys():
+              <li>Sustainer<br>
+                % for e in sponsors['sustainer']:
+                  <a href="${logos[e]['link']}">
+                    <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                   </img>
+                 </a>
+                 <br>
+                % endfor  
+             </li>
+             % endif
 
-              <li>Level<br>
-
+             % if "organizer" in sponsors.keys():
+              <li>Organizer<br>
+                 % for e in sponsors['organizer']:
+                <a href="${logos[e]['link']}">
+                  <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                  </img>
+                </a>
+                <br>
+              % endfor  
+             
               </li>
+              % endif
 
             </ol>
-          </div>-->
+          </div>
 
         </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->
 
     </div><!-- /.container -->
+
 
     <footer class="blog-footer">
       <p>AI for Social Good Workshop ${conference_nick}</p>
