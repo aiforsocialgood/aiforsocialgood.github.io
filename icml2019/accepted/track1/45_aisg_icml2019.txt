@@ -1,4 +1,4 @@
 title:Quantifying the Impact of the Built Environment on Neighborhood Crime Rates
-authors:Adyasha Maharana (Sciome); Elaine Nsoesie (Boston University); Quynh Nguyen (University of Maryland College Park)
+authors:Adyasha Maharana (Sciome LLC); Quynh C. Nguyen (U. Of Maryland); Elaine O. Nsoesie (Boston U.)
 tag:social welfare
 category:poster
