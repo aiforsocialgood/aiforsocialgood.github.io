@@ -1,4 +1,4 @@
 title:Improving tuberculosis treatment by integrating optimization and learning
-authors: Bryan Wilder (University of Southern California)
+authors: Bryan Wilder (Harvard U.); Jackson Killian (Harvard U.);  Amit Sharma (Microsoft Research India); Vinod Choudhary (RNTCP, Government of India); Bistra Dilkina (U. of Southern California); Milind Tambe (Harvard U.)
 tag:sustainable development
 category:poster
