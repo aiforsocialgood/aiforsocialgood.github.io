@@ -82,7 +82,8 @@
             "Ananth Balashankar" :       {"img": "img/ananth.jpg", "affiliation":"NYU, Google AI"},
             "Mwiza Simbeye" :            {"img": "img/mwiza_simbeye.jpg", "affiliation":"African Leadership University"},
             "Luke Stark" :               {"img": "img/LukeStark.jpeg", "affiliation":"Microsoft Research"},
-            "William High" :               {"img": "img/WilliamHigh.png", "affiliation":"Joymode"}
+            "William High" :             {"img": "img/WilliamHigh.png", "affiliation":"Joymode"},
+            "Peter Eckersley" :   {"img": "img/missing.jpg", "affiliation":""}
         },
  
 
@@ -137,17 +138,17 @@
                 {"id": "aisg_icml2019_11", "time": "11:00 - 11:40", "speaker_name": ["Daniel Sheldon"]},
                 {"id": "aisg_icml2019_3",  "time": "11:40 - 11:50", "speaker_name": ["Sonam Damani"]},
                 {"id": "aisg_icml2019_1",  "time": "11:50 - 12:00", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
-                {"id": "aisg_icml2019_Lunch",   "time": "12:00 - 14:00", "speaker_name": []},
-                {"id": "aisg_icml2019_Keynote", "time": "14:00 - 14:40", "speaker_name": []},
-                {"id": "aisg_icml2019_PS",      "time": "14:40 - 15:00", "speaker_name": []},
+                {"id": "aisg_icml2019_Lunch",  "time": "12:00 - 14:00", "speaker_name": []},
+                {"id": "aisg_icml2019_12",     "time": "14:00 - 14:30", "speaker_name": ["Luke Stark"]},
+                {"id": "aisg_icml2019_13",     "time": "14:30 - 15:00", "speaker_name": ["William High"]},
                 {"id": "aisg_icml2019_PS2",     "time": "15:00 - 15:30", "speaker_name": []},
-                {"id": "aisg_icml2019_12", "time": "15:30 - 15:50", "speaker_name": ["Luke Stark"]},
-                {"id": "aisg_icml2019_13", "time": "15:50 - 16:10", "speaker_name": ["William High"]},
-                {"id": "aisg_icml2019_2", "time": "16:10 - 16:20", "speaker_name": ["Kris Y Hong","Pedro O Pinheiro","Scott Weichenthal"]},
-                {"id": "aisg_icml2019_4", "time": "16:20 - 16:30", "speaker_name": ["Ananth Balashankar"]},
-                {"id": "aisg_icml2019_5", "time": "16:20 - 16:30", "speaker_name": ["Alejandro (Alex) Jaimes"]},
-                {"id": "aisg_icml2019_6", "time": "16:40 - 16:50", "speaker_name": ["Katie Spoon"]},
-                {"id": "aisg_icml2019_9", "time": "16:50 - 17:50", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]},
+                {"id": "aisg_icml2019_PS", "time": "15:30 - 15:50", "speaker_name": []},
+                {"id": "aisg_icml2019_14", "time": "15:50 - 16:20", "speaker_name": ["Peter Eckersley"]},
+                {"id": "aisg_icml2019_2", "time": "16:20 - 16:30", "speaker_name": ["Kris Y Hong","Pedro O Pinheiro","Scott Weichenthal"]},
+                {"id": "aisg_icml2019_4", "time": "16:30 - 16:40", "speaker_name": ["Ananth Balashankar"]},
+                {"id": "aisg_icml2019_5", "time": "16:40 - 16:50", "speaker_name": ["Alejandro (Alex) Jaimes"]},
+                {"id": "aisg_icml2019_6", "time": "16:50 - 17:00", "speaker_name": ["Katie Spoon"]},
+                {"id": "aisg_icml2019_9", "time": "17:00 - 17:50", "speaker_name": ["Mwiza Simbeye","Phebe Vayanos"]},
                 {"id": "aisg_icml2019_End", "time": "17:50 - 18:00", "speaker_name": []}
 
                 
