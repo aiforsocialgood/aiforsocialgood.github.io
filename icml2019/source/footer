@@ -13,6 +13,7 @@
 <br>${workshop_date}
 <br>Onsite ${conference_abbr}:
 <br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
+<br> ${workshop_room}
 </p>
 <p>Contact:<br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
 
