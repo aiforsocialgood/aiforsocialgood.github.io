@@ -1,2 +1,2 @@
-title:Keynote: Coming Soon
-abstract:Coming soon
+title:Keynote: How to Volunteer as an AI Researcher
+abstract:Over the past six years, Will High has volunteered his expertise as a data scientist to various nonprofits and civic causes. He's contributed to work on homelessness, improving charter schools and optimizing water distribution. Will will talk about his experience doing pro-bono work with DataKind, a global nonprofit based in New York that connects leading social change organizations with data science talent to collaborate on cutting-edge analytics and advanced algorithms developed to maximize social impact. He'll comment on DataKind's mission, how to structure effective pro-bono engagements, and broader principles of the pro bono model applied to machine learning, analytics and engineering.
