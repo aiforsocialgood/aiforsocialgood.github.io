@@ -1,2 +1,3 @@
-title:Keynote: Coming Soon
-abstract:Coming soon
+title:Keynote: Creating constructive change and avoiding unintended consequences from machine learning
+abstract:This talk will give an overview of some of the known failure modes that are leading to unintended consequences in AI development, as well as research agendas and initiatives to mitigate them, including a number that are underway at the Partnership on AI (PAI).  Important case studies include the use of algorithmic risk assessment tools in the US criminal justice system, and the side-effects that are caused by using deliberate or unintended optimization processes to design high-stakes technical and bureaucratic system. These are important in their own right, but they are also important contributors to conversations about social good applications of AI, which are also subject to significant potential for unintended consequences.
+
