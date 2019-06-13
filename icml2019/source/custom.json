@@ -83,7 +83,8 @@
             "Mwiza Simbeye" :            {"img": "img/mwiza_simbeye.jpg", "affiliation":"African Leadership University"},
             "Luke Stark" :               {"img": "img/LukeStark.jpeg", "affiliation":"Microsoft Research"},
             "William High" :             {"img": "img/WilliamHigh.png", "affiliation":"Joymode"},
-            "Peter Eckersley" :   {"img": "img/missing.jpg", "affiliation":""}
+            "Wondimagegnhue Tsegaye" :             {"img": "img/wende.png", "affiliation":"Addis Ababa University"},
+            "Peter Eckersley" :   {"img": "img/Peter_Eckersley.jpg", "affiliation":""}
         },
  
 
@@ -133,7 +134,8 @@
                 {"id": "aisg_icml2019_AI", "time": "9:45 - 9:50", "speaker_name": ["Yoshua Bengio"]},
                 {"id": "aisg_icml2019_8",  "time": "9:50 - 10:00", "speaker_name": ["Kris Sankaran"]},
                 {"id": "aisg_icml2019_7",  "time": "10:00 - 10:10", "speaker_name": ["Emma Beauxis-Aussalet"]},
-                {"id": "aisg_icml2019_PS", "time": "10:10 - 10:30", "speaker_name": []},
+                {"id": "aisg_icml2019_15", "time": "10:10 - 10:20", "speaker_name": ["Wondimagegnhue Tsegaye"]},
+                {"id": "aisg_icml2019_PS", "time": "10:20 - 10:30", "speaker_name": []},
                 {"id": "aisg_icml2019_PS2","time": "10:30 - 11:00", "speaker_name": []},
                 {"id": "aisg_icml2019_11", "time": "11:00 - 11:40", "speaker_name": ["Daniel Sheldon"]},
                 {"id": "aisg_icml2019_3",  "time": "11:40 - 11:50", "speaker_name": ["Sonam Damani"]},
