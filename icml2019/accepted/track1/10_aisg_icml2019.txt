@@ -2,3 +2,4 @@ title:Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Sc
 authors:Nan Wu (NYU); Jason Phang (NYU); Jungkyu Park (NYU); Yiqiu Shen (NYU); Zhe Huang (NYU); Masha Zorin (U. of Cambridge); Stanisław Jastrzebski (Jagiellonian U.); Thibault Févry (NYU); Joe Katsnelson (NYU); Eric Kim (NYU); Stacey Wolfson (NYU); Ujas Parikh (NYU); Sushma Gaddam (NYU); Leng Leng Young Lin (NYU); Kara Ho (NYU); Joshua D. Weinstein (NYU); Beatriu Reig (NYU); Yiming Gao (NYU); Hildegard Toth (NYU); Kristine Pysarenko (NYU); Alana Lewin (NYU); Jiyon Lee (NYU); Krystal Airola (NYU); Eralda Mema (NYU); Stephanie Chung (NYU); Esther Hwang (NYU); Naziya Samreen (NYU); S. Gene Kim (NYU); Laura Heacock (NYU); Linda Moy (NYU); Kyunghyun Cho (NYU); Krzysztof J. Geras (NYU)
 tag:health
 category:oral
+extra:Best Paper
