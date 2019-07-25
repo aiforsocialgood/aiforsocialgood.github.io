@@ -1,0 +1,52 @@
+<b>Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?</b><br>
+Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable number of pages (~4 additional pages) and that it follows the same format as the paper. Papers that are over length or violate the author guidelines format will be rejected without review.
+<br><br>
+
+<b>Are cross-submissions allowed?</b><br>
+Yes, cross-submissions are allowed, yet please clearly indicate if the submitted work has been presented somewhere else. Accepted papers will not be archived, thus submission does not preclude publications in other venues.
+<br><br>
+
+<b>Can a submission to this workshop be submitted to another ${conference_abbr} workshop in parallel?</b><br>
+We discourage this, as it leads to more work for reviewers across multiple workshops. Our suggestion is to select one workshop.
+<br><br>
+
+<b>Can I upload my paper/solution to arXiv?</b><br>
+Yes, it is encouraged.
+<br><br>
+
+<b>If my submission is accepted, what will happen?</b><br>
+If your paper is accepted, you will be invited to present a poster at the workshop. Some of the accepted contributions will also be invited to give a talk. Accepted submissions will be shown on the workshop website, but there will be no formal published proceedings.
+<br><br>
+
+<b>Camera-ready version: do the short paper and accepted problem introduction have the same requirements as in the call for proposal?</b><br>
+Yes, if it does not conform to original format it will not be posted online. 
+<br><br>
+
+<b>Camera-ready version: where should I post it?</b><br>
+You should update all your information in CMT. We will put online all the papers that are on CMT and conformed to our guidelines online after ${cameraready_date}. 
+<br><br>
+
+<b>My paper is accepted for an oral presentation?</b><br>
+Please send the name of the presenter, her/his headshot, and her/his short bio. Each talk is ${workshop_talk_duration} including questions. The size of the screen is ${screen_size}. We need your slides at least 24 h before the start of the workshop and preferably in PDF or Google Slides format. If we do not receive your slides in time we will give the spot to another paper on the waiting list. You are also invited to present a poster. We can also post online a short video link that describes your work (YouTube or Vimeo). 
+<br><br>
+
+<b>My paper is accepted for a poster presentation?</b><br>
+You can use the poster template of your choice. <strong>Poster Size: ${poster_size_inches} or ${poster_size_cm}. Paper should be ${poster_paper}</strong>. Your paper can be in landscape or portrait mode as long as it fits in this size. We can also post the PDF of your poster and a short online video link that describes your work (YouTube or Vimeo).
+
+<br><br>
+
+<b>I can not attend, what can I do?</b><br>
+We strongly encourage at least one author per submission to attend the workshop to present in person. However, submissions with no attending authors will still be considered, if the absence is justified.
+<br><br>
+
+<b>My paper got accepted and I cannot come. Can someone print my poster and display it at the conference?</b><br>
+You can send us your poster in PDF format and we will post it online. We can also post a short video link that describes your work (YouTube or Vimeo).
+<br><br>
+
+<b>There is a mistake in the display of the title, author list, PDF, video, ... of my submission on the website what should I do?</b><br>
+Please send an email to the workshop email: 
+<a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
+<br><br>
+
+<b>I might have a VISA issue?</b><br>
+If you have submitted a paper (whether or not the deadline has passed) and you anticipate your US travel visa to take a long time, we encourage you to please contact us as soon as possible. We'll do our best to find a solution, by for example fast-tracking the review of your work.

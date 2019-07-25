@@ -1,0 +1,27 @@
+
+      <div class="blog-header">
+        <h1 class="blog-title">Frequently Asked Questions</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+            
+<a href='faq_general.htm' style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">Workshop</span></a>
+<a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
+<a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Reviewers</span></a>
+<a href='faq_submission.htm'" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
+<br><br>
+<h3>Reviewers Related Questions </h3> <br>
+<em>As found in the <a href="guidelines.htm">guidelines section</a></em><br><br>
+
+
+<%include file="faq_reviewers_q"/>
+
+            
+            </p>
+          </div><!-- /.blog-post -->
