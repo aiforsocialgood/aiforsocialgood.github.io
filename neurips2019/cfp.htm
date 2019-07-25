@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="icon" href="logo/logo2-icon-small.png">
+
+  <meta property="og:title" content="AI for Social Good Workshop at NeurIPS2019">
+  <meta property="og:description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
+  <meta name="description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
+
+  <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, Vancouver,  Neural Information Processing Systems, NeurIPS2019'>
+  <meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, Vancouver,  Neural Information Processing Systems, NeurIPS2019">
+  <meta property="og:image" content="https://aiforsocialgood.github.io/2018/logo/logo2-white.png" />
+  <meta property="og:locale" content="en_US" />
+
+
+    <title>AI for Social Good Workshop NeurIPS2019</title>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+  <!-- Bootstrap core CSS -->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124501848-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124501848-1');
+</script>
+
+<script>
+
+function pageScript(tomatch){
+  url = window.location.pathname
+  s = url.substring(url.lastIndexOf('/')+1)
+  return tomatch == s
+}
+
+</script>
+
+<link rel="stylesheet" href="style.css?v=1">
+<link rel="stylesheet" href="res/hover-min.css" >
+
+<style>
+
+</style>
+
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead"  style="font-family: arial">
+      <div class="container">
+        <nav class="blog-nav">
+          <a class="blog-nav-item" href="index.htm">AI for Social Good NeurIPS2019 Workshop</a>
+           <a class="blog-nav-item" href="schedule.htm">Schedule</a>
+
+           <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
+           <a class="blog-nav-item" href="#.htm">Accepted Papers</a>
+
+       <!-- <span class="dropdown">
+        <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
+          Accepted Papers
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1"><!--
+          <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
+          <li><a id="dropdownMenu1_item2" href="proposals.htm">Problem Introduction</a></li>
+        </ul>
+      </span>-->
+
+          <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
+
+        <span class="dropdown">
+        <a class="blog-nav-item dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
+          About us
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+          <li><a id="dropdownMenu2_item1" href="organizers.htm">Organizers</a></li>
+          <li><a id="dropdownMenu2_item2" href="pastworkshops.htm">Past Workshops</a></li>
+         
+        </ul>
+      </span>
+
+
+          <!--<a class="blog-nav-item" href="organizers.htm">Organizers</a>
+          <a class="blog-nav-item" href="pastworkshops.htm">Past Workshops</a>-->
+          <a class="blog-nav-item" href="faq_general.htm">FAQ</a>
+
+
+          <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
+        </nav>
+      </div>
+    </div>
+    <script>
+
+          var url = window.location.href;
+          var page = url.split(/[\\/]/).pop();
+
+          $.each($(".blog-nav a"), function(i, e) {
+              var p = $(e).attr("href");
+
+              var s1 = page.split("_")[0];
+              var s2 = p.split("_")[0];
+
+              if (p==page | s1==s2) {
+                if ($(e).hasClass('blog-nav-item')) {
+                  $(e).addClass('active');
+                }
+                else {
+                  var id = $(e).attr('id');
+                  id = id.split('_')[0];
+                  $("#"+id).addClass('active');
+                }
+              }
+
+          });
+
+
+    </script>
+
+    <div class="container">
+
+
+                    <div class="blog-header">
+        <h1 class="blog-title">Call for Papers</h1>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+
+
+<b>Aim and scope</b><br>
+Submissions are solicited for the NeurIPS 2019 AI for Social Good workshop focusing on social problems for which artificial intelligence has the potential to offer meaningful solutions.
+<br><br>
+
+<!--
+The UN Sustainable Development Goals (SDGs), a set of seventeen objectives whose completion is set to lead to a more equitable, prosperous, and sustainable world. In this light, our main areas of focus are the following:
+<ul>
+<li>Education</li>
+<li>The protecting of democracy</li>
+<li>Urban planning</li>
+<li>Assistive technology</li>
+<li>Health</li>
+<li>Agriculture</li>
+<li>Environmental protection and sustainability</li>
+<li>Social welfare and justice</li>
+<li>Developing world</li>
+</ul>
+<br>
+
+We accept submissions relating to at least one of the previously mentioned domains. We encourage submissions that have interdisciplinary collaborations between machine learning and problem domain experts. We especially encourage work where machine learning could meaningfully amplify existing efforts for social good.
+We invite two types of submissions:
+<br><Br>
+<ul>
+<li><b>Short Papers Track aka Track 1 (Up to four page papers + unlimited pages for citations) </b>for oral and/or poster presentation. The short papers should focus on past and current research work, showcasing actual results and demonstrating beneficial effects on society. We also accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.</li>
+<br>
+<li><b>Problem Introduction Track aka Track 2 (Application form, up to five page responses + unlimited pages for citations)</b> which will present a specific solution that will be shared with stakeholders, scientists, and funders. The workshop will provide a suite of questions designed to: (1) estimate the feasibility and impact of the proposed solutions, and (2) estimate the importance of data in their implementation. The application responses should highlight ideas that have not yet been implemented in practice but can lead to real impact. The projects may be at varying degrees of development, from formulation as a data problem to structure for effective deployment. The workshop provides a supportive platform for developing these early-stage or hobby proposals into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. Accepted submissions may be promoted to the wider AI solutions community following the workshop via the <a href="http://www.aicommons.com">AI Commons</a>, with whom we are partnering to promote the longer-term development of projects.</li>
+</ul>
+
+<br>
+
+-->
+<!--
+<b>Important dates</b><br>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Submissions open:</span>
+<span class='col-sm' style="float:right;">TBD</span>
+</div>
+
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Deadline for submissions: </span>
+<span class='col-sm' style="float:right;">TBD</span>
+</div>
+-->
+
+<!--Need to fix this in the future, not elegant -->
+<!--
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 2  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+- Notification of pre-selected team: </span>
+<span class='col-sm' style="float:right;">TBD</span>
+</div>
+
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span>
+<span class='col-sm' style="float:right;"> TBD</span>
+</div>
+
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span>
+<span class='col-sm' style="float:right;">TBD</span>
+</div>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Poster submission:&nbsp&nbsp </span>
+<span class='col-sm' style="float:right;">TBD</span>
+</div>
+<br>
+<br>
+Workshop date: TBD TBD -- TBD @ TBD onsite <a href="https://www.google.com/maps/place/Vancouver+Convention+Centre+East/@49.2881789,-123.1146601,17z/data=!3m2!4b1!5s0x5486719d2fa2d817:0x8744a3435e0647f2!4m5!3m4!1s0x548671836a6e5787:0xd3c5f7bc5d72768d!8m2!3d49.2881789!4d-123.1124661" target="_blank">Vancouver Convention Center, Vancouver CANADA </a><br>
+
+<br><br>
+<b>Submission details</b><br>
+All submissions must be in PDF format. Submissions are limited to four content pages for the short papers track and five content page for the problem introduction track, including all figures and tables. Submissions for each type of paper must be in their respective formats specified below.
+Reviewing will be double blind for Track 1. <br><br>
+For Track 2, due to the specific nature of the submissions, reviewing will be a two step process:
+A pre-selection phase based on the submitted form. This will be double blind.
+A follow-up phase where pre-selected teams interact with mentors. This will result in a final selection, which will be non-anonymous.<br><br>
+Camera-ready papers will be due in advance of the workshop. Final acceptance of a submission will be conditioned on providing a camera-ready version of the paper that fits our formatting instructions. Submissions will be considered non-archival and can be submitted elsewhere after the conference. Papers that are over length or violate the author guidelines format will be rejected without review.
+<br><br>
+Author guidelines can be found here:
+<br>
+Short Papers Track aka Track 1 (four page papers) (<a href="" target='_blank'>Overleaf template</a>)
+<br>
+Problem Introduction Track aka Track 2 (five page papers - answering the questions in this <a href="">form</a>)
+
+    (<a href="">Overleaf template</a>)
+or a similar looking PDF
+<br><span style='color:#B22222;'>
+Poster Size: TBD or TBD<br>
+Poster Paper:  light weight paper - not laminated
+</span>
+
+<br><br>
+<b>Submission Site</b><br>
+Submit at: <a href="https://cmt3.research.microsoft.com/" target="_blank">https://cmt3.research.microsoft.com/</a>
+
+<br><br>
+<b>Registration</b><br>
+Please register for NeurIPS
+<a href="https://nips.cc">https://nips.cc</a>
+
+
+<br><br>
+<b>Contact</b><br>
+Email: <a href="mailto:aisg2019.neurips.contact@gmail.com">aisg2019.neurips.contact@gmail.com</a>
+
+
+
+<br><br>
+<h2>FAQs</h2>
+
+
+<b>Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?</b><br>
+Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable number of pages (~4 additional pages) and that it follows the same format as the paper. Papers that are over length or violate the author guidelines format will be rejected without review.
+<br><br>
+
+<b>Are cross-submissions allowed?</b><br>
+Yes, cross-submissions are allowed, yet please clearly indicate if the submitted work has been presented somewhere else. Accepted papers will not be archived, thus submission does not preclude publications in other venues.
+<br><br>
+
+<b>Can a submission to this workshop be submitted to another NeurIPS workshop in parallel?</b><br>
+We discourage this, as it leads to more work for reviewers across multiple workshops. Our suggestion is to select one workshop.
+<br><br>
+
+<b>Can I upload my paper/solution to arXiv?</b><br>
+Yes, it is encouraged.
+<br><br>
+
+<b>If my submission is accepted, what will happen?</b><br>
+If your paper is accepted, you will be invited to present a poster at the workshop. Some of the accepted contributions will also be invited to give a talk. Accepted submissions will be shown on the workshop website, but there will be no formal published proceedings.
+<br><br>
+
+<b>Camera-ready version: do the short paper and accepted problem introduction have the same requirements as in the call for proposal?</b><br>
+Yes, if it does not conform to original format it will not be posted online. 
+<br><br>
+
+<b>Camera-ready version: where should I post it?</b><br>
+You should update all your information in CMT. We will put online all the papers that are on CMT and conformed to our guidelines online after TBD. 
+<br><br>
+
+<b>My paper is accepted for an oral presentation?</b><br>
+Please send the name of the presenter, her/his headshot, and her/his short bio. Each talk is TBD minutes including questions. The size of the screen is TBD. We need your slides at least 24 h before the start of the workshop and preferably in PDF or Google Slides format. If we do not receive your slides in time we will give the spot to another paper on the waiting list. You are also invited to present a poster. We can also post online a short video link that describes your work (YouTube or Vimeo). 
+<br><br>
+
+<b>My paper is accepted for a poster presentation?</b><br>
+You can use the poster template of your choice. <strong>Poster Size: TBD or TBD. Paper should be  light weight paper - not laminated</strong>. Your paper can be in landscape or portrait mode as long as it fits in this size. We can also post the PDF of your poster and a short online video link that describes your work (YouTube or Vimeo).
+
+<br><br>
+
+<b>I can not attend, what can I do?</b><br>
+We strongly encourage at least one author per submission to attend the workshop to present in person. However, submissions with no attending authors will still be considered, if the absence is justified.
+<br><br>
+
+<b>My paper got accepted and I cannot come. Can someone print my poster and display it at the conference?</b><br>
+You can send us your poster in PDF format and we will post it online. We can also post a short video link that describes your work (YouTube or Vimeo).
+<br><br>
+
+<b>There is a mistake in the display of the title, author list, PDF, video, ... of my submission on the website what should I do?</b><br>
+Please send an email to the workshop email: 
+<a href="mailto:aisg2019.neurips.contact@gmail.com">aisg2019.neurips.contact@gmail.com</a>
+<br><br>
+
+<b>I might have a VISA issue?</b><br>
+If you have submitted a paper (whether or not the deadline has passed) and you anticipate your US travel visa to take a long time, we encourage you to please contact us as soon as possible. We'll do our best to find a solution, by for example fast-tracking the review of your work.
+
+
+
+
+
+            </p>-->
+          </div>
+
+          <!-- /.blog-post --> 
+
+                    </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+
+          <div class="dates sidebar-module sidebar-module-inset">
+          <center><img src="logo/logo2.png" style="width:100%;"/></center>
+
+<p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>TBD<br> 11:59PM ET</b></p>
+<p>Notification of acceptance: <br>TBD</p>
+<p>Camera-ready submission: <br>TBD</p>
+<p>Poster submission: <br>TBD</p>
+<p>Workshop date:
+<br>Dec TBD, 2019
+<br>Onsite NeurIPS:
+<br>(<a target="_blank" href="https://www.google.com/maps/search/Vancouver+Convention+Center,+Vancouver,+CANADA+">Map: Vancouver Convention Center, Vancouver, CANADA </a>)
+<br> TBD
+</p>
+<p>Contact:<br><a href="mailto:aisg2019.neurips.contact@gmail.com">aisg2019.neurips.contact@gmail.com</a> </p>
+
+
+
+
+          </div>
+          <div class="sidebar-module">
+            <h4>Sponsors</h4>
+            <ol class="list-unstyled">
+            
+              
+
+              <li>Organizer<br>
+                <a href="">
+                  <img class="sponsorlogo" src="other-logos/mila.png" alt="mila">
+                  </img>
+                </a>
+                <br>
+             
+              </li>
+
+            </ol>
+          </div>
+
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+
+    <footer class="blog-footer">
+      <p>AI for Social Good Workshop NeurIPS2019</p>
+      <p>Contact:  <a href="mailto:aisg2019.neurips.contact@gmail.com">aisg2019.neurips.contact@gmail.com</a> </p>
+      <p>Code of Conduct: <a href="https://icml.cc/public/CodeOfConduct">ICML Code of Conduct</a></p>
+      <br><small>*not affiliated with the AI for Social Good Foundation</small>
+    </footer>
+
+  </body>
+</html>

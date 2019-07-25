@@ -1,0 +1,9 @@
+${submission_deadline_date.replace(" 2019", "")}, ${deadline_hour}: Deadline for submission<br>
+TBD: Area Chairs and reviewers bidding periods begin<br>
+TBD: Area Chairs and reviewers bidding periods end<br>
+TBD: Short Papers Track Chairs assign short papers to Area Chairs<br>
+TBD: Area Chairs assign short papers to their reviewers<br>
+TBD: Review period ends<br>
+TBD: Area Chairs meta-review starts<br>
+TBD: Area Chairs give back their meta-reviews and decisions<br>
+${notification_date.replace(" 2019", "")}: Final decision, notification of acceptance<br>

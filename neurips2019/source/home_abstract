@@ -1,0 +1,47 @@
+
+
+<p class='justify'>
+This workshop builds on our AI for Social Good workshop at <a href="https://aiforsocialgood.github.io/2018/">NeurIPS 2018</a>, <a href="https://aiforsocialgood.github.io/iclr2019/">ICLR 2019</a> and <a href="https://aiforsocialgood.github.io/icml2019/">ICML 2019</a>.
+</p>
+<br>
+<p class='justify'>
+<b>Introduction: </b>The rapid expansion of AI research presents two clear conundrums:
+<li><span class='justify'>
+    the comparative lack of incentives for researchers to address social impact issues and
+    </span>
+</li>
+<li><span class='justify'>
+    the dearth of conferences and journals centered around the topic. Researchers motivated to help often find themselves without a clear idea of which fields to delve into.
+    </span>
+</li>
+</p>
+<br>
+<p class='justify'>
+<b>Goals: </b>Our workshop address both these issues by bringing together machine learning researchers, social impact leaders, stakeholders, policy leaders, and philanthropists to discuss their ideas and applications for social good. To broaden the impact beyond the convening of our workshop, we are partnering with <a href="http://www.aicommons.com">AI Commons</a> to expose accepted projects and papers to the broader community of machine learning researchers and engineers. The projects/research may be at varying degrees of development, from formulation as a data problem to detailed requirements for effective deployment. We hope that this gathering of talent and information will inspire the creation of new approaches and tools by the community, help scientists access the data they need, involve social and policy stakeholders in the framing of machine learning applications, and attract interest from philanthropists invited to the event to make a dent in our shared goals.
+</p>
+<br>
+
+<!--
+<p class='justify'>
+<b>Topics: </b>The UN Sustainable Development Goals (SDGs), a set of seventeen objectives whose completion is set to lead to a more equitable, prosperous, and sustainable world. In this light, our main areas of focus are the following: health, education, the protection of democracy, urban planning, assistive technology, agriculture, environmental protection and sustainability, social welfare and justice, developing world. Each of these themes presents unique opportunities for AI to reduce human suffering and allow citizens and democratic institutions to thrive.
+</p>
+<br>
+<p class='justify'>
+Across these topics, we have dual goals: recognizing high-quality work in machine learning motivated by or applied to social applications, and creating meaningful connections between communities dedicated to solving technical and social problems. To this extent, we propose two research tracks:
+</p>
+<br>
+<p class='justify'>
+<ul>
+
+<li><p class='justify'>
+    <b>Short Papers Track (Up to four page papers + unlimited pages for citations) </b>for oral and/or poster presentation. The short papers should focus on past and current research work, showcasing actual results and demonstrating beneficial effects on society. We also accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.
+    </p>
+</li>
+<br>
+<li><p class='justify'>
+    <b>Problem Introduction Track (Application form, up to five page responses + unlimited pages for citations) </b>which will present a specific solution that will be shared with stakeholders, scientists, and funders. The workshop will provide a suite of questions designed to: (1) estimate the feasibility and impact of the proposed solutions, and (2) estimate the importance of data in their implementation. The application responses should highlight ideas that have not yet been implemented in practice but can lead to real impact. The projects may be at varying degrees of development, from formulation as a data problem to structure for effective deployment. The workshop provides a supportive platform for developing these early-stage or hobby proposals into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. Accepted submissions may be promoted to the wider AI solutions community following the workshop via the <a href="http://www.aicommons.com">AI Commons</a>, with whom we are partnering to promote the longer-term development of projects.
+    </p>
+</li>
+</ul>
+</p>
+-->

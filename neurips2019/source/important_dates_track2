@@ -1,0 +1,7 @@
+${submission_deadline_date.replace(" 2019", "")}, ${deadline_hour} : Deadline for submission<br>
+TBD: Open Proposal Reviews<br>
+TBD: Screening reviews Due<br>
+${notification_pre_selected.replace(" 2019", "")}: Proposal Pre-Acceptance<br>
+TBD: Project Mentoring start<br>
+TBD: Selection Reviews Due<br>
+${notification_date.replace(" 2019", "")}: Notification of Acceptance <br>

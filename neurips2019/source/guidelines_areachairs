@@ -1,0 +1,117 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Guidelines</h1>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post" style="text-align: justify;">
+            <p>
+
+<div id="guidelines">
+
+<a href="guidelines_reviewers.htm" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">For Reviewers</span></a>
+<a href="guidelines_areachairs.htm" style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-current">For Area Chairs</span></a>
+<br><br>
+
+
+<div id="areachairs" class="faq">
+
+<h3>Area Chair Guidelines</h3> 
+<h5><em>(for <a href="#short_paper_area">Short Paper</a> and <a href="#project_proposal_area">Project Proposal</a> tracks)</em></h5>
+<br>
+<div id="short_paper_area">
+<h4><b>Short paper track aka. Track 1</b></h4>
+
+<br>
+This page provides detailed guidelines to Area Chairs of ${conference_abbr} ${year} ${workshop_abbr} workshop as to how the process will unfold and what their responsibilities are.
+<br><Br>
+We wish to acknowledge the following as sources of inspiration for the following guidelines:<ul><li>
+CVPR 2014 guidelines for Area Chairs.</li></ul>
+
+<b>Important dates</b><p>
+<%include file="important_dates"/>
+</p>
+<br>
+
+<b>Contact information</b><p>
+<a href="mailto:${workshop_mailto}">${workshop_mailto}</a></p>
+<br>
+
+
+
+<b>Role of the Area Chairs</b><p>
+The Area Chairs (AC) identify suitable reviewers for each paper, write meta-reviews summarizing discussion at least for short papers with diverging reviews, evaluate the reviews and suggest acceptance/reject decisions for each short paper. ACs are expected to play an active role in ensuring higher quality and more timely reviews.</p>
+<br>
+
+<b>Best Practices of Being an Area Chair</b><p>
+We want to remind all ACs of some of the basic (and obvious) practices of being an AC.<br>
+You have a strong influence on the decision for a short paper. Please, take your job very seriously and be fair.
+If you identify any short paper that you believe may be written by a current or former student, post-doc or supervisor, or by a collaborator in the last two years, please notify the Short Papers Track Chairs using CMT immediately so that the short paper can be assigned to another AC.<br>
+The Short Papers Track Chairs did not submit any papers, so they are not in direct conflict with any papers and they know all authors of all papers and also all reviewers/ACs. They will NOT be involved with any decisions of short papers from institutions with which they are in conflict. You can send them a question about any short paper and if one of them is conflicted, another one will respond to you without including the conflicted Short Papers Track Chairs.<br>
+DO NOT talk to any other AC about short papers assigned to you without prior approval from the PCs as there may be several other ACs conflicted with the short paper.<br>
+DO NOT talk to any other AC about your own short paper (the short paper you are an author on) or a short paper you have some conflict with, during this whole process.<br>
+Remember, it is not fair to dismiss any review without looking at other reviews and reading the short paper yourself to make an evaluation. Outright rejecting a review is not acceptable without a clearly articulated supporting argument.</p>
+<br>
+
+<b>Meta-reviews summarizing the short paper</b><p>
+Area Chair meta-reviews are the MOST CRUCIAL aspect of the review process of the ${conference_abbr} ${year} ${workshop_abbr} workshop. This is where the Area Chair justifies his/her recommendation to accept/reject a paper. The Short Papers Track Chairs will read all meta-reviews and we have committed ourselves to ensure that these meta-reviews are representative of a good quality review process. These meta-reviews should highlight why the decision was reached. If all reviewers agree on a paper, this meta-review can be simple, but feel free to encourage authors and provide constructive feedback. If there is even a slight disagreement on the reviews, it is your job to clarify why and how the disagreement was resolved. Overruling all three reviewers to make a decision on a paper is not acceptable. If you strongly feel that the paper deserves that, make sure to discuss it with the Short Papers Track Chairs using CMT. In such cases, (a) you should read the short paper completely, and (b) provide a detailed meta-review. The Short Papers Track Chairs will review and confirm or reverse any such decisions.</p>
+<br>
+
+<b>Meta-Review Form </b><p> <ul>
+<li><b>Feedback to Authors</b><br>
+For short papers with diverging reviews or short papers where you disagree with the reviewers, please summarize the key things you would like the raise. There is no need to summarize the paper or reviews. If you have additional concerns that were not included in the reviews, please be sure and include them as well.
+</li>
+<li><b>Preliminary Rating </b><br>
+Please rate the paper according to the following choices:<br><ul>
+<li>Oral: These are short papers whose quality is in the top 10% of the papers at the workshop.</li>
+<li>Poster: These are strong short papers, which have more than one weakness. For example, a well-written short paper with solid experiments, but incremental; a short paper on a well-studied problem with solid theory, but weak experiments; or a novel paper with good experiments, but poorly written.</li>
+<li>Reject: These are papers that have some promise, but they would be better off by being revised and resubmitted, or have a major flaw. Reject decisions will be reviewed by an Short Papers Track Chairs.
+</li></ul>
+
+
+</li>
+</ul>
+Please also be on the lookout for one paper to be considered for the best paper award.</p>
+</div>
+
+
+<br>
+<br>
+<hr>
+
+<div id="project_proposal_area">
+<h4>Project Proposals track aka. Track 2</h4><p>
+
+Though the content of the submissions differ (proposal vs. paper), the Area Chairs guidelines for track 2 differs from track 1.
+</p>
+
+<b>Important Dates</b><p>
+<%include file="important_dates_track2"/>
+</p>
+
+<br>Project mentorship</b><p>
+<ul>
+<li.After the pre-acceptance of the proposal, you are expected to arrange a call with at least one of the proposal authors to offer guidance to facilitate later volunteer contribution and check the feasibility of the proposal.</li>
+
+<li>Though it is not the mentor’s responsibility to connect projects with volunteers, they should keep in mind how to make proposals accessible to potential volunteers drawn from the workshop participant pool.</li>
+
+<li>Since this review process involves speaking with project proposers, it is important to be courteous to those whose projects you are evaluated. Don't condescend to people who may not be machine learning specialists, and respect the time set aside for you to understand the project and whether it is a good fit for conference volunteers.</li>
+
+<li>Offer suggestions. If you can see opportunities to improve the impact or feasibility of a project, you should voice your perspective in a respectful and constructive way.</li>
+</ul>
+
+
+</p>
+</div>
+
+
+<a href="#guidelines"><em>Back to top</em></a>
+</div>
+</div>
+
+
+
+         </p>
+          </div><!-- /.blog-post -->
+
