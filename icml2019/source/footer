@@ -5,7 +5,11 @@
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
 
-<p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
+
+<p><b>Deadline for submissions 
+
+
+<br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
 <p>Notification of acceptance: <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
 <p>Poster submission: <br>${poster_date}</p>
@@ -64,7 +68,7 @@
     <footer class="blog-footer">
       <p>AI for Social Good Workshop ${conference_nick}</p>
       <p>Contact:  <a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
-      <p>Code of Conduct: <a href="https://icml.cc/public/CodeOfConduct">ICML Code of Conduct</a></p>
+      <p>Code of Conduct: <a href="https://nips.cc/public/CodeOfConduct">NeurIPS code of conduct</a></p>
       <br><small>*not affiliated with the AI for Social Good Foundation</small>
     </footer>
 

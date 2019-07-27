@@ -1,6 +1,9 @@
-## ICML AISG 2019 worskhop website
+## Neurips Joint AISG 2019 Worskhop Website
 
-To compile the website :
+# Do not modify the html directly as your changes will be overidden 
+# Modify these sources
+
+To compile the website and generate the .html pages:
 `python compile.py`
 
 The python script uses mako templating package to create the html pages.
@@ -9,10 +12,10 @@ Mako templates allow the usage of python inside the html files which allows for 
 Two mechanisms are used :
 
 * Workshop custom informations are defined in the `custom.json` file and values are retrieved to insert
-information inside the different pages.
+information into the different pages.
 
 * Information is retrieved from files found in the directory structure.  Files are read (see code in the templates)
-and the html is generated automatically.  This is used for the schedule and the accepted papers.
+and the html is generated automatically.  This is used for the schedule and the accepted papers pages.
 
 
 ### Schedule
@@ -35,6 +38,9 @@ abstract:
 
 The template will look for all the files corresponding to the speaker name and will create an entry for each.
 
+The biographies of each speaker need to be in folder `bio`, with the name Speaker_Name.bio.html (as found in the custom.json file in the people section {"Speaker Name" : {img...}}).
+Spaces are replaced with underscore and the file are .hmtl file to allow links and custom formatting.
+
 ### Accepted papers
 
 The accepted papers are retrieved from the`papers_dir` defined in the `custom.json` file.
@@ -42,17 +48,20 @@ Here, the different elements are found from the files present in the specified  
 
 In the current structure, they are found in the `accepted/track1`.
 
-This directory contains a `pdfs` folder and files containing informations about each accepted paper.
+This directory contains `pdfs` and `posters` folder and files containing informations about each accepted paper.
 
-For example, `0_aisg_icml2019.txt`:
+For example, `0_aisg_neurips2019.txt`:
 
 ```
-title:Example
-authors:People Any, And Other, et. al
-tag:
+title:
+authors: 
+category:  # poster, paper
+tag: # health, democracy, etc.
+extra: # best paper
+
 ```
 
-The pdf file can be specified or by default, is assumed to match the name of the .txt file (0_aisg_icml2019.pdf).
+The name of the pdf files in both the `pdfs` and `posters` folders need to match the name of the .txt file (0_aisg_icml2019.pdf).
 
 The template retrieves all the .txt files in the directory and creates a table dynamically containing the specified information.
 

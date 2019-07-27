@@ -1,6 +1,7 @@
 
       <div class="blog-header">
-        <h1 class="blog-title">Accepted Papers</h1>
+        <h1 class="blog-title">Accepted Papers</h1><br>
+        <h3>${workshop_tracks[track][0]}, ${workshop_tracks[track][1]}</h4>
       </div>
 
       <div class="row">
@@ -24,9 +25,9 @@
 <col style="">
 </colgroup>
   <tr>
-    <th class="tg-0lax">Paper ID</th>
-    <th class="tg-0lax">Paper Title</th>
-    <th class="tg-0lax">Author Names</th>
+    <th class="tg-0lax">ID</th>
+    <th class="tg-0lax">Title</th>
+    <th class="tg-0lax">Authors</th>
   </tr>
 
    % for p in papers:

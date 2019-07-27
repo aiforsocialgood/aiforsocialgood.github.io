@@ -1,6 +1,6 @@
     <div class="blog-header">
       
-      <center><img src="logo/logo2.png" style="width:400px;" alt="${workshop_name}"/></center>
+      <center><img src="logo/logo2.png" style="width:400px;" alt="${workshop_short}"/></center>
         <p class="lead blog-description"> ${workshop_name} Workshop</p>
       </div>
 
