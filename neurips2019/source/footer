@@ -68,7 +68,6 @@
       <p>AI for Social Good Workshop ${conference_nick}</p>
       <p>Contact:  <a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
       <p>Code of Conduct: <a href="https://nips.cc/public/CodeOfConduct">NeurIPS code of conduct</a></p>
-      <p>Code of Conduct: <a href="https://icml.cc/public/CodeOfConduct">ICML Code of Conduct</a></p>
       <br><small>*not affiliated with the AI for Social Good Foundation</small>
     </footer>
 
