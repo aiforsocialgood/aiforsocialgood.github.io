@@ -10,3 +10,5 @@ Workshop custom informations are defined in the custom.json file.
 #### Requirements :
 * python v3
 * mako
+
+### See Documentation in the source folder

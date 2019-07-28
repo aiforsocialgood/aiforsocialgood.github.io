@@ -1,4 +1,4 @@
-## Neurips Joint AISG 2019 Worskhop Website
+## NeuRIPS Joint AISG 2019 Worskhop Website
 
 # Do not modify the html directly as your changes will be overidden 
 # Modify these sources
