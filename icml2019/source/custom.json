@@ -126,6 +126,7 @@
 
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Saturday June 15th"],
+        "schedule_video_link": "https://icml.cc/Conferences/2019/Schedule?showParentSession=3505",
 
         "talks" :{
             "Saturday June 15th" : [
