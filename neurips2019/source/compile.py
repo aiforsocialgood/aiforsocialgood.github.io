@@ -77,6 +77,7 @@ mylookup = TemplateLookup(directories=['.', '../bio', '..'],
 custom = json.loads(open('custom.json').read())
 
 # Get all pages
+# Need to add all pages that need to be processed/created
 pages = ['home', 'schedule',
             'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3', 
             'cfp', 'organizers',
