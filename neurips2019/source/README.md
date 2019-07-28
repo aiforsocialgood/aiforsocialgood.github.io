@@ -1,7 +1,7 @@
 ## NeuRIPS Joint AISG 2019 Worskhop Website
 
-# Do not modify the html directly as your changes will be overidden 
-# Modify these sources
+#### Do not modify the html directly as your changes will be overidden 
+#### Modify these sources
 
 To compile the website and generate the .html pages:
 `python compile.py`
