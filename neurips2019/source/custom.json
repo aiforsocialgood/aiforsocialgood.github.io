@@ -20,9 +20,15 @@
   "workshop_day_litteral" : "TBD",
   "workshop_date_with_day" : "TBD",
   "workshop_abbr" : "AISG",
-  "workshop_name" : "AI for Social Good",
+  "workshop_short" : "AI for Social Good",
+  "workshop_name" : "Joint Workshop on AI for Social Good",
   "workshop_mailto" : "aisg2019.neurips.contact@gmail.com",
   "workshop_website" : "https://aiforsocialgood.github.io/neurips2019",
+  "workshop_tracks" : {"track1" : ["Track 1", "Producing Good Outcomes"],
+                       "track2" : ["Track 2", "From malicious use to responsible AI"],
+                       "track3" : ["Track 3", "Public Policy"]
+  
+  },
 
   "workshop_talk_duration" : "TBD minutes",
   "github_link" : "https://aiforsocialgood.github.io/neurips2019",
@@ -55,7 +61,17 @@
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC / University of Montréal"}
+            "Fei Fang" :            {"img": "img/missing.jpg",  "affiliation":"Carnegie Mellon University"}, 
+            "Joseph Bullock" :      {"img": "img/missing.jpg",  "affiliation":"UN Global Pulse"},
+            "Brian Green" :         {"img": "img/missing.jpg",  "affiliation":"Santa Clara University"},
+            "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
+            "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
+            "Dhaval Adjodah" :      {"img": "img/missing.jpg",  "affiliation":"MIT"},
+            "Jack Clark" :          {"img": "img/missing.jpg",  "affiliation":"OpenAI"},
+            "Sydney Swaine-Simon" :  {"img": "img/missing.jpg",  "affiliation":"Distric 3"},
+            "Girmaw Abebe Tadesse" :  {"img": "img/missing.jpg",  "affiliation":"University of Oxford"},
+            "Anna Bethke" :         {"img": "img/missing.jpg",  "affiliation":"Intel AI"}
+
 
         },
  
@@ -77,15 +93,10 @@
 
     "chair" :
         {
-            "Schedule Chairs" :                        [],
-            "Paper Review and Call for Paper Chairs" : [],
-            "Sponsor and Finance Chairs" :             [],
-            "Communication and Website Chairs" :       [],
-            "Area Chairs" :                            [],
-            "Logistics Chairs" :                       [],
-            "Scientific Chairs" :                      [],
-            "Program Committee" :                      []
-
+            "Producing Good Track" :                        ["Fei Fang", "Joseph Bullock"],
+            "From Malicious Use to Responsible AI Track" : ["Marc-Antoine Dilhac", "Brian Green"],
+            "Public Policy Track" :             [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
+            "General" :       ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
         }
     },
 
@@ -96,13 +107,14 @@
 
         "talks" :{
             "TBD" : [
+              {"id": "aisg_neurips2019_0",  "time": "", "speaker_name": []}
                 
 
             ]
         }
 
     },
-  "acceptedpapers" : {
+  "acceptedpapers_track1" : {
 
     "papers_dir" : "../accepted/track1",
     "papers_pdf_link" : "accepted/track1/pdfs",
@@ -110,11 +122,18 @@
 
   },
 
-  "proposals" : {
+  "acceptedpapers_track2" : {
 
     "papers_dir" : "../accepted/track2",
     "papers_pdf_link" : "accepted/track2/pdfs",
     "posters_pdf_link" : "accepted/track2/posters"
+
+  },
+  "acceptedpapers_track3" : {
+
+    "papers_dir" : "../accepted/track3",
+    "papers_pdf_link" : "accepted/track3/pdfs",
+    "posters_pdf_link" : "accepted/track3/posters"
 
   }
 

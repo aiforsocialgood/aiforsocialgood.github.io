@@ -77,8 +77,10 @@ mylookup = TemplateLookup(directories=['.', '../bio', '..'],
 custom = json.loads(open('custom.json').read())
 
 # Get all pages
-pages = ['proposals', 'home', 'schedule',
-            'acceptedpapers', 'cfp', 'organizers',
+# Need to add all pages that need to be processed/created
+pages = ['home', 'schedule',
+            'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3', 
+            'cfp', 'organizers',
             'guidelines_areachairs', 'guidelines_reviewers',
             'pastworkshops', 'futureworkshops',
             'faq_general', 'faq_reviewers', 'faq_fundings',
@@ -90,21 +92,33 @@ for page_name in pages:
     attributes = custom['default'].copy()
     attributes.update(custom.get(page_name, {}))
 
+    
     html = """<%include file="header"/>
               <%include file="{}"/>
               <%include file="footer"/>""".format(page_name)
+
+    if 'acceptedpapers' in page_name:
+        ## Accepted papers page uses the same source, i.e. accepted papers
+        ## to avoid code repetition
+        ## This case is a special cases, dir needs to be define in custom.json
+        ## The needed pages need to be written in pages 
+        ## The workshop tracks are defined (id, name) in custom.json
+        ## Could have 3 sources 'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3' as well
+        ## with code duplication (see proposals and accepted papers in icml2019 workshop)
+        html = html.replace(page_name, 'acceptedpapers')
 
     page = Template(html, lookup=mylookup, strict_undefined=False)
 
     try:
 
         # Retrieve accepted papers from directory
-        if page_name in ['acceptedpapers', 'proposals']:
+        if 'acceptedpapers' in page_name:
             attributes["papers"] = getAcceptedPapers(
                 attributes["papers_dir"],
                 attributes["papers_pdf_link"],
-                attributes["posters_pdf_link"],
+                attributes["posters_pdf_link"]
             )
+            attributes["track"] = page_name.split('_')[-1]
 
         # Generating the different .htm files
         s = page.render(**attributes)
