@@ -58,18 +58,17 @@
             "Margaux Luck" :        {"img": "img/margaux.jpg",  "affiliation":"Mila"},
             "Jonnie Penn" :         {"img": "img/jonnie.jpg",   "affiliation":"University of Cambridge"},
             "Tristan Sylvain" :     {"img": "img/tristan.jpg",  "affiliation":"Mila"},
-            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC"},
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-            "Fei Fang" :            {"img": "img/missing.jpg",  "affiliation":"Carnegie Mellon University"}, 
+            "Fei Fang" :            {"img": "img/fei_fang.jpg",  "affiliation":"Carnegie Mellon University"}, 
             "Joseph Bullock" :      {"img": "img/missing.jpg",  "affiliation":"UN Global Pulse"},
             "Brian Green" :         {"img": "img/missing.jpg",  "affiliation":"Santa Clara University"},
             "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
             "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
-            "Dhaval Adjodah" :      {"img": "img/missing.jpg",  "affiliation":"MIT"},
+            "Dhaval Adjodah" :      {"img": "img/Dhaval.jpeg",  "affiliation":"MIT"},
             "Jack Clark" :          {"img": "img/missing.jpg",  "affiliation":"OpenAI"},
-            "Sydney Swaine-Simon" :  {"img": "img/missing.jpg",  "affiliation":"Distric 3"},
+            "Sydney Swaine-Simon" :  {"img": "img/sydney.jpg",  "affiliation":"District 3"},
             "Girmaw Abebe Tadesse" :  {"img": "img/missing.jpg",  "affiliation":"University of Oxford"},
             "Anna Bethke" :         {"img": "img/missing.jpg",  "affiliation":"Intel AI"}
 
@@ -97,7 +96,7 @@
             "Producing Good Track" :                        ["Fei Fang", "Joseph Bullock"],
             "From Malicious Use to Responsible AI Track" : ["Marc-Antoine Dilhac", "Brian Green"],
             "Public Policy Track" :             [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
-            "General" :       ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Geneviève Boucher","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
+            "General" :       ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
         }
     },
 
