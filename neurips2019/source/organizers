@@ -31,7 +31,7 @@
 
    			  % for p in members: 
     			<div class="col-xs-3 person">
-     				 <center><img class="img-circle hvr-buzz" src="${people[p]['img']}" ></center>
+     				 <center><img class="img-circle" src="${people[p]['img']}" ></center>
     				 <h4>${p}</h4>
       				<p>${people[p]['affiliation']}</p>
    				 </div>

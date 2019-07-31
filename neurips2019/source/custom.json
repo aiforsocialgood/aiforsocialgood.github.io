@@ -62,14 +62,14 @@
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
             "Fei Fang" :            {"img": "img/fei_fang.jpg",  "affiliation":"Carnegie Mellon University"}, 
-            "Joseph Bullock" :      {"img": "img/missing.jpg",  "affiliation":"UN Global Pulse"},
-            "Brian Green" :         {"img": "img/missing.jpg",  "affiliation":"Santa Clara University"},
-            "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
-            "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
+            "Joseph Bullock" :      {"img": "img/JBullock.jpg",  "affiliation":"UN Global Pulse / Durham University"},
+            "Brian Green" :         {"img": "img/BrianPatrickGreen.gif",  "affiliation":"Santa Clara University"},
             "Dhaval Adjodah" :      {"img": "img/Dhaval.jpeg",  "affiliation":"MIT"},
             "Jack Clark" :          {"img": "img/missing.jpg",  "affiliation":"OpenAI"},
             "Sydney Swaine-Simon" :  {"img": "img/sydney.jpg",  "affiliation":"District 3"},
-            "Girmaw Abebe Tadesse" :  {"img": "img/missing.jpg",  "affiliation":"University of Oxford"},
+            "Girmaw Abebe Tadesse" :  {"img": "img/grimaw_abebe.jpg",  "affiliation":"University of Oxford"},
+            "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
+            "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
             "Anna Bethke" :         {"img": "img/missing.jpg",  "affiliation":"Intel AI"}
 
 
