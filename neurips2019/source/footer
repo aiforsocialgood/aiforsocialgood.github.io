@@ -18,7 +18,7 @@
 <br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
 <br> ${workshop_room}
 </p>
-<p>Contact:<br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
+<p>Contact:<a class="link-icon" href="mailto:${workshop_mailto}">&nbsp&nbsp<span style='display:inline;' class="glyphicon glyphicon-envelope"></span></a> </p>
 
 
 
