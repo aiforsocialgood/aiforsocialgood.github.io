@@ -30,6 +30,7 @@
                 <h4>${subsection}</h4>
 
    			  % for p in members: 
+              
     			<div class="col-xs-3 person">
      				 <center><img class="img-circle" src="${people[p]['img']}" ></center>
     				 <h4>${p}</h4>
