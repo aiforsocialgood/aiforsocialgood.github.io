@@ -97,16 +97,6 @@ for page_name in pages:
               <%include file="{}"/>
               <%include file="footer"/>""".format(page_name)
 
-    if 'acceptedpapers' in page_name:
-        ## Accepted papers page uses the same source, i.e. accepted papers
-        ## to avoid code repetition
-        ## This case is a special cases, dir needs to be define in custom.json
-        ## The needed pages need to be written in pages 
-        ## The workshop tracks are defined (id, name) in custom.json
-        ## Could have 3 sources 'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3' as well
-        ## with code duplication (see proposals and accepted papers in icml2019 workshop)
-        html = html.replace(page_name, 'acceptedpapers')
-
     page = Template(html, lookup=mylookup, strict_undefined=False)
 
     try:
