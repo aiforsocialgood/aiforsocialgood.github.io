@@ -12,143 +12,114 @@
 
 
 <b>Aim and scope</b><br>
-Submissions are solicited for the NeurIPS 2019 AI for Social Good workshop focusing on social problems for which artificial intelligence has the potential to offer meaningful solutions.
+Submissions are solicited for the NeurIPS 2019 Joint Workshop on AI for Social Good for unpublished completed work and current work within the social impact space. Works should focus on social problems for which artificial intelligence offers meaningful solutions (i.e., "Producing Good Outcomes" track), case studies in ethical alignment of AI (i.e., "From Malicious Use to Responsible AI" track), works in public policy that maximizes the social benefits of AI systems while minimizing the negative consequences (i.e., "Public Policy" track), or some combination of these topics (can be submitted to the most relevant track).
+<br><br>
+Accepted papers will present their work as posters, and the top submitted works will be invited for oral presentation.
 
 <br><br>
 <p>
-<b>Track 1, Producing Good Outcomes</b>
+<b>Track 1, Producing Good Outcomes</b><br>
+Inspired by the United Nations Sustainable Development Goals (SDGs) for a more equitable, prosperous, and sustainable world, we consider subject areas with opportunities for AI to meaningfully impact society by reducing human suffering and improving social welfare and justice. They include:
+<ul>
+<li>Education</li>
+<li>Protecting democracy</li>
+<li>Urban planning</li>
+<li>Assistive technology for people with disabilities</li>
+<li>Health</li>
+<li>Agriculture</li>
+<li>Environmental sustainability</li>
+<li>Economic, social, and gender inequality</li>
+<li>Social welfare and justice</li>
+<li>Ethics, Privacy, and Security</li>
+</ul>
+<br>
+We accept papers that focus on applying Artificial Intelligence to these areas. We encourage submissions that have interdisciplinary collaborations between the technical and social sciences. The models or approaches presented do not necessarily need to have outstanding theoretical novelty, but should demonstrate potential for a meaningful social impact. Submissions should focus on past and current work intended to produce good outcomes, showcasing actual results and demonstrating beneficial effects on society if the work is already deployed, or highlighting the potential impact if not yet deployed. When discussing impact, submissions should also aim to include specific methodology for ‘real-world’ implementation including potential end users (e.g. organisations, or individuals) and assess the necessary requirements for successful use. We require every submission to have a section discussing the limitations, the risks, and the potential unintended negative outcomes.
+<br><br>
+We also accept abstracts of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.
 <br><br>
 
-<b>Track 2, From malicious use to responsible AI</b>
+<b>Track 2, From malicious use to responsible AI</b><br>
+All intelligent systems, including those developed to produce "good" outcomes, have the potential to harm. Several declarations, principles, checklists, and tools have been developed through various organizations and participatory processes to provide guidance to mitigate unwanted but foreseeable bad effects of automated decision-making and to avert potential malicious use of AI systems. This workshop adopts the Montreal Declaration for a Responsible Development of Artificial Intelligence (2018) as a taxonomy of ethical requirements for intelligent systems.
+<br><br>
+This workshop invites case-driven research from the philosophy and machine learning communities to guide the ethically-aligned research, development, and deployment of intelligent systems. These case studies can be drawn from SDG -motivated solutions or from experiences of AI systems deployment in public services (especially social services, immigration and security) and in the private sector (insurance, bank, health). Additionally, machine learning researchers and ethicists are invited to submit works in machine learning engineering process implementing the values of the Montreal Declaration, as well as other frameworks for ethical and responsible development of AI.
 <br><br>
 
 <b>Track 3, Public Policy</b>
 <br><br>
-</p>
-
-<!--
-The UN Sustainable Development Goals (SDGs), a set of seventeen objectives whose completion is set to lead to a more equitable, prosperous, and sustainable world. In this light, our main areas of focus are the following:
-<ul>
-<li>Education</li>
-<li>The protecting of democracy</li>
-<li>Urban planning</li>
-<li>Assistive technology</li>
-<li>Health</li>
-<li>Agriculture</li>
-<li>Environmental protection and sustainability</li>
-<li>Social welfare and justice</li>
-<li>Developing world</li>
-</ul>
+What does it mean to use AI for social good? How can public policy be used to enact, ensure, protect, and enforce the use of AI in ways that are beneficial to society? Regulation, institutional control, and normative system rules around technology have the capacity to maximize the social, economic and cultural benefits of AI technology, and minimize the potential problems caused by intelligent systems. This workshop will explore questions of when and how public policy should and can be used to control and regulate uses of machine learning. We welcome submissions that provide insights within the following approaches at the intersection of policy and machine learning:
+<ol>
+<li>What is social good in relation to the use of AI and machine learning in society? How do we come up with better definitions of equity, fairness, transparency and other notions of “good” for responsible use of AI? Can we go beyond current trade-offs between utility/profit and “good”?
+</li>
+<li>Machine learning research can help provide new opportunities into enacting and enforcing policy objectives. For example, decision-making in various public institutions such as judges deciding bonds can now be investigated through a machine learning lens: the data, algorithms and models used for such decisions can now be scrutinized by policy makers, and has the potential for improved fairness and transparency.
+</li>
+<li>The widespread applications of machine learning has raised concerns by many in terms of privacy, adversarial robustness, interpretability, fairness, etc. We therefore welcome policy-focused non-technical papers that discuss novel policy frameworks and insights to machine learning use and misuse.</li>
+</ol>
 <br>
 
-We accept submissions relating to at least one of the previously mentioned domains. We encourage submissions that have interdisciplinary collaborations between machine learning and problem domain experts. We especially encourage work where machine learning could meaningfully amplify existing efforts for social good.
-We invite two types of submissions:
-<br><Br>
-<ul>
-<li><b>Short Papers Track aka Track 1 (Up to four page papers + unlimited pages for citations) </b>for oral and/or poster presentation. The short papers should focus on past and current research work, showcasing actual results and demonstrating beneficial effects on society. We also accept short papers of recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees.</li>
+<b>All Track Submission Details</b><br>
+Each of these tracks are tied together in the workshop Call For Papers, whose submissions are pooled among a shared set of reviewers covering the necessary competencies for these tracks. Submissions are encouraged to cover multiple areas, and when possible blend policy perspectives with technical analysis. For example, when developing a system addressing poverty, the researchers are encouraged to explore ethical and practical challenges before making a public policy recommendation on the problem set.
+<br><br>
+All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables. Reviewing will be double blind. Camera-ready papers will be due in advance of the workshop. Submissions will be considered non-archival and can be submitted elsewhere after the conference.
+<br><br>
+<b><i>Author guidelines can be found here:</i></b>
 <br>
-<li><b>Problem Introduction Track aka Track 2 (Application form, up to five page responses + unlimited pages for citations)</b> which will present a specific solution that will be shared with stakeholders, scientists, and funders. The workshop will provide a suite of questions designed to: (1) estimate the feasibility and impact of the proposed solutions, and (2) estimate the importance of data in their implementation. The application responses should highlight ideas that have not yet been implemented in practice but can lead to real impact. The projects may be at varying degrees of development, from formulation as a data problem to structure for effective deployment. The workshop provides a supportive platform for developing these early-stage or hobby proposals into real projects. This process is designed to foster sharing different points of view ranging from the scientific assessment of feasibility, discussion of practical constraints that may be encountered, and attracting interest from philanthropists invited to the event. Accepted submissions may be promoted to the wider AI solutions community following the workshop via the <a href="http://www.aicommons.com">AI Commons</a>, with whom we are partnering to promote the longer-term development of projects.</li>
-</ul>
-
+Four page papers (<a href="${overleaf_template_link}" target='_blank'>Overleaf template</a>)
 <br>
+Poster Size: ${poster_size_inches} or ${poster_size_cm}<br>
+Poster Paper: ${poster_paper}
+<br><br>
 
--->
-<!--
-<b>Important dates</b><br>
+<b><i>Important dates</i></b><br>
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Submissions open:</span>
+Submissions open:</span>
 <span class='col-sm' style="float:right;">${submission_open_date}</span>
 </div>
-
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Deadline for submissions: </span>
+Deadline for submissions: </span>
 <span class='col-sm' style="float:right;">${submission_deadline_date}</span>
 </div>
--->
-
-<!--Need to fix this in the future, not elegant -->
-<!--
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 2 <%  spaces = "&nbsp" * (len(" / Track 1 ")+5) %> ${spaces}
-- Notification of pre-selected team: </span>
-<span class='col-sm' style="float:right;">${notification_pre_selected}</span>
-</div>
-
-<div class="row" style='padding-left:15px;'>
-<span class="col-sm">
-Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span>
+Notification of acceptance:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;"> ${notification_date}</span>
 </div>
-
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span>
+Camera-ready submission:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;">${cameraready_date}</span>
 </div>
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Track 1 / Track 2 - Poster submission:&nbsp&nbsp </span>
+Poster submission:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;">${poster_date}</span>
 </div>
-<br>
-<br>
-Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a><br>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Workshop date:&nbsp&nbsp </span>
+<span class='col-sm' style="float:right;">${workshop_date_with_day}</span>
+</div>
 
-<br><br>
-<b>Submission details</b><br>
-All submissions must be in PDF format. Submissions are limited to four content pages for the short papers track and five content page for the problem introduction track, including all figures and tables. Submissions for each type of paper must be in their respective formats specified below.
-Reviewing will be double blind for Track 1. <br><br>
-For Track 2, due to the specific nature of the submissions, reviewing will be a two step process:
-A pre-selection phase based on the submitted form. This will be double blind.
-A follow-up phase where pre-selected teams interact with mentors. This will result in a final selection, which will be non-anonymous.<br><br>
-Camera-ready papers will be due in advance of the workshop. Final acceptance of a submission will be conditioned on providing a camera-ready version of the paper that fits our formatting instructions. Submissions will be considered non-archival and can be submitted elsewhere after the conference. Papers that are over length or violate the author guidelines format will be rejected without review.
-<br><br>
-Author guidelines can be found here:
 <br>
-Short Papers Track aka Track 1 (four page papers) (<a href="${overleaf_template_link}" target='_blank'>Overleaf template</a>)
-<br>
-Problem Introduction Track aka Track 2 (five page papers - answering the questions in this <a href="${proposal_ps_form}">form</a>)
-
-% if proposal_template_link == "TBD"  :
-    (TBD)
-% else :
-    (<a href="${proposal_template_link}">Overleaf template</a>)
-% endif
-or a similar looking PDF
-<br><span style='color:#B22222;'>
-Poster Size: ${poster_size_inches} or ${poster_size_cm}<br>
-Poster Paper: ${poster_paper}
-</span>
-
-<br><br>
-<b>Submission Site</b><br>
+<b><i>Submission Site</i></b><br>
 Submit at: <a href="${submission_link}" target="_blank">${submission_link}</a>
 
 <br><br>
-<b>Registration</b><br>
+<b><i>Registration</i></b><br>
 Please register for ${conference_abbr}
 <a href="${conference_website}">${conference_website}</a>
 
-
 <br><br>
-<b>Contact</b><br>
+<b><i>Contact</i></b><br>
 Email: <a href="mailto:${workshop_mailto}">${workshop_mailto}</a>
-
-
 
 <br><br>
 <h2>FAQs</h2>
 
-
 <%include file="faq_submission_q"/>
 
-
-
-
-            </p>-->
+            </p>
           </div>
 
-          <!-- /.blog-post --> 
+          <!-- /.blog-post -->

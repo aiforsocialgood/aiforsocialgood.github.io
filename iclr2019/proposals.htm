@@ -8,54 +8,50 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="icon" href="logo/logo2-icon-small.png">
 
-	<meta property="og:title" content="AI for Social Good Workshop at ICLR2019">
-	<meta property="og:description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
-	<meta name="description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
-    
+  <meta property="og:title" content="AI for Social Good Workshop at ICLR2019">
+  <meta property="og:description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
+  <meta name="description" content="A focus on social problems for which artificial intelligence has the potential to offer meaningful solutions.">
+
   <meta property="og:keywords" content='artificial intelligence, social problems, healthcare, machine learning, New Orleans, International Conference on Learning Representations, ICLR2019'>
-	<meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, New Orleans, International Conference on Learning Representations, ICLR2019">
-	<meta property="og:image" content="https://aiforsocialgood.github.io/2018/logo/logo2-white.png" />
-	<meta property="og:locale" content="en_US" />  
+  <meta name="keywords" content="artificial intelligence, social problems, healthcare, machine learning, New Orleans, International Conference on Learning Representations, ICLR2019">
+  <meta property="og:image" content="https://aiforsocialgood.github.io/2018/logo/logo2-white.png" />
+  <meta property="og:locale" content="en_US" />
 
 
     <title>AI for Social Good Workshop ICLR2019</title>
 
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
-	<!-- Bootstrap core CSS -->
-	
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	
+  <!-- Bootstrap core CSS -->
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124501848-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-124501848-1');
 </script>
 
 <script>
-
 function pageScript(tomatch){
-	url = window.location.pathname
-	s = url.substring(url.lastIndexOf('/')+1)
-	return tomatch == s
+  url = window.location.pathname
+  s = url.substring(url.lastIndexOf('/')+1)
+  return tomatch == s
 }
-
 </script>
-	
+
 <link rel="stylesheet" href="style.css?v=1">
 <link rel="stylesheet" href="res/hover-min.css" >
 
 <style>
-
 </style>
-	
-	
+
+
   </head>
 
   <body>
@@ -67,20 +63,20 @@ function pageScript(tomatch){
            <a class="blog-nav-item" href="schedule.htm">Schedule</a>
 
            <a class="blog-nav-item" href="cfp.htm">Call for Papers</a>
-			
+
         <span class="dropdown">
-			  <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
-			    Accepted Papers
-			    <span class="caret"></span>
-			  </a>
-			  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-			    <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
-			    <li><a id="dropdownMenu1_item2" href="proposals.htm">Problem Introduction</a></li>
-			  </ul>
-			</span>
+        <a class="blog-nav-item dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
+          Accepted Papers
+          <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+          <li><a id="dropdownMenu1_item1" href="acceptedpapers.htm">Short Papers</a></li>
+          <li><a id="dropdownMenu1_item2" href="proposals.htm">Problem Introduction</a></li>
+        </ul>
+      </span>
           <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
           <a class="blog-nav-item" href="organizers.htm">Organizers</a>
-          
+
           <a class="blog-nav-item" href="faq_general.htm">FAQ</a>
 
 
@@ -90,13 +86,13 @@ function pageScript(tomatch){
           <span class="caret"></span>
         </a>
        <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-         
+
           <li><a id="dropdownMenu2_item1" href="futureworkshops.htm">Future Workshops</a></li>
           <li><a id="dropdownMenu2_item2" href="pastworkshops.htm">Past Workshops</a></li>
         </ul>
       </span>
-         
- 
+
+
           <!--  <a class="blog-nav-item" href="#">Accepted Papers</a>-->
         </nav>
       </div>
@@ -104,16 +100,14 @@ function pageScript(tomatch){
 
 
     <script>
-          
+
           var url = window.location.href;
           var page = url.split(/[\\/]/).pop();
-
           $.each($(".blog-nav a"), function(i, e) {
               var p = $(e).attr("href");
-           
+
               var s1 = page.split("_")[0];
               var s2 = p.split("_")[0];
-
               if (p==page | s1==s2) {
                 if ($(e).hasClass('blog-nav-item')) {
                   $(e).addClass('active');
@@ -124,7 +118,7 @@ function pageScript(tomatch){
                   $("#"+id).addClass('active');
                 }
               }
-             
+
           });
     </script>
 
@@ -132,8 +126,8 @@ function pageScript(tomatch){
 
     <div class="container">
 
-    
-              
+
+
       <div class="blog-header">
         <h1 class="blog-title">Accepted Problem Introduction</h1>
       </div>
@@ -286,14 +280,14 @@ function pageScript(tomatch){
                     </div><!-- /.blog-main -->
 
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-           
+
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
-          
+
 <p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>March 22nd 2019<br> 11:59PM ET</b></p>
 <p>Notification of acceptance: <br>April 15th 2019</p>
 <p>Camera-ready submission: <br>April 26th 2019</p>
-<p>Workshop date: 
+<p>Workshop date:
 <br>May 6th, 2019
 <br>Onsite ICLR:
 <br>(<a target="_blank" href="https://www.google.com/maps/search/Ernest+N.+Morial+Convention+Center,+New+Orleans">Map: Ernest N. Morial Convention Center, New Orleans</a>)
@@ -308,7 +302,7 @@ function pageScript(tomatch){
          <div class="sidebar-module">
             <h4>Sponsors</h4>
             <ol class="list-unstyled">
-            
+
               <li>Sustainer<br>
 
                 <a href="">
@@ -316,15 +310,15 @@ function pageScript(tomatch){
                   </img>
                 </a>
                 <br>
-			       </li>
-            
+             </li>
+
               <li>Organizer<br>
                 <a href="">
                   <img class="sponsorlogo" src="other-logos/mila.png" alt="mila">
                   </img>
                 </a>
                 <br>
-             
+
               </li>
 
             </ol>
