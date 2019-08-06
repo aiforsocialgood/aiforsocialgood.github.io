@@ -1,0 +1,4 @@
+title:SpotholeAI - An Artificial Intelligence Assistant to fix Potholes 
+authors:Vishal Bhalla (Technical U. of Munich)
+tag:urban planning
+category:poster

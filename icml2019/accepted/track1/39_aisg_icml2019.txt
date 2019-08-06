@@ -1,0 +1,4 @@
+title:Open Platforms for Artificial Intelligence for Social Good: Common Patterns as a Pathway to True Impact
+authors:Kush R. Varshney (IBM Research); Aleksandra Mojsilović (IBM Research)
+tag:sustainable development
+category:poster

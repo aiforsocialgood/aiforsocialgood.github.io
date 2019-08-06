@@ -1,0 +1,4 @@
+title: Video Accessibility for the Visually Impaired
+authors:Ilmi Yoon (San Francisco State U.); Umang Mathur (San Francisco State U.); Brenna Gibson Tirumalashetty (San Francisco State U.); Pooyan Fazli (San Francisco State U.); Joshua Miele (Amazon Lab126)
+tag:assistive technology
+category:poster

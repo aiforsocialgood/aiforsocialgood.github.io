@@ -1,0 +1,19 @@
+<b>Where is the schedule of the event?</b><br>
+Here: <a href="${workshop_website}/schedule.htm">${workshop_website}/schedule.htm</a>
+<br><br>
+
+<b>Where is the list of the accepted short paper track?</b><br>
+Here: <a href="${workshop_website}/acceptedpapers.htm">${workshop_website}/acceptedpapers.htm</a>
+<br><br>
+
+<b>Where is the list of the accepted solution paper track?</b><br>
+Here: <a href="${workshop_website}/proposals.htm">${workshop_website}/proposals.htm</a>
+<br><br>
+
+<b>Do you have a code of conduct? Where can I find it?</b><br>
+We do have a code of conduct.  We expect everyone to comply with the NeurIPS Code of Conduct which can be found <a href="https://nips.cc/public/CodeOfConduct">here</a>.
+<br><br>
+
+<b>How to contact the organizers?</b><br>
+Send an email to <a class="link-icon" href="mailto:${workshop_mailto}">${workshop_mailto}</a>.
+<br><br>

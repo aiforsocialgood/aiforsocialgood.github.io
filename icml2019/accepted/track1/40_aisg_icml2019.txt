@@ -1,0 +1,4 @@
+title:InsectUp: Crowdsourcing Insect Observations to Assess Demographic Shifts and Improve Classification
+authors:Léonard Boussioux (Mila, Ecole CentraleSupélec); Tomás Giro-Larraz (Ecole CentraleSupélec, EPFL); Charles Guille-Escuret (Mila); Mehdi Cherti (CNRS, U. Paris-Saclay, Mines ParisTech); Balázs Kégl (CNRS, U. Paris-Saclay)
+tag:environmental sustainability
+category:poster

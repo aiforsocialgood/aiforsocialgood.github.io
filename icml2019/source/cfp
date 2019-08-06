@@ -70,7 +70,13 @@ Track 1 / Track 2 - Notification of acceptance:&nbsp&nbsp </span>
 <span class="col-sm">
 Track 1 / Track 2 - Camera-ready submission:&nbsp&nbsp </span>
 <span class='col-sm' style="float:right;">${cameraready_date}</span>
-</div><br>
+</div>
+<div class="row" style='padding-left:15px;'>
+<span class="col-sm">
+Track 1 / Track 2 - Poster submission:&nbsp&nbsp </span>
+<span class='col-sm' style="float:right;">${poster_date}</span>
+</div>
+<br>
 <br>
 Workshop date: ${workshop_date_with_day} ${workshop_from} -- ${workshop_until} @ ${workshop_room} onsite <a href="${conference_onsite_map}" target="_blank">${conference_onsite}</a><br>
 
@@ -95,8 +101,10 @@ Problem Introduction Track aka Track 2 (five page papers - answering the questio
     (<a href="${proposal_template_link}">Overleaf template</a>)
 % endif
 or a similar looking PDF
-<br>
-Poster Size: ${poster_size_inches} or ${poster_size_cm}
+<br><span style='color:#B22222;'>
+Poster Size: ${poster_size_inches} or ${poster_size_cm}<br>
+Poster Paper: ${poster_paper}
+</span>
 
 <br><br>
 <b>Submission Site</b><br>

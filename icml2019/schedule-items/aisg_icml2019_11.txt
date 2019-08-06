@@ -1,0 +1,2 @@
+title:Keynote - AI for Ecology and Conservation
+abstract:AI can help solve big data and decision-making problems to understand and protect the environment. I’ll survey several projects the area and discuss how to approach environmental problems using AI. The Dark Ecology project uses weather radar and machine learning to unravel mysteries of bird migration. A surprising probabilistic inference problem arises when analyzing animal survey data to monitor populations. Novel optimization algorithms can help reason about dams, hydropower, and the ecology of river networks.

@@ -1,0 +1,39 @@
+
+
+<p class='justify'>
+This workshop builds on our AI for Social Good workshop at <a href="https://aiforsocialgood.github.io/2018/">NeurIPS 2018</a>, <a href="https://aiforsocialgood.github.io/iclr2019/">ICLR 2019</a> and <a href="https://aiforsocialgood.github.io/icml2019/">ICML 2019</a>.
+</p>
+<br>
+<p class='justify'>
+    The accelerating pace of intelligent system research and real world deployment presents three clear challenges for producing "good" intelligent systems: (1) the research community lacks incentives and venues for results centered on social impact, (2) deployed systems often produce unintended negative consequences, and (3) there is little consensus for public policy that maximizes "good" social impacts, while minimizing the likelihood of harm. As a result, researchers often find themselves without a clear path to positive real world impact.
+    The Workshop on AI for Social Good addresses these challenges by bringing together machine learning researchers, social impact leaders, ethicists, and public policy leaders to present their ideas and applications for maximizing the social good. This workshop is a collaboration of three formerly separate lines of research (i.e., this is a "joint" workshop), including researchers in applications-driven AI research, applied ethics, and AI policy. Each of these research areas are unified into a 3-track framework promoting the exchange of ideas between the practitioners of each track.
+    We hope that this gathering of research talent will inspire the creation of new approaches and tools, provide for the development of intelligent systems benefiting all stakeholders, and converge on public policy mechanisms for encouraging these goals.
+
+<br>
+<br>
+
+
+<h3>Track Details</h3>
+<b>Track 1, Producing Good Outcomes. (Similar to the NeurIPS workshop of 2018)</b>
+<p class='justify'>
+One branch of applications research is concerned with making "progress" in improving the world. As a taxonomy for these research areas, we adopt the UN Sustainable Development Goals (SDGs) as the set of seventeen concrete objectives guiding societal progress towards a more equitable, prosperous, and sustainable world. In this light, our main focus is in the application of ML in the following domains that can lead to good outcomes and significant positive impact: health, education, the protection of democracy, urban planning, assistive technology, agriculture, environmental protection and sustainability, social welfare and justice. Additionally, submissions are encouraged that explore practically realizing these systems in the real world. Each of these themes presents unique opportunities for AI to reduce human suffering, protect the vulnerable, and allow citizens and democratic institutions to thrive.
+</p>
+<br><br>
+
+<b>Track 2, From malicious use to responsible AI.</b>
+<p class='justify'>
+All intelligent systems, including those developed to produce "good" outcomes, have the potential to harm. Several declarations, principles, checklists, and tools have been developed through various organizations and participatory processes to provide guidance to mitigate unwanted but foreseeable bad effects of automated decision-making and to avert potential malicious use of AI systems. This workshop adopts the Montreal Declaration for a Responsible Development of Artificial Intelligence (2018) as a taxonomy of ethical requirements for intelligent systems. This workshop then invites case-driven research from the philosophy and machine learning communities to guide the ethically-aligned research, development, and deployment of intelligent systems. These case studies can be drawn from SDG -motivated solutions or from experiences of AI systems deployment in public services (especially social services, immigration and security) and in the private sector (insurance, bank, health). Additionally, machine learning researchers and ethicists are also invited to submit works in machine learning engineering process implementing the values of the Montreal Declaration.
+</p>
+<br><br>
+
+<b>Track 3, Public Policy.</b>
+<p class='justify'>
+Public Policy (which includes public policy, regulation of and around technology, institutional controls, or other human system rules) has the capacity to maximize the social, economic and cultural benefits of AI technology (e.g. using reinforcement learning for more efficient energy use), and minimize the potential problems caused by intelligent systems (e.g., algorithmic bias). Machine learning research can help understand how to develop both theoretical methods and applied tools to help implement public policy objectives (such as transparency into dataset biases), as well as to understand how to craft policy that will be effective (e.g. constructing effective policy around adversarial attacks of neural networks is an open question). Thus, this track focuses on how to develop machine learning to implement already decided objectives, rules, laws and technology policies (e.g. the law might require that medical algorithms be less racially biased and it is still unclear how to measure such bias in datasets and algorithms), but also how machine learning can be used to understand how to even come up with beneficial and achievable policy because there might be fundamental trade-offs in the technology itself (e.g. there might be fundamental bias in datasets that cannot even be measured with absolute accuracy because our measuring estimators themselves are learned from potentially biased data).
+<br><br>
+Each of these tracks are tied together via the workshop Call For Papers, whose submissions are pooled among a shared set of reviewers covering the necessary competencies for these tracks. Submissions are encouraged to cover multiple areas when possible. For example, when developing a system addressing poverty, the researchers are encouraged to adopt an ethical framework, apply it, then report on its strengths and weaknesses before making a public policy recommendation on the problem set.
+<br><br>
+<!--
+Intended audience. We expect our audience to come largely from machine learning, with a mix of researchers and engineers. Some attendees will likely come from other fields, such as leaders of social impact, ethics, and public policy. We will assume only two things about attendees: (1) some general knowledge of ML and (2) interest in ensuring AI systems are consistent with the social good. We will not assume any knowledge of non-ML domains. Given the broad appeal of the workshop topic and several high-profile speakers, we expect a medium to large audience.
+-->
+
+</p>

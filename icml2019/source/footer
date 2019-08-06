@@ -5,13 +5,19 @@
           <div class="dates sidebar-module sidebar-module-inset">
           <center><img src="logo/logo2.png" style="width:100%;"/></center>
 
-<p><b>Deadline for submissions <span style='color:#c8243e;'>*EXTENDED*</span>: <br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
+
+<p><b>Deadline for submissions 
+
+
+<br>${submission_deadline_date}<br> ${deadline_hour}</b></p>
 <p>Notification of acceptance: <br>${notification_date}</p>
 <p>Camera-ready submission: <br>${cameraready_date}</p>
+<p>Poster submission: <br>${poster_date}</p>
 <p>Workshop date:
 <br>${workshop_date}
 <br>Onsite ${conference_abbr}:
 <br>(<a target="_blank" href="https://www.google.com/maps/search/${conference_location.replace(' ', '+')}">Map: ${conference_location}</a>)
+<br> ${workshop_room}
 </p>
 <p>Contact:<br><a href="mailto:${workshop_mailto}">${workshop_mailto}</a> </p>
 
@@ -19,25 +25,45 @@
 
 
           </div>
- <!--          <div class="sidebar-module">
+          <div class="sidebar-module">
             <h4>Sponsors</h4>
             <ol class="list-unstyled">
-              <li>Level<br>
-             ß
-			       </li>
+            
+              
+              % if "sustainer" in sponsors.keys():
+              <li>Sustainer<br>
+                % for e in sponsors['sustainer']:
+                  <a href="${logos[e]['link']}">
+                    <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                   </img>
+                 </a>
+                 <br>
+                % endfor  
+             </li>
+             % endif
 
-              <li>Level<br>
-
+             % if "organizer" in sponsors.keys():
+              <li>Organizer<br>
+                 % for e in sponsors['organizer']:
+                <a href="${logos[e]['link']}">
+                  <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                  </img>
+                </a>
+                <br>
+              % endfor  
+             
               </li>
+              % endif
 
             </ol>
-          </div>-->
+          </div>
 
         </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->
 
     </div><!-- /.container -->
+
 
     <footer class="blog-footer">
       <p>AI for Social Good Workshop ${conference_nick}</p>

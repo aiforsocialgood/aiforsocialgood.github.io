@@ -1,0 +1,2 @@
+title:Problem proposal - Conversational agents to address abusive online behaviors
+abstract:Technologies to address cyber bullying are limited to detecting and hiding abusive messages. We propose to investigate the potential of conversational technologies for addressing abusers. We will outline directions for studying the effectiveness dialog strategies (e.g., to educate or deter abusers, or keep them busy with chatbots rather than their victims) and for initiating new research on chatbot-mediated mitigation of online abuse. 

@@ -16,7 +16,6 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-<!--
 
 <table class="table" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -37,27 +36,54 @@
 
             <br>
             % if p.get("pdf", "") != "" :
-                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="90%"/></a>
+                <a target="_blank" href="${p['pdf']}"><img src="img/pdf.png" height="30" /></a>
             % else:
                 Not available
-            % endif
+            %endif
+
+            % if p.get("poster", "") != "" :
+            <br>
+                <a target="_blank" href="${p['poster']}"><img src="img/poster.png" height="30" /></a>
+            %endif
         </td>
-        
+
+
         <td class="tg-0lax">
-        % if p.get("tag", "") != "" : 
-                 <span class="label label-success"> ${p["tag"]}</span> 
+        <!-- extra -->
+        % if p.get("extra", "") != "" :
+          %for t in p.get("extra", "").split(','):
+               <span class="label label-warning"> ${t}</span>
+          %endfor
+        % endif
+       
+
+        <br>${p.get("title", "")} 
+
+        <!-- tag -->
+
+        % if p.get("tag", "") != "" :
+          %for t in p.get("tag", "").split(','):
+                 <small><span class="label label-success"> ${t}</span></small>
+          %endfor
         % endif
 
-        <br>${p.get("title", "")} </td>
+        <!-- category -->
+        % if p.get("category", "") != "" :
+          %for t in p.get("category", "").split(','):
+              <small> <span class="label label-default"> ${t}</span></small>
+          %endfor
+        % endif
+        </td>
 
     <td class="tg-0lax"> ${p.get("authors", "")}</td>
+
+
      </tr>
     % endfor
 
 
 </table>
 
--->
 
 
 
@@ -68,4 +94,4 @@
 
  </p>
 </div><!-- /.blog-post -->
-          
+

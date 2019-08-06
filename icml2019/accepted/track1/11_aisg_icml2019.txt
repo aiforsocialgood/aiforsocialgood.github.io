@@ -1,0 +1,4 @@
+title:Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts
+authors:Joseph Bullock (UN Global Pulse, Durham U.); Miguel Luengo-Oroz (Durham U.)
+tag:protecting democracy
+category:poster

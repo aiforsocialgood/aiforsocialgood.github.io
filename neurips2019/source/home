@@ -1,0 +1,20 @@
+    <div class="blog-header">
+      
+      <center><img src="logo/logo2.png" style="width:400px;" alt="${workshop_short}"/></center>
+        <p class="lead blog-description"> ${workshop_name} Workshop</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post">
+
+            <p>
+            
+<%include file="home_abstract"/>   
+
+     
+</p>
+</div><!-- /.blog-post -->
+          

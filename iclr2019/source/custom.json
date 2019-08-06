@@ -65,7 +65,7 @@
             "Jack Clark":           {"img": "img/Jack_Clark.jpg", "affiliation":"OpenAI"},
             "Meredith Whittaker":   {"img": "img/MeredithWhittaker.jpg", "affiliation":"AI Now Institute"},
             "Joanna Bryson":        {"img": "img/BrysonJoanna4.jpeg", "affiliation":"University of Bath"},
-            "Sanae Lofti":          {"img": "img/SanaeLofti.jpg", "affiliation":"Polytechnique Montreal"},
+            "Sanae Lotfi":          {"img": "img/SanaeLotfi.jpg", "affiliation":"Polytechnique Montreal"},
             "Ayan Mukhopadhyay":    {"img": "img/AyanMukhopadhyay.jpeg", "affiliation":"Vanderbilt University"},
             "Yevgeniy Vorobeychik": {"img": "img/EugeneVorobeychik.jpg", "affiliation":"Washington University in St. Louis"},
             "Joey Hyun Joon Lee" :  {"img": "img/JoeyHyunJoonLee.png", "affiliation":"World Bank Treasury"},
@@ -76,7 +76,8 @@
             "Misha Benjamin" :      {"img": "img/misha_benjamin.png", "affiliation":"ElementAI"},
             "Byung-Hak Kim" :       {"img": "img/byung_hak_Kim.jpg", "affiliation":"Udacity"},
             "Victor Schmidt" :      {"img": "img/VictorSchmidt.png", "affiliation":"MILA"},
-            "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"}
+            "Jackson Wang" :        {"img": "img/jackson_wang.JPG",  "affiliation":"University of Toronto"},
+            "Neama Dadkhahnikoo":   {"img": "img/neama_dadkhahnikoo.jpg",  "affiliation":"XPRIZE Foundation "}
 
         },
 
@@ -112,11 +113,13 @@
             "Communication and Website Chairs" :          ["Virgile Sylvain", "Geneviève Boucher"],
             "Logistics Chairs" :       ["Margaux Luck", "Kris Sankaran"],
             "Scientific Chairs" :       ["Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"],
+            "Area Chairs" :             ["Adriana Romero", "Simon Blackburn","Mathieu Germain",
+                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango","Neama Dadkhahnikoo"],
             "Program Committee" :      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
                                         "Sean McGregor", "Jonnie Penn", "Virgile Sylvain",
                                         "Geneviève Boucher",  "Myriam Côté",
                                         "Adriana Romero", "Simon Blackburn","Mathieu Germain",
-                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango",
+                                        "Ernest Mwebaze","Abhishek Gupta","Arsene Fansi Tchango","Neama Dadkhahnikoo",
                                         "Kentaro Toyama", "Rayid Ghani", "Yoshua Bengio"]
 
         }
@@ -126,6 +129,7 @@
 
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Monday May 6th"],
+        "schedule_video_link": "https://slideslive.com/iclr/iclr-2019-r05-ai-for-social-good",
 
         "talks" :{
             "Monday May 6th" : [
@@ -136,13 +140,13 @@
                 {"id": "aisg_iclr2019_1215", "time": "12:15 - 12:20", "speaker_name": ["Yoshua Bengio"]},
                 {"id": "aisg_iclr2019_1220", "time": "12:20 - 12:25", "speaker_name": ["Joey Hyun Joon Lee"]},
                 {"id": "aisg_iclr2019_1225", "time": "12:25 - 12:30", "speaker_name": ["Rijul Magu"]},
-                {"id": "aisg_iclr2019_1230", "time": "12:30 - 12:35", "speaker_name": ["Sanae Lofti"]},
+                {"id": "aisg_iclr2019_1230", "time": "12:30 - 12:35", "speaker_name": ["Sanae Lotfi"]},
                 {"id": "aisg_iclr2019_1235", "time": "12:35 - 13:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1300", "time": "13:00 - 14:30", "speaker_name": []},
                 {"id": "aisg_iclr2019_1430", "time": "14:30 - 16:00", "speaker_name": []},
                 {"id": "aisg_iclr2019_1600", "time": "16:00 - 16:30", "speaker_name": []},
                 {"id": "aisg_iclr2019_1630", "time": "16:30 - 17:00", "speaker_name": []},
-                {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay","Yevgeniy Vorobeychik"]},
+                {"id": "aisg_iclr2019_1700", "time": "17:00 - 17:10", "speaker_name": ["Ayan Mukhopadhyay"]},
                 {"id": "aisg_iclr2019_1710", "time": "17:10 - 17:20", "speaker_name": ["Jackson Wang"]},
                 {"id": "aisg_iclr2019_1720", "time": "17:20 - 17:30", "speaker_name": ["Victor Schmidt"]},
                 {"id": "aisg_iclr2019_1730", "time": "17:30 - 17:40", "speaker_name": ["Byung-Hak Kim"]},

@@ -1,0 +1,4 @@
+title:Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images
+authors: Kris Y. Hong (McGill U.); Pedro O. Pinheiro (Element AI); Scott Weichenthal (McGill U.)
+tag:environmental sustainability
+category:oral

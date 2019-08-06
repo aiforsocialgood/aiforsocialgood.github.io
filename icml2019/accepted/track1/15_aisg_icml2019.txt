@@ -1,0 +1,4 @@
+title:Early Classifiation for Agricultural Monitoring from Satellite Time Series
+authors:Marc Rußwurm (Technical U. of Munich); Romain Tavenard (LETG-Rennes, IRISA); Sébastien Lefèvre (IRISA, Université de Bretagne Sud); Marco Körner (Technical  U. of  Munich)
+tag:agriculture
+category:poster

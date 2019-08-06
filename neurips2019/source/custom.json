@@ -1,0 +1,141 @@
+{
+"default" :{
+
+  "conference_nick" : "NeurIPS2019",
+  "conference_nick_ws" : "NeurIPS 2019",
+  "conference_name" : " Neural Information Processing Systems",
+  "conference_abbr" : "NeurIPS",
+  "conference_website" : "https://nips.cc",
+  "conference_city" : "Vancouver",
+  "conference_state" : "British Columbia",
+  "conference_location" : "Vancouver Convention Center, Vancouver, CANADA ",
+  "conference_onsite": "Vancouver Convention Center, Vancouver CANADA ",
+  "conference_onsite_map": "https://www.google.com/maps/place/Vancouver+Convention+Centre+East/@49.2881789,-123.1146601,17z/data=!3m2!4b1!5s0x5486719d2fa2d817:0x8744a3435e0647f2!4m5!3m4!1s0x548671836a6e5787:0xd3c5f7bc5d72768d!8m2!3d49.2881789!4d-123.1124661",
+
+  "year" : "2019",
+  "workshop_date": "Dec TBD, 2019" ,
+  "workshop_room": "TBD",
+  "workshop_from": "TBD",
+  "workshop_until": "TBD",
+  "workshop_day_litteral" : "TBD",
+  "workshop_date_with_day" : "TBD",
+  "workshop_abbr" : "AISG",
+  "workshop_short" : "AI for Social Good",
+  "workshop_name" : "Joint Workshop on AI for Social Good",
+  "workshop_mailto" : "aisg2019.neurips.contact@gmail.com",
+  "workshop_website" : "https://aiforsocialgood.github.io/neurips2019",
+  "workshop_tracks" : {"track1" : ["Track 1", "Producing Good Outcomes"],
+                       "track2" : ["Track 2", "From malicious use to responsible AI"],
+                       "track3" : ["Track 3", "Public Policy"]
+  
+  },
+
+  "workshop_talk_duration" : "TBD minutes",
+  "github_link" : "https://aiforsocialgood.github.io/neurips2019",
+
+  "submission_open_date" : "TBD",
+  "submission_deadline_date" : "TBD",
+  "deadline_hour" : "11:59PM ET",
+  "notification_pre_selected" : "TBD",
+  "notification_date" : "TBD",
+  "cameraready_date" : "TBD",
+  "poster_date" : "TBD",
+
+  "submission_link":"https://cmt3.research.microsoft.com/",
+  "overleaf_template_link" : "",
+  "proposal_template_link" : "",
+  "proposal_ps_form": "",
+  "screen_size" : "TBD",
+  "poster_size_inches" : "TBD",
+  "poster_size_cm" : "TBD",
+  "poster_paper" : " light weight paper - not laminated",
+
+
+
+  "people" :
+        {
+
+            "Margaux Luck" :        {"img": "img/margaux.jpg",  "affiliation":"Mila"},
+            "Jonnie Penn" :         {"img": "img/jonnie.jpg",   "affiliation":"University of Cambridge"},
+            "Tristan Sylvain" :     {"img": "img/tristan.jpg",  "affiliation":"Mila"},
+            "Geneviève Boucher" :   {"img": "img/genevieve.jpg",  "affiliation":"IRIC"},
+            "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
+            "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
+            "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
+            "Fei Fang" :            {"img": "img/fei_fang.jpg",  "affiliation":"Carnegie Mellon University"}, 
+            "Joseph Bullock" :      {"img": "img/JBullock.jpg",  "affiliation":"UN Global Pulse / Durham University"},
+            "Brian Green" :         {"img": "img/BrianPatrickGreen.gif",  "affiliation":"Santa Clara University"},
+            "Dhaval Adjodah" :      {"img": "img/Dhaval.jpeg",  "affiliation":"MIT"},
+            "Jack Clark" :          {"img": "img/missing.jpg",  "affiliation":"OpenAI"},
+            "Sydney Swaine-Simon" :  {"img": "img/sydney.jpg",  "affiliation":"District 3"},
+            "Girmaw Abebe Tadesse" :  {"img": "img/grimaw_abebe.jpg",  "affiliation":"University of Oxford"},
+            "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
+            "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
+            "Anna Bethke" :         {"img": "img/anna.jpg",  "affiliation":"Intel AI"}
+
+
+        },
+ 
+
+
+"logos" : {
+
+    "mila" :       {"img":"other-logos/mila.png", "link":""}
+    },
+
+  "sponsors" : {
+    
+    "organizer" : ["mila"]
+   
+  }
+ },
+
+"organizers" : {
+
+    "chair" :
+        {
+            "Producing Good Track" :                        ["Fei Fang", "Joseph Bullock"],
+            "From Malicious Use to Responsible AI Track" : ["Marc-Antoine Dilhac", "Brian Green"],
+            "Public Policy Track" :             [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
+            "General" :       ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Geneviève Boucher","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
+        }
+    },
+
+ "schedule" : {
+
+        "schedule_items_dir" : "../schedule-items",
+        "schedule_date" : ["TBD"],
+
+        "talks" :{
+            "TBD" : [
+              {"id": "aisg_neurips2019_0",  "time": "", "speaker_name": []}
+                
+
+            ]
+        }
+
+    },
+  "acceptedpapers_track1" : {
+
+    "papers_dir" : "../accepted/track1",
+    "papers_pdf_link" : "accepted/track1/pdfs",
+    "posters_pdf_link" : "accepted/track1/posters"
+
+  },
+
+  "acceptedpapers_track2" : {
+
+    "papers_dir" : "../accepted/track2",
+    "papers_pdf_link" : "accepted/track2/pdfs",
+    "posters_pdf_link" : "accepted/track2/posters"
+
+  },
+  "acceptedpapers_track3" : {
+
+    "papers_dir" : "../accepted/track3",
+    "papers_pdf_link" : "accepted/track3/pdfs",
+    "posters_pdf_link" : "accepted/track3/posters"
+
+  }
+
+}

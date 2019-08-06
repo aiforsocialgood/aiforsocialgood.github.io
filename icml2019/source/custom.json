@@ -13,11 +13,11 @@
 
   "year" : "2019",
   "workshop_date": "June 15th, 2019" ,
-  "workshop_room": "Room TBD",
-  "workshop_from": "9:00 AM",
+  "workshop_room": "Room 104 B",
+  "workshop_from": "8:30 AM",
   "workshop_until": "6:00 PM",
   "workshop_day_litteral" : "15th",
-  "workshop_date_with_day" : "Friday June 15th",
+  "workshop_date_with_day" : "Saturday June 15th",
   "workshop_abbr" : "AISG",
   "workshop_name" : "AI for Social Good",
   "workshop_mailto" : "aisg2019.icml.contact@gmail.com",
@@ -30,16 +30,18 @@
   "submission_deadline_date" : "April 26th 2019",
   "deadline_hour" : "11:59PM ET",
   "notification_pre_selected" : "April 30th 2019",
-  "notification_date" : "May 15th 2019",
-  "cameraready_date" : "May 26th 2019",
+  "notification_date" : "May 18th 2019",
+  "cameraready_date" : "May 31st 2019",
+  "poster_date" : "June 7th 2019",
 
   "submission_link":"https://cmt3.research.microsoft.com/AISGW2019",
   "overleaf_template_link" : "https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc",
   "proposal_template_link" : "https://www.overleaf.com/read/zkgnfwhtnnjz",
   "proposal_ps_form": "https://docs.google.com/document/d/1awBHeyGqzJhhEk_Ga8ewoampJoEfmMyAYkW5ekxhQP4/edit?usp=sharing",
   "screen_size" : "TBD",
-  "poster_size_inches" : "TBD W x TBD H inches",
-  "poster_size_cm" : "TBD W x TBD H cm",
+  "poster_size_inches" : "36 W x 48 H inches",
+  "poster_size_cm" : "90 W x 122 H cm",
+  "poster_paper" : " light weight paper - not laminated",
 
 
 
@@ -57,10 +59,48 @@
             "Kris Sankaran":        {"img": "img/kris.jpg",       "affiliation":"Mila"},
             "Rayid Ghani":          {"img": "img/Rayid-Ghani.jpg", "affiliation":"University of Chicago"},
             "Lester Mackey":        {"img": "img/lester_mackey.jpg", "affiliation": "Microsoft Research New England"},
-            "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"}
+            "Florian Golemo":       {"img": "img/florian.jpg", "affiliation": "University of Montreal"},
+            "Lily Hu" :             {"img": "img/Lily.jpg", "affiliation": "Salesforce Research"},
+            "Simon Blackburn":      {"img": "img/simon_blackburn.jpg", "affiliation":"Mila"},
+            "Mathieu Germain":      {"img": "img/mathieu_germain.jpg", "affiliation":"Mila"},
+            "Neama Dadkhahnikoo":   {"img": "img/neama_dadkhahnikoo.jpg",  "affiliation":"XPRIZE Foundation "},
+            "Abhishek Gupta":       {"img": "img/abhishek.jpg", "affiliation":"Microsoft and Montreal AI Ethics Institute"},
+            "Girmaw Abebe Tadesse": {"img": "img/photo_ga.jpg", "affiliation":"University of Oxford"},
+            "Krzysztof Jerzy Geras": {"img": "img/krzysztof.jpg", "affiliation": "New York University"},
+            "Nan Wu":                {"img": "img/Nan.jpg", "affiliation":"New York University"},
+            "Mwiza Simbeye":         {"img": "img/missing.jpg", "affiliation":"AgriPredict"},
+            "Phebe Vayanos":         {"img": "img/phebe.jpg", "affiliation":"University of Southern California"},
+            "Emma Beauxis-Aussalet": {"img": "img/emma_beauxis.jpg", "affiliation":"Amsterdam University of Applied Science"},
+            "Sonam Damani":          {"img": "img/sonam_damani.jpg", "affiliation":"Microsoft"},
+            "Padmanabhan Anandan":   {"img": "img/anandan.jpg", "affiliation":"Wadhwani Institute of Artificial Intelligence"},
+            "Katie Spoon":           {"img": "img/katie_spoon.png", "affiliation":"Indiana University"}, 
+            "Scott Weichenthal" :    {"img": "img/AI4SG_ScottWeichenthal.jpeg", "affiliation":"McGill University"}, 
+            "Kris Y Hong" :          {"img": "img/AI4SG_KrisYHong.jpg", "affiliation":"McGill University"}, 
+            "Pedro O Pinheiro":      {"img": "img/AI4SG_PedroOPinheiro.png", "affiliation":"Element AI"},
+            "Daniel Sheldon":        {"img": "img/daniel_sheldon.jpg", "affiliation":"University of Massachusetts Amherst & Mount Holyoke College"},
+            "Alejandro (Alex) Jaimes":   {"img": "img/alex_jaimes.jpg", "affiliation":"Dataminr"},
+            "Ananth Balashankar" :       {"img": "img/ananth.jpg", "affiliation":"NYU, Google AI"},
+            "Mwiza Simbeye" :            {"img": "img/mwiza_simbeye.jpg", "affiliation":"African Leadership University"},
+            "Luke Stark" :               {"img": "img/LukeStark.jpeg", "affiliation":"Microsoft Research"},
+            "William High" :             {"img": "img/WilliamHigh.png", "affiliation":"Joymode"},
+            "Wondimagegnhue Tsegaye" :             {"img": "img/wende.png", "affiliation":"Addis Ababa University"},
+            "Peter Eckersley" :   {"img": "img/Peter_Eckersley.jpg", "affiliation":"Partnership on AI"},
+            "Narmada Balasooriya" : {"img" : "img/Narmada.jpg", "affiliation":"ConscientAI Labs"}
+        },
+ 
 
-        }
-  },
+
+"logos" : {
+
+    "mila" :       {"img":"other-logos/mila.png", "link":""}
+    },
+
+  "sponsors" : {
+    
+    "organizer" : ["mila"]
+   
+  }
+ },
 
 "organizers" : {
 
@@ -70,6 +110,8 @@
             "Paper Review and Call for Paper Chairs" : ["Tristan Sylvain", "Kris Sankaran", "Girmaw Abebe Tadesse"],
             "Sponsor and Finance Chairs" :             ["Myriam Côté", "Sean McGregor", "Virgile Sylvain"],
             "Communication and Website Chairs" :       ["Margaux Luck", "Geneviève Boucher"],
+            "Area Chairs" :                            ["Simon Blackburn","Mathieu Germain", "Lily Hu",
+                                                        "Abhishek Gupta","Neama Dadkhahnikoo", "Florian Golemo"],
             "Logistics Chairs" :                       ["Margaux Luck", "Kris Sankaran"],
             "Scientific Chairs" :                      ["Lester Mackey", "Rayid Ghani", "Yoshua Bengio"],
             "Program Committee" :                      ["Margaux Luck", "Tristan Sylvain", "Kris Sankaran",
@@ -83,12 +125,39 @@
  "schedule" : {
 
         "schedule_items_dir" : "../schedule-items",
-        "schedule_date" : ["Friday June 14th"],
-
+        "schedule_date" : ["Saturday June 15th"],
+        "schedule_video_link": "https://icml.cc/Conferences/2019/Schedule?showParentSession=3505",
 
         "talks" :{
-            "Friday June 14th" : [
-                {"time" : "9:00", "speaker_name": "Yoshua Bengio"}
+            "Saturday June 15th" : [
+                {"id": "aisg_icml2019_0",  "time": "8:45 - 9:00", "speaker_name": []},
+                {"id": "aisg_icml2019_OR", "time": "9:00 - 9:05", "speaker_name": ["Yoshua Bengio"]},
+                {"id": "aisg_icml2019_10", "time": "9:05 - 9:45", "speaker_name": ["Padmanabhan Anandan"]},
+                {"id": "aisg_icml2019_AI", "time": "9:45 - 9:50", "speaker_name": ["Yoshua Bengio"]},
+                {"id": "aisg_icml2019_8",  "time": "9:50 - 10:00", "speaker_name": ["Kris Sankaran"]},
+                {"id": "aisg_icml2019_7",  "time": "10:00 - 10:10", "speaker_name": ["Emma Beauxis-Aussalet"]},
+                {"id": "aisg_icml2019_15", "time": "10:10 - 10:20", "speaker_name": ["Wondimagegnhue Tsegaye"]},
+                {"id": "aisg_icml2019_16", "time": "10:20 - 10:30", "speaker_name": ["Narmada Balasooriya"]},
+                {"id": "aisg_icml2019_PS2","time": "10:30 - 11:00", "speaker_name": []},
+                {"id": "aisg_icml2019_11", "time": "11:00 - 11:40", "speaker_name": ["Daniel Sheldon"]},
+                {"id": "aisg_icml2019_3",  "time": "11:40 - 11:50", "speaker_name": ["Sonam Damani"]},
+                {"id": "aisg_icml2019_1",  "time": "11:50 - 12:00", "speaker_name": ["Krzysztof Jerzy Geras","Nan Wu"]},
+                {"id": "aisg_icml2019_Lunch",  "time": "12:00 - 14:00", "speaker_name": []},
+                {"id": "aisg_icml2019_12",     "time": "14:00 - 14:30", "speaker_name": ["Luke Stark"]},
+                {"id": "aisg_icml2019_13",     "time": "14:30 - 15:00", "speaker_name": ["William High"]},
+                {"id": "aisg_icml2019_PS2",     "time": "15:00 - 15:30", "speaker_name": []},
+                {"id": "aisg_icml2019_PS", "time": "15:30 - 15:50", "speaker_name": []},
+                {"id": "aisg_icml2019_14", "time": "15:50 - 16:20", "speaker_name": ["Peter Eckersley"]},
+                {"id": "aisg_icml2019_2", "time": "16:20 - 16:30", "speaker_name": ["Kris Y Hong"]},
+                {"id": "aisg_icml2019_4", "time": "16:30 - 16:40", "speaker_name": ["Ananth Balashankar"]},
+                {"id": "aisg_icml2019_5", "time": "16:40 - 16:50", "speaker_name": ["Alejandro (Alex) Jaimes"]},
+                {"id": "aisg_icml2019_6", "time": "16:50 - 17:00", "speaker_name": ["Katie Spoon"]},
+                {"id": "aisg_icml2019_9", "time": "17:00 - 17:30", "speaker_name": ["Phebe Vayanos"]},
+                {"id": "aisg_icml2019_End", "time": "17:30 - 17:40", "speaker_name": []}
+
+                
+               
+            
 
             ]
         }
@@ -97,7 +166,17 @@
   "acceptedpapers" : {
 
     "papers_dir" : "../accepted/track1",
-    "papers_pdf_link" : "accepted/track1/pdfs"
+    "papers_pdf_link" : "accepted/track1/pdfs",
+    "posters_pdf_link" : "accepted/track1/posters"
+
+  },
+
+  "proposals" : {
+
+    "papers_dir" : "../accepted/track2",
+    "papers_pdf_link" : "accepted/track2/pdfs",
+    "posters_pdf_link" : "accepted/track2/posters"
+
   }
 
 }
