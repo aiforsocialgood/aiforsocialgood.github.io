@@ -27,7 +27,7 @@
   "workshop_tracks" : {"track1" : ["Track 1", "Producing Good Outcomes"],
                        "track2" : ["Track 2", "From malicious use to responsible AI"],
                        "track3" : ["Track 3", "Public Policy"]
-  
+
   },
 
   "workshop_talk_duration" : "TBD minutes",
@@ -62,20 +62,20 @@
             "Sean McGregor" :       {"img": "img/sean.jpg",     "affiliation":"IBM Watson AI XPRIZE"},
             "Yoshua Bengio" :       {"img": "img/yoshua.jpg",   "affiliation":"Mila"},
             "Myriam Côté" :         {"img": "img/myriam.jpg",   "affiliation":"Mila"},
-            "Fei Fang" :            {"img": "img/fei_fang.jpg",  "affiliation":"Carnegie Mellon University"}, 
+            "Fei Fang" :            {"img": "img/fei_fang.jpg",  "affiliation":"Carnegie Mellon University"},
             "Joseph Bullock" :      {"img": "img/JBullock.jpg",  "affiliation":"UN Global Pulse / Durham University"},
             "Brian Green" :         {"img": "img/BrianPatrickGreen.gif",  "affiliation":"Santa Clara University"},
             "Dhaval Adjodah" :      {"img": "img/Dhaval.jpeg",  "affiliation":"MIT"},
-            "Jack Clark" :          {"img": "img/missing.jpg",  "affiliation":"OpenAI"},
+            "Jack Clark" :          {"img": "img/jack.jpg",  "affiliation":"OpenAI"},
             "Sydney Swaine-Simon" :  {"img": "img/sydney.jpg",  "affiliation":"District 3"},
             "Girmaw Abebe Tadesse" :  {"img": "img/grimaw_abebe.jpg",  "affiliation":"University of Oxford"},
-            "Marc-Antoine Dilhac" : {"img": "img/missing.jpg",  "affiliation":"Unversity of Montreal"},
+            "Marc-Antoine Dilhac" : {"img": "img/marc_antoine.jpeg",  "affiliation":"Unversity of Montreal"},
             "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
             "Anna Bethke" :         {"img": "img/anna.jpg",  "affiliation":"Intel AI"}
 
 
         },
- 
+
 
 
 "logos" : {
@@ -84,9 +84,9 @@
     },
 
   "sponsors" : {
-    
+
     "organizer" : ["mila"]
-   
+
   }
  },
 
@@ -109,7 +109,7 @@
         "talks" :{
             "TBD" : [
               {"id": "aisg_neurips2019_0",  "time": "", "speaker_name": []}
-                
+
 
             ]
         }
