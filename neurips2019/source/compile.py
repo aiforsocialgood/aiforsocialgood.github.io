@@ -19,7 +19,7 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
     filenames = [f for f in filenames if '.txt' in f]
 
     for filename in filenames:
-        
+
         id = filename.split('_')[0]
         name = filename.split('.')[0]
 
@@ -29,9 +29,9 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
         # all files need to have the same number of elements
 
         toks = [l.strip().split(':') for l in lines]
-        
+
         infos = dict([(t[0], ':'.join(t[1:])) for t in toks])
-        
+
         # information not in the file
         if "pdf" not in infos.keys():
             infos["pdf"] = '{}/{}.pdf'.format(papers_pdf_link, name)
@@ -50,7 +50,7 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
         papers.append(infos)
 
     papers =  sorted(papers, key=lambda k: int(k['id']))
-    
+
     # Sort by category
     papers =  sorted(papers, key=lambda k: k.get('category', ''))
     papers =  sorted(papers, key=lambda k: k.get('tag', ''))
@@ -79,9 +79,8 @@ custom = json.loads(open('custom.json').read())
 # Get all pages
 # Need to add all pages that need to be processed/created
 pages = ['home', 'schedule',
-            'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3', 
-            'cfp', 'organizers',
-            'guidelines_areachairs', 'guidelines_reviewers',
+            'acceptedpapers_track1', 'acceptedpapers_track2', 'acceptedpapers_track3',
+            'cfp', 'organizers', 'guidelines',
             'pastworkshops', 'futureworkshops',
             'faq_general', 'faq_reviewers', 'faq_fundings',
             'faq_submission'
@@ -92,7 +91,7 @@ for page_name in pages:
     attributes = custom['default'].copy()
     attributes.update(custom.get(page_name, {}))
 
-    
+
     html = """<%include file="header"/>
               <%include file="{}"/>
               <%include file="footer"/>""".format(page_name)

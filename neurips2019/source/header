@@ -81,7 +81,7 @@ function pageScript(tomatch){
         </ul>
       </span>
 
-          <a class="blog-nav-item" href="guidelines_reviewers.htm">Guidelines</a>
+          <a class="blog-nav-item" href="guidelines.htm">Guidelines</a>
 
         <span class="dropdown">
         <a class="blog-nav-item dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">
@@ -91,7 +91,7 @@ function pageScript(tomatch){
         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
           <li><a id="dropdownMenu2_item1" href="organizers.htm">Organizers</a></li>
           <li><a id="dropdownMenu2_item2" href="pastworkshops.htm">Past Workshops</a></li>
-         
+
         </ul>
       </span>
 

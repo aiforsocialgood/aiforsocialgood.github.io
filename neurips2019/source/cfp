@@ -72,11 +72,6 @@ Poster Paper: ${poster_paper}
 <b><i>Important dates</i></b><br>
 <div class="row" style='padding-left:15px;'>
 <span class="col-sm">
-Submissions open:</span>
-<span class='col-sm' style="float:right;">${submission_open_date}</span>
-</div>
-<div class="row" style='padding-left:15px;'>
-<span class="col-sm">
 Deadline for submissions: </span>
 <span class='col-sm' style="float:right;">${submission_deadline_date}</span>
 </div>
