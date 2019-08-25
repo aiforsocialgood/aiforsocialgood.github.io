@@ -1,0 +1,62 @@
+      <div class="blog-header">
+        <h1 class="blog-title">Guidelines</h1>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+          <div class="blog-post" style="text-align: justify;">
+
+            <p>
+
+<div id="guidelines">
+
+
+<div id="reviewers" class="faq">
+
+
+<h2>Conflict of Interests</h2>
+
+To make the review process fair and free of conflicts of interest, we will recruit a diverse pool of reviewers and Area Chairs (ACs) and commit to ensuring no conflicts in paper assignments as stated in the guidelines.
+<br><br>
+
+The reviewing process will be double-blind and will be administered through Microsoft CMT. Many of the mechanisms to filter out conflict of interests are built into CMT, and area chairs will additionally confirm that no conflict of interests exist before the review process starts.
+<br><br>
+
+Conflicts of interest include (but are not limited to) situations in which:
+<ul>
+<li> The reviewers work at the same institution as one of the authors.
+<li> The reviewers have been directly involved in the work and will be receiving credit in some way. If they are a member of the author's thesis committee, and the
+paper is about his or her thesis work, then the reviewers were involved.
+<li> The reviewers suspect that others might see a conflict of interest in your
+involvement.
+<li> The reviewers have collaborated with one of the authors in the past three years
+(more or less). Collaboration is usually defined as having written a paper or grant
+proposal together, although you should use your judgment.
+<li> The reviewers were the MS/PhD advisor of one of the authors or the MS/PhD
+advisee of one of the authors. Most funding agencies and publications typically
+consider advisees to represent a lifetime conflict of interest.
+<li> If the reviewers recognize the work or the author and feel it could present a
+conflict of interest, they will be asked to contact the Area Chair using CMT as
+soon as possible so he or she can find someone else to review it.
+</ul>
+<br>
+
+On top of the automatic (by CMT) and manual (by ACs) management of conflict of interests, reviewers will be asked that if they are assigned a paper where their review would create a possible conflict of interest, they should return the paper and not submit a review.
+<br><br>
+
+<h2>FAQs</h2>
+
+<%include file="faq_reviewers_q"/>
+
+<a href="#guidelines"><em>Back to top</em></a>
+
+
+
+</div>
+</div>
+
+
+
+
+         </p>
+          </div><!-- /.blog-post -->

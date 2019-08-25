@@ -10,7 +10,7 @@
           <div class="blog-post" style="text-align: justify;">
 
             <p>
-            
+
 <a href='faq_general.htm' style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">Workshop</span></a>
 <a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Fundings</span></a>
 <a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
@@ -21,8 +21,8 @@
 
 
 
-<%include file="faq_reviewers_q"/>
+<%include file="faq_submission_q"/>
 
-            
+
             </p>
           </div><!-- /.blog-post -->
