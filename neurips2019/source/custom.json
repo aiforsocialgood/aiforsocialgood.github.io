@@ -80,12 +80,13 @@
 
 "logos" : {
 
-    "mila" :       {"img":"other-logos/mila.png", "link":""}
+    "mila" :       {"img":"other-logos/mila.png", "link":"https://mila.quebec/en/"},
+    "xprize" :       {"img":"other-logos/XPrize_Logo_black.png", "link":"https://www.xprize.org"}
     },
 
   "sponsors" : {
 
-    "organizer" : ["mila"]
+    "organizer" : ["mila", "xprize"]
 
   }
  },
