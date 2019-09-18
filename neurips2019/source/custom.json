@@ -13,12 +13,12 @@
   "conference_onsite_map": "https://www.google.com/maps/place/Vancouver+Convention+Centre+East/@49.2881789,-123.1146601,17z/data=!3m2!4b1!5s0x5486719d2fa2d817:0x8744a3435e0647f2!4m5!3m4!1s0x548671836a6e5787:0xd3c5f7bc5d72768d!8m2!3d49.2881789!4d-123.1124661",
 
   "year" : "2019",
-  "workshop_date": "December 13th or 14th, 2019" ,
+  "workshop_date": "Sat Dec 14th" ,
   "workshop_room": "Room TBD",
-  "workshop_from": "8:30 AM",
+  "workshop_from": "8:00 AM",
   "workshop_until": "6:00 PM",
-  "workshop_day_litteral" : "13th",
-  "workshop_date_with_day" : "Friday December 13th or Saturday December 14th",
+  "workshop_day_litteral" : "14th",
+  "workshop_date_with_day" : "Saturday December 14th",
   "workshop_abbr" : "AISG",
   "workshop_short" : "AI for Social Good",
   "workshop_name" : "Joint Workshop on AI for Social Good",
@@ -37,7 +37,7 @@
   "submission_deadline_date" : "September 6th",
   "deadline_hour" : "11:59PM PST",
   "notification_pre_selected" : "TBD",
-  "notification_date" : "September 24th",
+  "notification_date" : "September 28th",
   "cameraready_date" : "November 17th",
   "poster_date" : "November 17th",
 
@@ -109,7 +109,7 @@
 
         "talks" :{
             "TBD" : [
-              {"id": "aisg_neurips2019_0",  "time": "", "speaker_name": []}
+              {"id": "aisg_neurips2019_0",  "time": "8:00AM-6:00PM", "speaker_name": []}
 
 
             ]
