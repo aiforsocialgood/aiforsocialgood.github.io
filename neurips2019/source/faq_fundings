@@ -10,18 +10,15 @@
           <div class="blog-post" style="text-align: justify;">
 
             <p>
-            
+
 <a href='faq_general.htm' style="text-decoration: none;cursor:pointer;"><span class="label label-faq label-default">Workshop</span></a>
-<a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Fundings</span></a>
+<a href='faq_fundings.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-current">Funding</span></a>
 <a href='faq_reviewers.htm' style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Reviewers</span></a>
 <a href='faq_submission.htm'" style="text-decoration: none;cursor:pointer;" ><span class="label label-faq label-default">Submission</span></a>
 <br><br>
-<h3>Fundings Related Questions </h3> <br>
+<h3>Funding Related Questions </h3> <br>
 
 <%include file="faq_fundings_q"/>
-            
+
             </p>
           </div><!-- /.blog-post -->
-
-
-
