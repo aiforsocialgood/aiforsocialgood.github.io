@@ -25,7 +25,7 @@ def getAcceptedPapers(papers_dir, papers_pdf_link, posters_pdf_link):
 
         finput = open('{}/{}'.format(papers_dir, filename))
         lines = finput.readlines()
-        #print(lines)
+        # print(lines)
         # all files need to have the same number of elements
 
         toks = [l.strip().split(':') for l in lines]
