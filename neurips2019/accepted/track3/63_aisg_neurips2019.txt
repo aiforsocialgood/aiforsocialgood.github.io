@@ -1,0 +1,4 @@
+title:Learning Fair Classifiers in Online Stochastic Setting
+authors:Yi Sun (MIT); Kalyan Veeramachaneni (MIT); Ivan Ramírez (Universidad Rey Juan Carlos); Alfredo Cuesta Infante (Universidad Rey Juan Carlos)
+category:poster, oral
+tag:

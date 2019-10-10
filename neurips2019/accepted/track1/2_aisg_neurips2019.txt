@@ -1,0 +1,4 @@
+title:Detecting Endangered Baleen Whales within Acoustic Recordings using Region-based Convolutional Neural Networks
+authors:Mark DJ Thomas (Dalhousie University); Bruce Martin (Jasco Applied Sciences); Katie Kowarski (Jasco Applied Science); Briand Gaudet (Jasco Applied Sciences); Stan Matwin (Dalhouise University)
+category:poster
+tag:

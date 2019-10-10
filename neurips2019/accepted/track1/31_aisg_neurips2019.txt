@@ -1,0 +1,4 @@
+title:Large-Scale Landslides Detection from Satellite Images with Incomplete Labels
+authors:Masanari Kimura (Ridge-i inc.)
+category:poster
+tag:

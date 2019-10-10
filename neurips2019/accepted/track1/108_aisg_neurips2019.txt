@@ -1,0 +1,4 @@
+title:Zero-Shot Transfer Learning to Enhance Communication for Minimally Verbal Individuals with Autism using Naturalistic Data
+authors:Jaya Narain (MIT Media Lab); Kristina Johnson (MIT Media Lab)
+category:poster
+tag:

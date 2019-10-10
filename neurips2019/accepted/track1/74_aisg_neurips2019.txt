@@ -1,0 +1,4 @@
+title:Balancing Competing Objectives for Welfare-Aware Machine Learning with Imperfect Data
+authors:Esther Rolf (UC Berkeley); Max Simchowitz (UC Berkeley); Sarah Dean (UC Berkeley); Lydia T. Liu (UC Berkeley); Daniel Bjorkegren (Brown University); Moritz Hardt (UC Berkeley); Joshua  Blumenstock (UC Berkeley)
+category:poster, oral
+tag:

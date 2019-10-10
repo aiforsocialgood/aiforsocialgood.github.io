@@ -1,0 +1,4 @@
+title:A Knowledge Graph Based Health Assistant
+authors:Lin Bo (Didi chuxing); wenjuan luo (AI Labs, Didi Chuxing, Beijing, China); Zang Li (AI Labs, Didi Chuxing, Beijing, China); Xiaoqing Yang (AI Labs, Didi Chuxing, Beijing, China); Han Zhang (Didi Chuxing); Daxin Zheng (Didi Chuxing)
+category:poster
+tag:

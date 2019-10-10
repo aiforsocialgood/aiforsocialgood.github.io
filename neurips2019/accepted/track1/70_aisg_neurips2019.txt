@@ -1,0 +1,4 @@
+title:Conditional Denoising of Remote Sensing Imagery Using Cycle-Consistent Deep Generative Models
+authors:Michael Zotov (Cervest Ltd); Jevgenij Gamper (Cervest Ltd.)
+category:poster
+tag:

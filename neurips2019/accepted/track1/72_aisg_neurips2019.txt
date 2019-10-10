@@ -1,0 +1,4 @@
+title:Finding Social Media Trolls:Dynamic Keyword Selection Methods forRapidly-Evolving Online Debate
+authors:Anqi Liu (California Institute of Technology); Maya S Srikanth (California Institute of Technology); Nicholas Adams-Cohen (Stanford University);  R. Michael Alvarez (Caltech); Animashree Anandkumar (Caltech)
+category:poster
+tag:

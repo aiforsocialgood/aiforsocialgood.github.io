@@ -1,0 +1,4 @@
+title:Experiments on Detecting Persuasion Techniques in News
+authors:Giovanni Da San Martino (Qatar Computing Research Institute); Seunghak Yu (Massachusetts Institute of Technology); Preslav Nakov (Qatar Computing Research Institute)
+category:poster
+tag:
