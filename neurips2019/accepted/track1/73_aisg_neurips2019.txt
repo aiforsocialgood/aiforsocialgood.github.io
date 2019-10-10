@@ -1,0 +1,4 @@
+title:Supporting Civilian Protection: A Machine Learning System for Detecting Evidence of Airstrikes on Social Media
+authors:Rickard Nyman (Hala Systems); Franz Busse (Hala Systems); David Levin (Hala Systems); Daniel Henebery (Hala Systems)
+category:poster
+tag:

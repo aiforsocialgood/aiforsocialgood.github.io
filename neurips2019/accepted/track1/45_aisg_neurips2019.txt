@@ -1,0 +1,4 @@
+title:Dilated LSTM with ranked units for Classification of suicide note
+authors:Annika Marie  Schoene (University of Hull); Alexander P Turner (University of Hull); Nina Dethlefs (University of Hull)
+category:poster, oral
+tag:

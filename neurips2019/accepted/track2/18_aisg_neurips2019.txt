@@ -1,0 +1,4 @@
+title:The tension between openness and prudence in responsible AI research
+authors:Jess Whittlestone (University of Cambridge); Aviv Ovadya (The Thoughtful Technology Project)
+category:poster
+tag:

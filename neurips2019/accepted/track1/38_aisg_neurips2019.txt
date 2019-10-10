@@ -1,0 +1,4 @@
+title:Ideological Drifts in the U.S. Constitution: Detecting Areas of Contention with Models of Semantic Change
+authors:Abdul Abdulrahim (University of Oxford)
+category:poster
+tag:

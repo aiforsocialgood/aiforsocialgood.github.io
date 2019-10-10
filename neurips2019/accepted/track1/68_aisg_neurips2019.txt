@@ -1,0 +1,4 @@
+title:Objects of violence: synthetic data for practical ML in human rights investigations
+authors:Lachlan Kermode (Forensic Architecture); Alican Akturk (Forensic Architecture); Jan Freyberg (Element AI); Robert Trafford (Forensic Architecture); Denis Kochetkov (Element AI); Rafael Pardinas (Element AI); Eyal Weizman (Forensic Architecture); Julien Cornebise (Element AI)
+category:poster
+tag:

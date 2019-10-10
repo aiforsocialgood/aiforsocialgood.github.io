@@ -1,0 +1,4 @@
+title:Groundwater Monitoring Using Handpump Vibration Data for Rural Africa
+authors:Achut Manandhar (University of Oxford); Heloise Greeff (University of Oxford); Patrick Thomson (University of Oxford); Rob Hope (University of Oxford); David Clifton (University of Oxford)
+category:poster
+tag:

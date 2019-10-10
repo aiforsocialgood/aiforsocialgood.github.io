@@ -1,0 +1,4 @@
+title:Inferring Crop Pests and Diseases from Imagery Soil Data and Soil Properties
+authors:Ssekiwere Bruno; Babirye Claire
+category:poster
+tag:

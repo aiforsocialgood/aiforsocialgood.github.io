@@ -1,0 +1,4 @@
+title:Assessing Viewer’s Mental Health by Detecting Depression inYouTube Videos
+authors:Shanya Sharma (SAP LABS); Manan Dey (SAP LABS)
+category:poster
+tag:

@@ -1,0 +1,4 @@
+title:Korean Localization of Visual Question Answering for Blind People
+authors:Jin-Hwa Kim (SK T-Brain); Soohyun Lim (SK T-Brain); Jaesun Park (SK T-Brain); Hansu Cho (SK T-Brain)
+category:poster
+tag:

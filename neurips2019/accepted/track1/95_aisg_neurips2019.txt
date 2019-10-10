@@ -1,0 +1,4 @@
+title:Taking a Stance on Fake News: Towards Automatic Disinformation Assessment via Deep Bidirectional Transformer Language Models for Stance Detection
+authors:Chris Dulhanty (University of Waterloo); Jason  Deglint (University of Waterloo); Ibrahim Ben Daya (University of Waterloo); Alexander Wong (University of Waterloo)
+category:poster
+tag:

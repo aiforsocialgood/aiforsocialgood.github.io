@@ -1,0 +1,4 @@
+title:Women, politics and Twitter: Using machine learning to change the discourse
+authors:Lana Cuthbertson (ParityYEG); Alex K Kearney (University of Alberta); T. Riley Dawson (University of Alberta); Ashia Zawaduk (Dev Edmonton Society); Eve Cuthbertson (University of Toronto); Ann Gordon-Tighe (University of Alberta); Kory W Mathewson (University of Alberta)
+category:poster
+tag:

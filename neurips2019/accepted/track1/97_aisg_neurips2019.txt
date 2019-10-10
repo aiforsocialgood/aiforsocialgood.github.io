@@ -1,0 +1,4 @@
+title:Can We (and Should We) Use AI to Detect Dyslexia in Children’s Handwriting?
+authors:Katie Spoon (Indiana University Bloomington)
+category:poster
+tag:

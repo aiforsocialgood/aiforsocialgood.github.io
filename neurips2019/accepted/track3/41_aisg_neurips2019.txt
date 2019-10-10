@@ -1,0 +1,4 @@
+title:The Effects of Competition and Regulation on Fairness in Data-Driven Markets
+authors:Hadi Elzayn (University of Pennsylvania); Benjamin Fish (MSR)
+category:poster, oral
+tag:

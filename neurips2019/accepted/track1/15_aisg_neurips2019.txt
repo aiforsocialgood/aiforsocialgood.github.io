@@ -1,0 +1,4 @@
+title:A sparse, data-efficient ECG representation is predictive of myocardial infarction without expert knowledge
+authors:Sunayana Rane (MIT)
+category:poster
+tag:
