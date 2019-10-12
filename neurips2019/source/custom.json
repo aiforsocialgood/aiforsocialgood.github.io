@@ -82,12 +82,13 @@
 
     "mila" :       {"img":"other-logos/mila.png", "link":"https://mila.quebec/en/"},
     "xprize" :       {"img":"other-logos/XPrize_Logo_black.png", "link":"https://www.xprize.org"},
-    "ivado" :       {"img":"other-logos/ivado.png", "link":"https://www.ivado.ca"}
+    "ivado" :       {"img":"other-logos/ivado.png", "link":"https://www.ivado.ca"},
+    "intelai" :       {"img":"other-logos/intelai.jpg", "link":"https://www.intel.ai"}
     },
 
   "sponsors" : {
-
-    "organizer" : ["mila", "xprize", "ivado"]
+    "sponsor" : ["xprize", "intelai", "ivado"],
+    "organizer" : ["mila" ]
 
   }
  },
