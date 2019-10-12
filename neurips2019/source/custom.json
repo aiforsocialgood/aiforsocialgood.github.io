@@ -21,7 +21,7 @@
   "workshop_date_with_day" : "Saturday December 14th",
   "workshop_abbr" : "AISG",
   "workshop_short" : "AI for Social Good",
-  "workshop_name" : "Joint Workshop on AI for Social Good",
+  "workshop_name" : "NeurIPS Joint Workshop on AI for Social Good",
   "workshop_mailto" : "aisg2019.neurips.contact@gmail.com",
   "workshop_website" : "https://aiforsocialgood.github.io/neurips2019",
   "workshop_tracks" : {"track1" : ["Track 1", "Producing Good Outcomes"],
@@ -87,7 +87,8 @@
     },
 
   "sponsors" : {
-    "sponsor" : ["xprize", "intelai", "ivado"],
+    "advocate" : ["xprize", "intelai"],
+    "sponsor" : ["ivado"],
     "organizer" : ["mila" ]
 
   }
