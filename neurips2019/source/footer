@@ -27,6 +27,17 @@
           <div class="sidebar-module">
             <h4>Sponsors</h4>
             <ol class="list-unstyled">
+             % if "sponsor" in sponsors.keys():
+              <li><br>
+                % for e in sponsors['sponsor']:
+                  <a href="${logos[e]['link']}">
+                    <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                   </img>
+                 </a>
+                 <br>
+                % endfor  
+             </li>
+             % endif
             
               
               % if "sustainer" in sponsors.keys():
@@ -50,7 +61,6 @@
                 </a>
                 <br>
               % endfor  
-             
               </li>
               % endif
 
