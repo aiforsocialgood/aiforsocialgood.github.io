@@ -71,7 +71,11 @@
             "Girmaw Abebe Tadesse" :  {"img": "img/grimaw_abebe.jpg",  "affiliation":"University of Oxford"},
             "Marc-Antoine Dilhac" : {"img": "img/marc_antoine.jpeg",  "affiliation":"Unversity of Montreal"},
             "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
-            "Anna Bethke" :         {"img": "img/anna.jpg",  "affiliation":"Intel AI"}
+            "Anna Bethke" :  {"img": "img/anna.jpg",  "affiliation":"Intel AI"},
+            "Carla Gomes" :  {"img": "img/missing.jpg",  "affiliation":"Cornell University"},
+            "Thomas G. Dietterich" :   {"img": "img/missing.jpg",  "affiliation":"Oregon State University"},
+            "Miguel Luengo-Oroz" :  {"img": "img/missing.jpg",  "affiliation":"UN Global Pulse"}
+
 
 
         },
@@ -80,10 +84,10 @@
 
 "logos" : {
 
-    "mila" :       {"img":"other-logos/mila.png", "link":"https://mila.quebec/en/"},
-    "xprize" :       {"img":"other-logos/XPrize_Logo_black.png", "link":"https://www.xprize.org"},
-    "ivado" :       {"img":"other-logos/ivado.png", "link":"https://www.ivado.ca"},
-    "intelai" :       {"img":"other-logos/intelai.jpg", "link":"https://www.intel.ai"}
+    "mila" :     {"img":"other-logos/mila.png", "link":"https://mila.quebec/en/"},
+    "xprize" :   {"img":"other-logos/XPrize_Logo_black.png", "link":"https://www.xprize.org"},
+    "ivado" :    {"img":"other-logos/ivado.png", "link":"https://www.ivado.ca"},
+    "intelai" :   {"img":"other-logos/intelai.jpg", "link":"https://www.intel.ai"}
     },
 
   "sponsors" : {
@@ -98,21 +102,33 @@
 
     "chair" :
         {
-            "Producing Good Track" :                        ["Fei Fang", "Joseph Bullock"],
+            "Producing Good Track" :  ["Fei Fang", "Joseph Bullock"],
             "From Malicious Use to Responsible AI Track" : ["Marc-Antoine Dilhac", "Brian Green"],
-            "Public Policy Track" :             [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
-            "General" :       ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Geneviève Boucher","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
+            "Public Policy Track" :    [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
+            "General" :   ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Geneviève Boucher","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
         }
     },
 
  "schedule" : {
 
         "schedule_items_dir" : "../schedule-items",
-        "schedule_date" : ["TBD"],
+        "schedule_date" : ["Saturday December 14th"],
 
         "talks" :{
-            "TBD" : [
-              {"id": "aisg_neurips2019_0",  "time": "8:00AM-6:00PM", "speaker_name": []}
+            "Saturday December 14th" : [
+              {"id": "aisg_neurips2019_1",  "time": "8:00AM-8:05AM", "speaker_name": ["Yoshua Bengio"]},
+              {"id": "aisg_neurips2019_2",  "time": "8:05AM-8:35AM", "speaker_name": ["Carla Gomes"]},
+              {"id": "aisg_neurips2019_3",  "time": "8:35AM-9:05AM", "speaker_name": ["Miguel Luengo-Oroz"]},
+              {"id": "aisg_neurips2019_4",  "time": "9:05AM-9:35AM", "speaker_name": ["Thomas G. Dietterich"]},
+              {"id": "aisg_neurips2019_5",  "time": "9:35AM-9:45AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_Morning_Break",  "time": "9:45AM-10:30AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_7",  "time": "11:00AM-11:30AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_PS",  "time": "11:30AM-12:00PM", "speaker_name": []},
+              {"id": "aisg_neurips2019_Lunch",  "time": "12:00PM-2:00PM", "speaker_name": []},
+              {"id": "aisg_neurips2019_AF_Break",  "time": "10:30AM-11:00AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_End_Hour",  "time": "6:00PM", "speaker_name": []}
+
+
 
 
             ]
