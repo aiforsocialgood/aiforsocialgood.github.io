@@ -26,12 +26,36 @@
           </div>
           <div class="sidebar-module">
             <h4>Sponsors</h4>
+
+            % if "sustainer" in sponsors.keys():
+            <li>Sustainer<br>
+              % for e in sponsors['sustainer']:
+                <a href="${logos[e]['link']}">
+                  <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                 </img>
+               </a>
+               <br>
+              % endfor  
+           </li>
+           % endif
+
             <ol class="list-unstyled">
-            
-              
-              % if "sustainer" in sponsors.keys():
-              <li>Sustainer<br>
-                % for e in sponsors['sustainer']:
+              % if "advocate" in sponsors.keys():
+                <li>Advocate<br>
+                  % for e in sponsors['advocate']:
+                    <a href="${logos[e]['link']}">
+                      <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
+                     </img>
+                   </a>
+                   <br>
+                  % endfor  
+               </li>
+               % endif
+
+
+             % if "sponsor" in sponsors.keys():
+              <li>Sponsor<br>
+                % for e in sponsors['sponsor']:
                   <a href="${logos[e]['link']}">
                     <img class="sponsorlogo" src="${logos[e]['img']}" alt="${logos[e]['img'].split('/')[-1].replace('.png', '')}">
                    </img>
@@ -40,7 +64,8 @@
                 % endfor  
              </li>
              % endif
-
+            
+              
              % if "organizer" in sponsors.keys():
               <li>Organizer<br>
                  % for e in sponsors['organizer']:
@@ -50,7 +75,6 @@
                 </a>
                 <br>
               % endfor  
-             
               </li>
               % endif
 
