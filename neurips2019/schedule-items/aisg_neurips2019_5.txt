@@ -1,2 +1,2 @@
-title: Contributing Talks 
-abstract:<br>1. <em>Increasing small holder farmer income by providing localized price forecasts</em>, presented by Vikram Sarbajna, Anitha Govindaraj<br>2. <em>Balancing Competing Objectives for Welfare-Aware Machine Learning with Imperfect Data</em>, presented by Sarah Dean
+title: Contributed talk - Balancing Competing Objectives for Welfare-Aware Machine Learning with Imperfect Data
+abstract:Presented by Sarah Dean

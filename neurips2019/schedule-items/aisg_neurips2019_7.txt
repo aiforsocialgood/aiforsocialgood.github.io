@@ -1,3 +1,2 @@
-title: Contributing Talks
-abstract:<br>3. <em>Dilated LSTM with ranked units for Classification of suicide note</em>, presented by Annika Marie Schoene <br>4. <em>Hate Speech in Pixels: Automatic Detection of Offensive Memes for Moderation</em>, presented by Benet Oriol <br>5. <em>Towards better healthcare: What could and should be automated?</em>, presented by Paul Duckworth 
-
+title: Contributed talk - Dilated LSTM with ranked units for Classification of suicide note
+abstract:Presented by Annika Marie Schoene

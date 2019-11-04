@@ -1,0 +1,2 @@
+title: Contributed talk - Towards better healthcare: What could and should be automated?
+abstract: Presented by Paul Duckworth

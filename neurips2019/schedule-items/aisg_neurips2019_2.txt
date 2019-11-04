@@ -1,2 +1,2 @@
-title: Invited Talk by Carla Gomes
+title: Invited Talk
 abstract:

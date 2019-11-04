@@ -1,2 +1,2 @@
-title: Invited Talk by Thomas Dietterich
+title: Invited Talk
 abstract:
