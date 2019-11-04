@@ -1,2 +1,2 @@
-title: Opening Remarks by Yoshua Bengio
+title: Opening Remarks
 abstract:

@@ -72,11 +72,13 @@
             "Marc-Antoine Dilhac" : {"img": "img/marc_antoine.jpeg",  "affiliation":"Unversity of Montreal"},
             "Natalie Saltiel" :     {"img": "img/missing.jpg",  "affiliation":"MIT"},
             "Anna Bethke" :  {"img": "img/anna.jpg",  "affiliation":"Intel AI"},
-            "Carla Gomes" :  {"img": "img/missing.jpg",  "affiliation":"Cornell University"},
-            "Thomas G. Dietterich" :   {"img": "img/missing.jpg",  "affiliation":"Oregon State University"},
-            "Miguel Luengo-Oroz" :  {"img": "img/missing.jpg",  "affiliation":"UN Global Pulse"}
-
-
+            "Carla P. Gomes" :  {"img": "img/Carla_P._Gomes.jpg",  "affiliation":"Cornell University"},
+            "Thomas G. Dietterich" :   {"img": "img/Thomas_G._Dietterich.jpg",  "affiliation":"Oregon State University"},
+            "Miguel Luengo-Oroz" :  {"img": "img/Miguel_Luengo-Oroz.jpg",  "affiliation":"UN Global Pulse"},
+            "Jingying Yang" : {"img": "img/Jingying_Yang.jpg",  "affiliation":"Partnership on AI"},
+            "Prem Natarajan" : {"img": "img/Prem_Natarajan.jpg",  "affiliation":"Amazon"},
+            "Xavier Giro-i-Nieto" : {"img": "img/XaviGiro.jpg",  "affiliation":"Universitat Politecnica de Catalunya"},
+            "Julien Cornebise": {"img": "img/julien.jpg",  "affiliation":" "}
 
         },
 
@@ -117,19 +119,19 @@
         "talks" :{
             "Saturday December 14th" : [
               {"id": "aisg_neurips2019_1",  "time": "8:00AM-8:05AM", "speaker_name": ["Yoshua Bengio"]},
-              {"id": "aisg_neurips2019_2",  "time": "8:05AM-8:35AM", "speaker_name": ["Carla Gomes"]},
+              {"id": "aisg_neurips2019_2",  "time": "8:05AM-8:35AM", "speaker_name": ["Carla P. Gomes"]},
               {"id": "aisg_neurips2019_3",  "time": "8:35AM-9:05AM", "speaker_name": ["Miguel Luengo-Oroz"]},
               {"id": "aisg_neurips2019_4",  "time": "9:05AM-9:35AM", "speaker_name": ["Thomas G. Dietterich"]},
               {"id": "aisg_neurips2019_5",  "time": "9:35AM-9:45AM", "speaker_name": []},
               {"id": "aisg_neurips2019_Morning_Break",  "time": "9:45AM-10:30AM", "speaker_name": []},
-              {"id": "aisg_neurips2019_7",  "time": "11:00AM-11:30AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_6",  "time": "10:30AM-11:00AM", "speaker_name": ["Carla P. Gomes", "Miguel Luengo-Oroz", "Thomas G. Dietterich", "Julien Cornebise"]},
+              {"id": "aisg_neurips2019_7",  "time": "11:00AM-11:10AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_8",  "time": "11:10AM-11:20AM", "speaker_name": ["Xavier Giro-i-Nieto"]},
+              {"id": "aisg_neurips2019_9",  "time": "11:20AM-11:30AM", "speaker_name": []},
               {"id": "aisg_neurips2019_PS",  "time": "11:30AM-12:00PM", "speaker_name": []},
               {"id": "aisg_neurips2019_Lunch",  "time": "12:00PM-2:00PM", "speaker_name": []},
-              {"id": "aisg_neurips2019_AF_Break",  "time": "10:30AM-11:00AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_AF_Break",  "time": "3:30PM-4:15PM", "speaker_name": []},
               {"id": "aisg_neurips2019_End_Hour",  "time": "6:00PM", "speaker_name": []}
-
-
-
 
             ]
         }

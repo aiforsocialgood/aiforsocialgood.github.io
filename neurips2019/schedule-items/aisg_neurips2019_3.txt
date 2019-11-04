@@ -1,2 +1,2 @@
-title: Invited Talk by Miguel Luengo-Oroz
+title: Invited Talk
 abstract:
