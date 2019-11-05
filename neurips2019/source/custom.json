@@ -81,7 +81,10 @@
             "Julien Cornebise": {"img": "img/julien.jpg",  "affiliation":" "},
             "Esther Rolf": {"img": "img/Esther_Rolf.jpg",  "affiliation":"University of California, Berkeley"},
             "Patrick Lin": {"img": "img/Patrick_Lin.jpg",  "affiliation":"California Polytechnic State University"},
-            "Nenad Tomasev": {"img": "img/Nenad_Tomasev.jpeg",  "affiliation":"Google DeepMind"}
+            "Nenad Tomasev": {"img": "img/Nenad_Tomasev.jpeg",  "affiliation":"Google DeepMind"},
+            "Micheal Running Wolf":  {"img": "img/missing.jpg",  "affiliation":" "},
+            "Rashida Richardson": {"img": "img/missing.jpg",  "affiliation":"AI Now"},
+            "Sarah Hamid": {"img": "img/missing.jpg",  "affiliation":"Community Organizer"}
 
         },
 
@@ -109,8 +112,8 @@
         {
             "Producing Good Track" :  ["Fei Fang", "Joseph Bullock"],
             "From Malicious Use to Responsible AI Track" : ["Marc-Antoine Dilhac", "Brian Green"],
-            "Public Policy Track" :    [ "Natalie Saltiel", "Dhaval Adjodah", "Jack Clark"],
-            "General" :   ["Sean McGregor","Margaux Luck","Jonnie Penn","Tristan Sylvain","Geneviève Boucher","Sydney Swaine-Simon", "Girmaw Abebe Tadesse","Anna Bethke","Myriam Côté", "Yoshua Bengio" ]
+            "Public Policy Track" :    [ "Natalie Saltiel", "Dhaval Adjodah", "Jonnie Penn"],
+            "General" :   ["Sean McGregor", "Margaux Luck", "Sydney Swaine-Simon", "Geneviève Boucher", "Tristan Sylvain", "Anna Bethke", "Jack Clark", "Girmaw Abebe Tadesse", "Myriam Côté", "Yoshua Bengio"]
         }
     },
 
@@ -138,7 +141,8 @@
               {"id": "aisg_neurips2019_12",  "time": "3:00PM-3:30PM", "speaker_name": ["Jingying Yang"]},
               {"id": "aisg_neurips2019_AF_Break",  "time": "3:30PM-4:15PM", "speaker_name": []},
               {"id": "aisg_neurips2019_13",  "time": "4:15PM-5:00PM", "speaker_name": []},
-              {"id": "aisg_neurips2019_14",  "time": "5:00PM-6:00PM", "speaker_name": ["Prem Natarajan"]},
+              {"id": "aisg_neurips2019_15",  "time": "5:00PM-5:15PM", "speaker_name": ["Micheal Running Wolf"]},
+              {"id": "aisg_neurips2019_14",  "time": "5:15PM-6:00PM", "speaker_name": ["Prem Natarajan", "Rashida Richardson", "Sarah Hamid"]},
               {"id": "aisg_neurips2019_End_Hour",  "time": "6:00PM", "speaker_name": []}
 
             ]
