@@ -89,7 +89,8 @@
             "Thomas Krendl Gilbert": {"img": "img/Thomas_Krendl_Gilbert.jpg",  "affiliation":"UC Berkeley"},
             "Roel Dobbe": {"img": "img/Roel_Dobbe.jpg",  "affiliation":"AI Now Insitute, New York University"},
             "Yonatan Mintz": {"img": "img/Yonatan_Mintz.jpg",  "affiliation":"Georgia Tech"},
-            "Hadi Elzayn": {"img": "img/Hadi_Elzayn.jpg",  "affiliation":"University of Pennsylvania"}
+            "Hadi Elzayn": {"img": "img/Hadi_Elzayn.jpg",  "affiliation":"University of Pennsylvania"},
+            "Yi Sun": {"img": "img/Yi_Sun.jpg",  "affiliation":"MIT"}
 
         },
 
@@ -144,9 +145,10 @@
               {"id": "aisg_neurips2019_10",  "time": "2:00PM-2:20PM", "speaker_name": ["Patrick Lin"]},
               {"id": "aisg_neurips2019_11",  "time": "2:20PM-2:40PM", "speaker_name": ["Nenad Tomasev"]},
               {"id": "aisg_neurips2019_12",  "time": "2:40PM-3:00PM", "speaker_name": ["Jingying Yang"]},
-              {"id": "aisg_neurips2019_17",  "time": "3:00PM-3:10PM", "speaker_name": ["Thomas Krendl Gilbert", "Roel Dobbe", "Yonatan Mintz"]},
-              {"id": "aisg_neurips2019_18",  "time": "3:10PM-3:20PM", "speaker_name": ["Hadi Elzayn"]},
-              {"id": "aisg_neurips2019_13",  "time": "3:10PM-3:30PM", "speaker_name": []},
+              {"id": "aisg_neurips2019_17",  "time": "3:00PM-3:07PM", "speaker_name": ["Thomas Krendl Gilbert", "Roel Dobbe", "Yonatan Mintz"]},
+              {"id": "aisg_neurips2019_18",  "time": "3:07PM-3:14PM", "speaker_name": ["Hadi Elzayn"]},
+              {"id": "aisg_neurips2019_19",  "time": "3:14PM-3:21PM", "speaker_name": ["Yi Sun"]},
+              {"id": "aisg_neurips2019_13",  "time": "3:21PM-3:30PM", "speaker_name": []},
               {"id": "aisg_neurips2019_AF_Break",  "time": "3:30PM-4:15PM", "speaker_name": []},
               {"id": "aisg_neurips2019_16",  "time": "4:15PM-4:25PM", "speaker_name": ["Ben Green"]},
               {"id": "aisg_neurips2019_15",  "time": "4:25PM-4:55PM", "speaker_name": ["Micheal Running Wolf"]},
