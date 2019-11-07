@@ -85,7 +85,11 @@
             "Micheal Running Wolf":  {"img": "img/missing.jpg",  "affiliation":" "},
             "Rashida Richardson": {"img": "img/missing.jpg",  "affiliation":"AI Now"},
             "Sarah Hamid": {"img": "img/missing.jpg",  "affiliation":"Community Organizer"},
-            "Ben Green": {"img": "img/Ben_Green.jpg",  "affiliation":"Harvard"}
+            "Ben Green": {"img": "img/Ben_Green.jpg",  "affiliation":"Harvard"},
+            "Thomas Krendl Gilbert": {"img": "img/Thomas_Krendl_Gilbert.jpg",  "affiliation":"UC Berkeley"},
+            "Roel Dobbe": {"img": "img/Roel_Dobbe.jpg",  "affiliation":"AI Now Insitute, New York University"},
+            "Yonatan Mintz": {"img": "img/Yonatan_Mintz.jpg",  "affiliation":"Georgia Tech"},
+            "Hadi Elzayn": {"img": "img/Hadi_Elzayn.jpg",  "affiliation":"University of Pennsylvania"}
 
         },
 
@@ -140,7 +144,9 @@
               {"id": "aisg_neurips2019_10",  "time": "2:00PM-2:20PM", "speaker_name": ["Patrick Lin"]},
               {"id": "aisg_neurips2019_11",  "time": "2:20PM-2:40PM", "speaker_name": ["Nenad Tomasev"]},
               {"id": "aisg_neurips2019_12",  "time": "2:40PM-3:00PM", "speaker_name": ["Jingying Yang"]},
-              {"id": "aisg_neurips2019_13",  "time": "3:00PM-3:30PM", "speaker_name": []},
+              {"id": "aisg_neurips2019_17",  "time": "3:00PM-3:10PM", "speaker_name": ["Thomas Krendl Gilbert", "Roel Dobbe", "Yonatan Mintz"]},
+              {"id": "aisg_neurips2019_18",  "time": "3:10PM-3:20PM", "speaker_name": ["Hadi Elzayn"]},
+              {"id": "aisg_neurips2019_13",  "time": "3:10PM-3:30PM", "speaker_name": []},
               {"id": "aisg_neurips2019_AF_Break",  "time": "3:30PM-4:15PM", "speaker_name": []},
               {"id": "aisg_neurips2019_16",  "time": "4:15PM-4:25PM", "speaker_name": ["Ben Green"]},
               {"id": "aisg_neurips2019_15",  "time": "4:25PM-4:55PM", "speaker_name": ["Micheal Running Wolf"]},
