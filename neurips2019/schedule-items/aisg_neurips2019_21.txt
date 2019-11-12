@@ -1,0 +1,2 @@
+title: Contributed talk - A Typology of AI Ethics Tools, Methods and Research to Translate Principles into Practices
+abstract: What tools are available to guide the ethically aligned research, development and deployment of intelligence systems? We construct a typology to help practically-minded developers ‘apply ethics’ at each stage of the AI development pipeline, and to signal to researchers where further work is needed.
