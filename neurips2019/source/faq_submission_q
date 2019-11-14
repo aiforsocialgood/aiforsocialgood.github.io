@@ -30,6 +30,12 @@ Yes, if it does not conform to original format it will not be posted online.
 You should update all your information in CMT. We will put online all the papers that are on CMT and conformed to our guidelines online after ${cameraready_date}.
 <br><br>
 
+<b>Poster: where should I post it?</b><br>
+You should send it to the workshop email:
+<a href="mailto:${workshop_mailto}">${workshop_mailto}</a>.
+We will put online all the posters that have been received and conformed to our guidelines online after ${cameraready_date}.
+<br><br>
+
 <b>My paper is accepted for an oral presentation?</b><br>
 Please send the name of the presenter, her/his headshot, and her/his short bio. Each talk is ${workshop_talk_duration} including questions. The size of the screen is ${screen_size}. We need your slides at least 24 h before the start of the workshop and preferably in PDF or Google Slides format. If we do not receive your slides in time we will give the spot to another paper on the waiting list. You are also invited to present a poster. We can also post online a short video link that describes your work (YouTube or Vimeo).
 <br><br>
