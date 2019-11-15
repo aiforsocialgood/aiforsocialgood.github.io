@@ -65,7 +65,7 @@ All submissions must be in PDF format. Submissions are limited to four content p
 <br>
 Four page papers (<a href="${overleaf_template_link}" target='_blank'>Overleaf template</a>)
 <br>
-Poster Size: ${poster_size_inches} or ${poster_size_cm}<br>
+Poster Size: ${poster_size_inches} or ${poster_size_cm} (<a href="${poster_template_link}" target='_blank'>Poster template</a>)<br>
 Poster Paper: ${poster_paper}
 <br><br>
 
