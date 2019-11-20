@@ -1,2 +1,2 @@
-title: Invited talk
+title: Invited Talk Track 2
 abstract: One large-scale multistakeholder effort to implement the values of the Montreal Declaration as well as other AI ethical principles is ABOUT ML, a recently-launched project led by the Partnership on AI to synthesize and advance the existing research by bringing PAI's Partner community and beyond into a public conversation and catalyze building a set of resources that allow more organizations to experiment with pilots. Eventually ABOUT ML aims to surface research-driven best practices and aid with translating those into new industry norms. This talk will be an overview of the work to date and ways to get involved moving forward.
