@@ -1,2 +1,2 @@
-title: Contributed talk - Dilated LSTM with ranked units for Classification of suicide note
-abstract:Presented by Annika Marie Schoene
+title: Contributed Talk Track 1 - Dilated LSTM with ranked units for Classification of suicide note
+abstract: Recent statistics in suicide prevention show that people are increasingly posting their last words online and with the unprecedented availability of textual data from social media platforms researchers have the opportunity to analyse such data. This work focuses on identifying suicide notes from other types of text in a document-level classification task, using a hierarchical recurrent neural network to uncover linguistic patterns in the data.

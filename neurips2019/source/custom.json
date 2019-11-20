@@ -93,7 +93,10 @@
             "Hadi Elzayn": {"img": "img/Hadi_Elzayn.jpg",  "affiliation":"University of Pennsylvania"},
             "Yi Sun": {"img": "img/Yi_Sun.jpg",  "affiliation":"MIT"},
             "Nikesh Bajaj": {"img": "img/Nikesh_Bajaj.png",  "affiliation":"University of East London"},
-            "Libby Kinsey": {"img": "img/Libby_Kinsey.jpeg",  "affiliation":"Digital Catapult"}
+            "Libby Kinsey": {"img": "img/Libby_Kinsey.jpeg",  "affiliation":"Digital Catapult"},
+            "Agnes Schim van der Loeff": {"img": "img/Agnes_Schim_van_der_Loeff.jpg",  "affiliation":"Cervest"},
+            "Annika Marie Schoene": {"img": "img/Annika_Marie_Schoene.jpg",  "affiliation":"University of Hull & IBM Research UK"},
+            "Wolfgang Frühwirt": {"img": "img/WF.jpg",  "affiliation":"University of Oxford"}
 
         },
 
@@ -138,9 +141,9 @@
               {"id": "aisg_neurips2019_3",  "time": "8:25AM-9:45AM", "speaker_name": ["Miguel Luengo-Oroz"]},
               {"id": "aisg_neurips2019_4",  "time": "9:45AM-9:05AM", "speaker_name": ["Thomas G. Dietterich"]},
               {"id": "aisg_neurips2019_5",  "time": "9:05AM-9:10AM", "speaker_name": ["Esther Rolf"]},
-              {"id": "aisg_neurips2019_7",  "time": "9:10AM-9:15AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_7",  "time": "9:10AM-9:15AM", "speaker_name": ["Annika Marie Schoene"]},
               {"id": "aisg_neurips2019_8",  "time": "9:15AM-9:20AM", "speaker_name": ["Xavier Giro-i-Nieto"]},
-              {"id": "aisg_neurips2019_9",  "time": "9:20AM-9:25AM", "speaker_name": []},
+              {"id": "aisg_neurips2019_9",  "time": "9:20AM-9:25AM", "speaker_name": ["Wolfgang Frühwirt"]},
               {"id": "aisg_neurips2019_PS",  "time": "9:25AM-9:45PM", "speaker_name": []},
               {"id": "aisg_neurips2019_Morning_Break",  "time": "9:45AM-10:30AM", "speaker_name": []},
               {"id": "aisg_neurips2019_6",  "time": "10:30AM-11:15AM", "speaker_name": ["Carla P. Gomes", "Miguel Luengo-Oroz", "Thomas G. Dietterich", "Julien Cornebise"]},
@@ -149,12 +152,12 @@
               {"id": "aisg_neurips2019_Lunch",  "time": "12:00PM-2:00PM", "speaker_name": []},
               {"id": "aisg_neurips2019_11",  "time": "2:00PM-2:20PM", "speaker_name": ["Nenad Tomasev"]},
               {"id": "aisg_neurips2019_12",  "time": "2:20PM-2:40PM", "speaker_name": ["Jingying Yang"]},
-              {"id": "aisg_neurips2019_17",  "time": "2:40PM-2:45PM", "speaker_name": ["Thomas Krendl Gilbert", "Roel Dobbe", "Yonatan Mintz"]},
+              {"id": "aisg_neurips2019_17",  "time": "2:40PM-2:45PM", "speaker_name": ["Roel Dobbe", "Thomas Krendl Gilbert", "Yonatan Mintz"]},
               {"id": "aisg_neurips2019_18",  "time": "2:45PM-2:50PM", "speaker_name": ["Hadi Elzayn"]},
               {"id": "aisg_neurips2019_19",  "time": "2:50PM-2:55PM", "speaker_name": ["Yi Sun"]},
               {"id": "aisg_neurips2019_20",  "time": "2:55PM-3:00PM", "speaker_name": ["Nikesh Bajaj"]},
               {"id": "aisg_neurips2019_21",  "time": "3:00PM-3:05PM", "speaker_name": ["Libby Kinsey"]},
-              {"id": "aisg_neurips2019_13",  "time": "3:05PM-3:10PM", "speaker_name": []},
+              {"id": "aisg_neurips2019_13",  "time": "3:05PM-3:10PM", "speaker_name": ["Agnes Schim van der Loeff"]},
               {"id": "aisg_neurips2019_PS",  "time": "3:10AM-3:30PM", "speaker_name": []},
               {"id": "aisg_neurips2019_AF_Break",  "time": "3:30PM-4:15PM", "speaker_name": []},
               {"id": "aisg_neurips2019_16",  "time": "4:15PM-4:20PM", "speaker_name": ["Ben Green"]},
