@@ -1,4 +1,4 @@
 title:Fraud detection in telephone conversations for financial services using linguistic features
-authors:Nikesh Bajaj (University of East London); Tracy Goodluck Constance (University of East London); Marvin Rajwadi (University of East London); Julie Wall (University of East London); Cornelius Glackin (Intelligent Voice Ltd.); Nigel  Cannings (Intelligent Voice Ltd.); Chris Woodruff (Strenuus Ltd.); James Laird (Strenuus Ltd.)
+authors:Nikesh Bajaj (University of East London); Tracy Goodluck Constance (University of East London); Marvin Rajwadi (University of East London); Julie Wall (University of East London); Mansour Moniri (University of East London); Cornelius Glackin (Intelligent Voice Ltd.); Nigel Cannings (Intelligent Voice Ltd.); Chris Woodruff (Strenuus Ltd.); James Laird (Strenuus Ltd.)
 category:poster, oral
 tag:

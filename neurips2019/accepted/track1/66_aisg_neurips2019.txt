@@ -1,4 +1,4 @@
 title:Hate Speech in Pixels:  Automatic Detection of Offensive Memes for Moderation
-authors:Benet Oriol (Universitat Politècnica de Catalunya); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya); Canton Cristian (Facebook Seattle)
+authors:Benet Oriol Sabat (Universitat Politecnica de Catalunya); Cristian Canton Ferrer (Universitat Politecnica de Catalunya); Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)
 category:poster, oral
 tag:
