@@ -1,4 +1,4 @@
 title:Cognitive Assessment Estimation from Behavioral Responses in Emotional Faces Evaluation Task - AI Regression Approach for Dementia Onset Prediction in Aging Societies -
-authors:Tomasz M Rutkowski (RIKEN AIP); Masato Abe (RIKEN AIP); Marcin Koculak (Jagiellonian University); Mihoko Otake (RIKEN AIP)
+authors:Tomasz M. Rutkowski (RIKEN AIP); Masato S. Abe (RIKEN AIP); Marcin Koculak (Jagiellonian University); Mihoko Otake-Matsuura (RIKEN AIP)
 category:poster
 tag:

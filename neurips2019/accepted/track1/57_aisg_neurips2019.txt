@@ -1,4 +1,4 @@
 title:Transfer of Machine Learning Fairness across Domains
-authors:Candice Schumann (University of Maryland); Xuezhi Wang (Google); Alex Beutel (Google); Jilin Chen (Google Brain); Hai Qian (Google); Ed Chi (Google)
+authors:Candice Schumann (University of Maryland); Xuezhi Wang (Google); Alex Beutel (Google); Jilin Chen (Google Brain); Hai Qian (Google); Ed H. Chi (Google)
 category:poster
 tag:

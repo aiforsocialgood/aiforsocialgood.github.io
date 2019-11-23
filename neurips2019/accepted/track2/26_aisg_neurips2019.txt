@@ -1,4 +1,4 @@
 title:A Typology of AI Ethics Tools, Methods and Research to Translate Principles into Practices
-authors:Libby Kinsey (Digital Catapult); Jessica Morley (Oxford Internet Institute); Luciano Floridi (Oxford Internet Institute); Anat Elhalal (Digital Catapult)
+authors:Jessica Morley (Oxford Internet Institute); Luciano Floridi (Oxford Internet Institute); Libby Kinsey (Digital Catapult); Anat Elhalal (Digital Catapult)
 category:poster, oral
 tag:
