@@ -1,4 +1,4 @@
 title:ML and precision public health: Saving mothers and babies from dying in rural India
-authors:Kasey Morris (Surgo Foundation); Vincent Huang (Surgo Foundation); B.M Ramesh (University of Manitoba); Jamie Blanchard (University of Manitoba); Bidyut Sarkar (UP-Technical Support Unit); Hannah Kemp (Surgo Foundation); Mokshada Jain (Surgo Foundation); Sema K Sgaier (Surgo Foundation)
+authors:Kasey Morris (Surgo Foundation); Vincent S. Huang (Surgo Foundation); Mokshada Jain (Surgo Foundation); B.M. Ramesh (University of Manitoba); Hannah Kemp (Surgo Foundation); James Blanchard (University of Manitoba); Shajy Isac (University of Manitoba); Bidyut Sarkar (University of Manitoba); Vikas Gothalwal (University of Manitoba); Vasanthakumar Namasivayam (University of Manitoba); Sema Sgaier (Surgo Foundation)
 category:poster
 tag:
