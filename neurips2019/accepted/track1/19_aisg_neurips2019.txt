@@ -1,4 +1,4 @@
 title:Using News Articles to Model Hepatitis A Outbreaks: A Case Study in California and Kentucky
-authors:Saeyoung Rho (MIT); Marie-Laure Charpignon (MIT); Maria Mironova (Capital Health)
+authors: Marie Charpignon (MIT, Cambridge); Maria Mironova (Capital Health System); Saeyoung Rho (MIT, Cambridge); Maimuna S. Majumder (MIT, Cambridge); Leo A. Celi (MIT, Cambridge)
 category:poster
 tag:

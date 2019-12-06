@@ -1,4 +1,4 @@
 title:Preserving Patient Privacy while Training a Predictive Model of In-hospital Mortality
-authors:Farah E Shamout (University of Oxford); Pulkit Sharma (University of Oxford); David A. Clifton (Nil)
+authors:Pulkit Sharma (University of Oxford); Farah E. Shamout (University of Oxford); David A. Clifton (University of Oxford)
 category:poster
 tag:

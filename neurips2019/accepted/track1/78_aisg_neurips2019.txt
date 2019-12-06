@@ -1,4 +1,4 @@
 title:Towards better healthcare: What could and should be automated?
-authors:Paul Duckworth (University of Oxford); Wolfgang Frühwirt (University of Oxford)
+authors:Wolfgang Frühwirt (University of Oxford); Paul Duckworth (University of Oxford)
 category:poster, oral
 tag:

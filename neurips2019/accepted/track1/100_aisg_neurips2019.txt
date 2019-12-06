@@ -1,4 +1,4 @@
 title:Triadic Closure Alleviates Network Segregation
-authors:Rediet Abebe (Cornell University); Nicole Immorlica (Microsoft Research New England); Jon Kleinberg (Cornell University); Brendan Lucier (Microsoft Research New England)
+authors:Rediet Abebe (Harvard University); Nicole Immorlica (Microsoft Research); Jon Kleinberg (Cornell University); Brendan Lucier (Microsoft Research)
 category:poster
 tag:
