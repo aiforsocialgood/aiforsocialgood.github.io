@@ -1,4 +1,4 @@
-title:Hard Choices in AI Safety
-authors:Roel Dobbe (AI Now Insitute, New York University); Thomas Gilbert (UC Berkeley); Yontan D Mintz (Georgia Tech)
+title:Hard Choices in Artificial Intelligence: Addressing Normative Uncertainty through Sociotechnical Commitments
+authors:Roel Dobbe (AI Now Insitute, New York University); Thomas Krendl Gilbert (UC Berkeley); Yonatan Mintz (Georgia Tech)
 category:poster, oral
 tag:
