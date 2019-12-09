@@ -148,7 +148,7 @@
               {"id": "aisg_neurips2019_9",  "time": "9:30AM-9:35AM", "speaker_name": ["Wolfgang Frühwirt"]},
               {"id": "aisg_neurips2019_PS",  "time": "9:35AM-9:45AM", "speaker_name": []},
               {"id": "aisg_neurips2019_BR_PS",  "time": "9:45AM-10:30AM", "speaker_name": []},
-              {"id": "aisg_neurips2019_panel_track3",  "time": "10:30AM-11:30AM", "speaker_name": ["Dhaval Adjodah", "Prem Natarajan", "Rashida Richardson", "Sarah T. Hamid"]},
+              {"id": "aisg_neurips2019_panel_track3",  "time": "10:30AM-11:30AM", "speaker_name": ["Dhaval Adjodah", "Natalie Saltiel", "Prem Natarajan", "Rashida Richardson", "Sarah T. Hamid"]},
               {"id": "aisg_neurips2019_17",  "time": "11:30AM-11:35AM", "speaker_name": ["Roel Dobbe", "Thomas Krendl Gilbert", "Yonatan Mintz"]},
               {"id": "aisg_neurips2019_18",  "time": "11:35AM-11:40AM", "speaker_name": ["Hadi Elzayn"]},
               {"id": "aisg_neurips2019_19",  "time": "11:40AM-11:45AM", "speaker_name": ["Yi Sun"]},
