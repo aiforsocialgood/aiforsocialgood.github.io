@@ -140,7 +140,7 @@
             "Saturday December 14th" : [
               {"id": "aisg_neurips2019_Yoshua_Bengio",  "time": "8:00AM-8:05AM", "speaker_name": ["Yoshua Bengio"]},
               {"id": "aisg_neurips2019_2",  "time": "8:05AM-8:25AM", "speaker_name": ["Carla P. Gomes"]},
-              {"id": "aisg_neurips2019_3",  "time": "8:25AM-8:45AM", "speaker_name": ["Miguel Luengo-Oroz"]},
+              {"id": "aisg_neurips2019_Miguel_Luengo-Oroz",  "time": "8:25AM-8:45AM", "speaker_name": ["Miguel Luengo-Oroz"]},
               {"id": "aisg_neurips2019_Running_Wolf",  "time": "8:45AM-9:15AM", "speaker_name": ["Micheal Running Wolf", "Caroline Running Wolf"]},
               {"id": "aisg_neurips2019_5",  "time": "9:15AM-9:20AM", "speaker_name": ["Esther Rolf"]},
               {"id": "aisg_neurips2019_7",  "time": "9:20AM-9:25AM", "speaker_name": ["Annika Marie Schoene"]},
