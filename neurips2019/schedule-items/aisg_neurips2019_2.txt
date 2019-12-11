@@ -1,2 +1,2 @@
-title: Invited Talk Track 1
-abstract:
+title: Invited Talk Track 1 - Computational Sustainability: Computing for a Better World and a Sustainable Future
+abstract: Computational sustainability is a new interdisciplinary research field with the overarching goal of developing computational models, methods, and tools to help manage the balance of environmental, economic, and societal needs for a sustainable future. I will provide a short overview of computational sustainability, with examples ranging from wildlife conservation and biodiversity to evaluating the impacts of hydropower dam proliferation in the Amazon basin. Our research leverages the recent artificial intelligence (AI) advances in deep learning, reasoning, and decision making. I will highlight cross-cutting computational themes, how AI enriches sustainability sciences and conversely, how sustainability questions enrich AI and computer science.
