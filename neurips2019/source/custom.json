@@ -14,7 +14,7 @@
 
   "year" : "2019",
   "workshop_date": "Sat Dec 14th, 2019" ,
-  "workshop_room": "Room TBD",
+  "workshop_room": "East Meeting Rooms 11 + 12",
   "workshop_from": "8:00 AM",
   "workshop_until": "6:00 PM",
   "workshop_day_litteral" : "14th",
@@ -30,7 +30,7 @@
 
   },
 
-  "workshop_talk_duration" : "TBD minutes",
+  "workshop_talk_duration" : "3-4 minutes",
   "github_link" : "https://aiforsocialgood.github.io/neurips2019",
 
   "submission_open_date" : "TBD",
@@ -46,7 +46,7 @@
   "proposal_template_link" : "",
   "proposal_ps_form": "",
   "poster_template_link": "https://www.dropbox.com/s/ijev63blti0mozw/AI4SocialGoodPosterTemplate_2019.pptx?dl=0",
-  "screen_size" : "TBD",
+  "screen_size" : "16:9 HDMI",
   "poster_size_inches" : "36W x 48H inches",
   "poster_size_cm" : "90 x 122 cm",
   "poster_paper" : " light weight paper - not laminated",
