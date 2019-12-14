@@ -1,6 +1,8 @@
       <div class="blog-header">
         <h1 class="blog-title">Schedule <br>
-          <small>${workshop_date_with_day}
+          <small>${workshop_date_with_day} <br>
+
+          <a href="https://slideslive.com/neurips/neurips-2019-east-meeting-room-11-12-live"> Unable to make the AI Social for Good Workshop @ NeuRIPS ? <br> you can always watch it online. </a>
 
           %if schedule_video_link:
             <a href="${schedule_video_link}"> See the videos here </a>
@@ -27,7 +29,7 @@
     finput = open('{}/{}.txt'.format(schedule_items_dir, filename))
     lines = finput.readlines()
     infos = dict([(l.strip().split(':')[0], ':'.join(l.strip().split(':')[1:])) for l in lines])
-    
+
     %>
 
     <div class="schedule-item row">
@@ -37,13 +39,13 @@
         ${infos.get('abstract', '')}
    </p>
 
- % for speaker in talk['speaker_name'] :   
-   
-  
+ % for speaker in talk['speaker_name'] :
+
+
     <div class="speaker row">
     % if speaker != "Coming soon":
        <div class="col-xs-3 person">
-        
+
            <center><img class="img-circle hvr-buzz"
            src="${people[speaker]['img']}"></center>
            <h4 class="speaker-name">${speaker}</h4>
@@ -53,10 +55,10 @@
       <p class="speaker-bio">
         <%include file="${speaker.replace(' ', '_')}.bio.html"/>
       </p>
-   
+
     % endif
     </div>
-    
+
   % endfor
 </div>
 
