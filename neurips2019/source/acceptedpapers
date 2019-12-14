@@ -46,6 +46,7 @@
             <br>
                 <a target="_blank" href="${p['poster']}"><img src="img/poster.png" height="30" /></a>
             %endif
+
         </td>
 
 
@@ -56,9 +57,9 @@
                <span class="label label-warning"> ${t}</span>
           %endfor
         % endif
-       
 
-        <br>${p.get("title", "")} 
+
+        <br>${p.get("title", "")}
 
         <!-- tag -->
 
