@@ -135,6 +135,7 @@
 
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Saturday December 14th"],
+        "schedule_video_link": "https://slideslive.com/neurips/neurips-2019-east-meeting-room-11-12-live",
 
         "talks" :{
             "Saturday December 14th" : [

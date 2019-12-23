@@ -2,8 +2,6 @@
         <h1 class="blog-title">Schedule <br>
           <small>${workshop_date_with_day} <br>
 
-          <a href="https://slideslive.com/neurips/neurips-2019-east-meeting-room-11-12-live"> Unable to make the AI Social for Good Workshop @ NeuRIPS ? <br> you can always watch it online. </a>
-
           %if schedule_video_link:
             <a href="${schedule_video_link}"> See the videos here </a>
           %endif
