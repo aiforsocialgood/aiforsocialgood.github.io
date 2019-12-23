@@ -1,4 +1,0 @@
-title:Improving automated in-field cassava disease diagnosis with semantic segmentation
-authors:Daniel Ssendiwala (AI and Data Science research Lab - Makerere University); Gloria Namanya (Artificial Intelligence and Data Science Research, Makerere University); Benjamin Akera (Makerere University)
-category:poster
-tag:
