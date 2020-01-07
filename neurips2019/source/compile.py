@@ -108,7 +108,13 @@ for page_name in pages:
                 attributes["posters_pdf_link"]
             )
             attributes["track"] = page_name.split('_')[-1]
-
+        
+        # Retrieve list of reviewers name if it exists
+        attributes['reviewers'] = []
+        #if 'organizers' in page_name and os.path.exists('organizers_reviewers.txt'):
+        #    reviewers = open('organizers_reviewers.txt').readlines()
+        #    attributes['reviewers'] = [l.strip() for l in reviewers]
+        
         # Generating the different .htm files
         s = page.render(**attributes)
         outfile = open('../%s.htm' % page_name, "w")
@@ -120,6 +126,8 @@ for page_name in pages:
             outfile = open('../index.htm', "w")
             outfile.write(str(s))
             outfile.close()
+
+        
 
     except Exception as e:
         print('Error')
