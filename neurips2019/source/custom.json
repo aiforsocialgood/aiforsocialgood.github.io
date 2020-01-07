@@ -129,9 +129,9 @@
             "Public Policy Track" :    [ "Natalie Saltiel", "Dhaval Adjodah", "Jonnie Penn"],
             "General" :   ["Sean McGregor", "Margaux Luck", "Sydney Swaine-Simon", "Geneviève Boucher", "Tristan Sylvain", "Anna Bethke", "Jack Clark", "Girmaw Abebe Tadesse", "Myriam Côté", "Yoshua Bengio"]
         }
-    },
+      },
 
- "schedule" : {
+"schedule" : {
 
         "schedule_items_dir" : "../schedule-items",
         "schedule_date" : ["Saturday December 14th"],

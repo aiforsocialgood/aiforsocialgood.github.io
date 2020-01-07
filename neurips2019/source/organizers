@@ -59,10 +59,28 @@
 
 		</script>
 
+		<h3>Area Chairs</h3>
+		<h4> Producing Good Track </h4>
+		<%include file="organizers_areachairs_track1"/>
+		<br><br>
+		<h3>We thank our Reviewers</h3>
+		<%  ncol = 3 %>
+		% if len(reviewers)==0 :
+			<%include file="organizers_reviewers"/>
+		% else :
+			<div style='display:table'>
+			<div style='display:table-row'>
+			% for i,r in enumerate(reviewers) : 
+				
+				% if i % ncol == 0 and i != 0: 
+					</div>
+					<div style='display:table-row'>
+				% endif
+				<div class='tb-cell' style='display:table-cell'>${r}</div>
+			% endfor  
+			</div></div>
+		% endif
 
-		<h3>We thank our reviewers</h3>
-
-		<%include file="organizers_reviewers"/>
 
  		</p>
  		</div><!-- /.blog-post -->
