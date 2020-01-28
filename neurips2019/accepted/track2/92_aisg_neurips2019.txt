@@ -1,4 +1,4 @@
 title:Hard Choices in Artificial Intelligence: Addressing Normative Uncertainty through Sociotechnical Commitments
-authors:Roel Dobbe (AI Now Insitute, New York University); Thomas Krendl Gilbert (UC Berkeley); Yonatan Mintz (Georgia Tech)
+authors:Roel Dobbe (AI Now Institute, New York University); Thomas Krendl Gilbert (UC Berkeley); Yonatan Mintz (Georgia Tech)
 category:poster, oral
-tag:
+tag:Best Poster
